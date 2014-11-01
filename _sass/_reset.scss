@@ -72,6 +72,22 @@ section header{
   margin-bottom: 25px;
 }
 
+article ul,
+article ol{
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+
+article ul li{
+  list-style: disc;
+  margin-bottom: 3px;
+}
+
+article ol li{
+  margin-bottom: 3px;
+  list-style: decimal;
+}
+
 /* ==================================================
 
 Links

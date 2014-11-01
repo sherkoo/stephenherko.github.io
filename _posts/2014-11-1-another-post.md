@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Blogging With Jekyll"
+title:  "another post"
 date:   2014-11-01 11:35:16
 categories:
 description: "this is a description"
-thumbnail: blog
+thumbnail:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -31,6 +31,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 1. list item
 1. list item
 1. list item
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
