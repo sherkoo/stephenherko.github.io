@@ -1,0 +1,30 @@
+#main-header{
+  line-height: 65px;
+  height: 65px;
+  padding: 0 25px;
+  margin-bottom: 35px;
+  border-bottom: 1px solid #e6e6e6;
+  position: fixed;
+  width: 100%;
+  background: #fff;
+  z-index: 2;
+  top: 0;
+
+  #logo{
+    float: left;
+    width: 65px;
+    height: 65px;
+    line-height: 65px;
+    background: url('/img/sherko-logo3.svg') no-repeat;
+    text-indent: -9999px;
+  }
+}
+
+#main-nav{
+  float: right;
+
+  li{
+    float: left;
+    margin-left: 20px
+  }
+}

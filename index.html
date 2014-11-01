@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<main role="main" class="container">
+  <!-- section -->
+  <section>
+    {% for post in site.posts %}
+    <!-- article -->
+    <article>
+      {% if post.thumbnail %}
+        <img src="">
+      {% else %}
+        <img src="/img/albumart.jpg" alt="{{ post.title }}">
+      {% endif %}
+
+      <header>
+        <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      </header>
+    </article>
+    <!-- /article -->
+    {% endfor %}
+  </section>
+  <!-- /section -->
+</main>
