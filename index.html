@@ -15,7 +15,7 @@ layout: default
       {% endif %}
 
       <header>
-        <time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        <time datetime="{{ post.date | date: "%F %H:%M:%S" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
         <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       </header>
     </article>
