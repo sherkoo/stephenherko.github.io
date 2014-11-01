@@ -195,7 +195,6 @@ Forms
 #main-header {
   line-height: 65px;
   height: 65px;
-  padding: 0 25px;
   margin-bottom: 35px;
   border-bottom: 1px solid #e6e6e6;
   position: fixed;
@@ -203,6 +202,8 @@ Forms
   background: #fff;
   z-index: 2;
   top: 0; }
+  #main-header #main-nav {
+    padding-right: 25px; }
   #main-header #logo {
     float: left;
     width: 65px;

@@ -1,7 +1,7 @@
 #main-header{
   line-height: 65px;
   height: 65px;
-  padding: 0 25px;
+  // padding: 0 25px;
   margin-bottom: 35px;
   border-bottom: 1px solid #e6e6e6;
   position: fixed;
@@ -9,6 +9,10 @@
   background: #fff;
   z-index: 2;
   top: 0;
+
+  #main-nav{
+    padding-right: 25px;
+  }
 
   #logo{
     float: left;
