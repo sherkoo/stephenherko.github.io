@@ -1,7 +1,7 @@
 <!-- main-header -->
 <header id="main-header" class="clearfix" role="banner">
 
-  <a href="{{ site.baseurl }}/"><div id="logo">{{ site.title }} {{ site.tagline }}</div></a>
+  <a title="{{ site.title }} {{ site.tagline }}" href="{{ site.baseurl }}/"><div id="logo">{{ site.title }} {{ site.tagline }}</div></a>
 
   <!-- navigation -->
   <nav id="main-nav" role="navigation">
@@ -11,7 +11,7 @@
         <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
       {% endif %}
     {% endfor %}
-        <li>subscribe <a href="{{ "/feed.xml" | lirepend: site.baseurl }}">via RSS</a></p>
+        <li>subscribe <a href="{{ "/feed.xml" | lirepend: site.baseurl }}">RSS</a></li>
     </ul>
   </nav>
   <!-- /navigation -->
