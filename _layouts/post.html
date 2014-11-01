@@ -6,15 +6,15 @@ layout: default
 <main role="main" class="container">
   <!-- section -->
   <section>
-    <!-- header -->
-    <header>
-      <time datetime="{{ page.date | date: "%F %H:%M:%S" }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
-      <h1>{{ page.title }}</h1>
-      <div class="divider"></div>
-    </header>
-    <!-- header -->
     <!-- article -->
     <article>
+      <!-- header -->
+      <header>
+        <time datetime="{{ page.date | date: "%F %H:%M:%S" }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+        <h1>{{ page.title }}</h1>
+        <div class="divider"></div>
+      </header>
+      <!-- header -->
       {{ content }}
     </article>
     <!-- /article -->
