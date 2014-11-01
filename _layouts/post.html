@@ -2,22 +2,24 @@
 layout: default
 ---
 
+<!-- main -->
 <main role="main" class="container">
   <!-- section -->
   <section>
     <!-- header -->
     <header>
-      <time datetime="{{ page.date }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+      <time datetime="{{ page.date | date: "%F %H:%M:%S %z" }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
       <h1>{{ page.title }}</h1>
       <div class="divider"></div>
     </header>
     <!-- header -->
-
+    <!-- article -->
     <article>
       {{ content }}
     </article>
-
+    <!-- /article -->
     {% if page.categories %}{{ page.categories }}{% endif %}
   </section>
   <!-- /section -->
 </main>
+<!-- /main -->
