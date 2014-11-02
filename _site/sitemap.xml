@@ -2,18 +2,9 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://stephenherko.com/blogging-with-jekyll</loc>
+      <loc>http://stephenherko.com/jekyll-vs-wordpress-2014</loc>
       
-        <lastmod>2014-11-01T06:35:16-05:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://stephenherko.com/another-post</loc>
-      
-        <lastmod>2014-11-01T06:35:16-05:00</lastmod>
+        <lastmod>2014-11-02T04:15:16-06:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>

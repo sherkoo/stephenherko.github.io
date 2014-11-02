@@ -76,6 +76,11 @@ article ol li {
   margin-bottom: 3px;
   list-style: decimal; }
 
+article h3 {
+  font-size: 2em;
+  font-weight: 300;
+  letter-spacing: 0.5px; }
+
 /* ==================================================
 
 Links
@@ -158,6 +163,9 @@ h1 {
 h2 {
   line-height: 1em;
   font-size: 4em; }
+
+h3 {
+  line-height: 1em; }
 
 small, sub, sup, em {
   font-size: 0.8em; }
