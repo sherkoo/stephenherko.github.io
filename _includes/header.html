@@ -6,12 +6,9 @@
   <!-- navigation -->
   <nav id="main-nav" role="navigation">
     <ul>
-    {% for page in site.pages %}
-      {% if page.title %}
-        <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-        <li><a href="{{ "/feed.xml" | lirepend: site.baseurl }}">RSS</a></li>
+      <li><a href="{{ site.baseurl }}/about/">About</a></li>
+      <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+      <li><a href="{{ "/feed.xml" | lirepend: site.baseurl }}">RSS</a></li>
     </ul>
   </nav>
   <!-- /navigation -->
