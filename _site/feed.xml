@@ -5,9 +5,58 @@
     <description>I&#39;m interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://stephenherko.com/</link>
     <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 02 Nov 2014 15:13:51 -0600</pubDate>
-    <lastBuildDate>Sun, 02 Nov 2014 15:13:51 -0600</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Sun, 09 Nov 2014 15:45:02 -0600</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2014 15:45:02 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>Yosemite UI Review</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/yosemite-osx.png&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yosemite was released Oct 16 which is currently the newest OS for Mac. It can be downloaded from the Apple app store for a free upgrade. It took a pretty big turn in it’s UI. Overall it’s more simple and straightforward.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-overall-branding&quot;&gt;The Overall Branding&lt;/h2&gt;
+&lt;p&gt;Personally I love the branding names Apple uses to describe their new updates. I.e snow lion, Mavericks, Yosemite. It beats just calling it 10.7. It also makes the user excited for the next one, like they’re getting more value. Overall I’d say this new design approach is aimed more towards simplifying things. This seems to be the case with design (especially UI design) in general the last 3 or so years. Design is getting back to it’s roots of simple, bold ideas. I think thats a great thing.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-reaction&quot;&gt;First Reaction&lt;/h2&gt;
+&lt;p&gt;When I first saw Yosemite, I thought “It doesn’t even feel like Apple anymore.”. UI design in this case represents a pretty large part of your branding. Why look like someone else when you already have a lot going for you? However, after spending some time with it, I’ve grown to quite like it. I like the direction they’re going in.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-icons&quot;&gt;The Icons&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/safari-yosemite-icon.png&quot; alt=&quot;Yosemite Safari Icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some of the icons changed quite a bit. At this point, those icons were mini logos, so I’m curious if that was a debate at some point. A lot of the gloss is taken out of the icons. Reinforcing that flat, graphic look UI seems to be going in for the past couple years.&lt;/p&gt;
+
+&lt;p&gt;Overall I think they did a good job. You’ll notice quite a difference between the safari icons. Comparing them side by side, the newer I’m glad to see more continuity.&lt;/p&gt;
+
+&lt;p&gt;One thing I wasn’t a fan of was the close, minimize, and maximize buttons. Since the gloss look has been completely removed from them, they “really” look like traffic lights now. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/close.png&quot; alt=&quot;Yosemite Finder Icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The classic “Apple blue” is now brighter. I think this was a good decision. Brighter looks happier. Why wouldn’t you want your users enjoying their experience. The finder icon in particular looks even more smiley. Every time I see it, I smiled. The bold line in the middle has been removed separating the two faces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/yosemite-finder-icon.png&quot; alt=&quot;Yosemite Finder Icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;frosted-windows&quot;&gt;Frosted Windows&lt;/h2&gt;
+&lt;p&gt;Things like logging in, the dock, parts of any window make use of this frosted effect. I really liked the spotlight search in particular.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/spotlight.png&quot; alt=&quot;Yosemite Spotlight Search&quot; /&gt; &lt;/p&gt;
+
+&lt;h2 id=&quot;lucida-grande-to-helvetica&quot;&gt;Lucida Grande to Helvetica&lt;/h2&gt;
+&lt;p&gt;I’ll admit Helvetica is my favorite font. (I’m a designer I have to say that) I actually feel like Helvetica is a bit “crisper” vs Lucida Grande. However, it’s a little thinner. So I think there’s pros and cons for readability sake. From a branding point of view, Helvetica definitely gives off that “modern” vibe for being such an old typeface.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/lucida-grande.png&quot; alt=&quot;Lucida Grand Yosemite OSX&quot; /&gt;
+&lt;img src=&quot;/img/helvetica-neue.png&quot; alt=&quot;Helvetica Neue Yosemite OSX&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;My very first reaction to the Yosemite UI was that I got an overwhelming sense that it’s been dumbed down. I thought was this a good thing, or does it come off too childish instead of the sophisticated apple UI thats been in the past? It was a bit of a shock at first, but after using it for a couple days, I really like it. I think the design team did a great job.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Nov 2014 09:44:10 -0600</pubDate>
+        <link>http://stephenherko.com/yosemite-ui-review</link>
+        <guid isPermaLink="true">http://stephenherko.com/yosemite-ui-review</guid>
+        
+        
+      </item>
     
       <item>
         <title>Jekyll vs Wordpress 2014</title>
