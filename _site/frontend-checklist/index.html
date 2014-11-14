@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="robots" content="index, follow">
+  <meta name="dcterms.rightsHolder" content="Copyright Stephen Herko. All Rights Reserved.">
+  <meta name="description" content="A friendly frontend checklist for developers. Tips for CSS, Javascript, Gulp, SEO, Images, HTML, Load times.">
+
+  <!-- Title -->
+  <title>Frontend Checklist - Stephen Herko</title>
+
+  <!-- Prefetch -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+
+  <!-- Author -->
+  <link rel="author" href="https://plus.google.com/110424801622068807906/posts">
+  <meta name="google-site-verification" content="dQCNooJWsn6sN-03uupHcOoMJUTeZ7l5XPJItObHxYE" />
+
+  <!-- Sitemap -->
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+
+  <!-- Style -->
+  <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Canonical -->
+  <link rel="canonical" href="http://stephenherko.com/frontend-checklist">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="shortcut icon" href="/img/favicon.png">
+</head>
+<body>
+
+<!-- main-header -->
+<header id="main-header" class="clearfix" role="banner">
+
+  <a title="Stephen Herko Creative Director" href="/"><div id="logo">Stephen Herko Creative Director</div></a>
+
+  <!-- navigation -->
+  <nav id="main-nav" role="navigation">
+    <ul>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/contact/">Contact</a></li>
+      <li><a href="/feed.xml">RSS</a></li>
+    </ul>
+  </nav>
+  <!-- /navigation -->
+
+</header>
+<!-- /main-header -->
+
+<!-- main -->
+<main role="main" class="container">
+  <!-- section -->
+  <section>
+    <!-- article -->
+    <article>
+      <!-- header -->
+      <header>
+        <!-- 
+        <a href=""><img src="/img/default.png" alt=""></a>
+         -->
+        <time datetime="2014-11-14 11:22:20">Nov 14, 2014</time>
+        <h1>Frontend Checklist</h1>
+        <div class="divider"></div>
+      </header>
+      <!-- header -->
+      <p>I’ve put together a frontend checklist before you deploy your site. Or can be used as a friendly reminder. The list can be downloaded here: 
+<a href="https://github.com/stephenherko/frontend-checklist">https://github.com/stephenherko/frontend-checklist</a></p>
+
+<h2 id="css">CSS</h2>
+<ol>
+  <li><input type="checkbox" /> CSS is linked first</li>
+  <li><input type="checkbox" /> CSS served concatenated</li>
+  <li><input type="checkbox" /> CSS is minified</li>
+  <li><input type="checkbox" /> Consider SASS instead of CSS</li>
+  <li><input type="checkbox" /> Make sure each CSS file has a comment and title at top</li>
+  <li><input type="checkbox" /> Never style ID’s</li>
+  <li><input type="checkbox" /> Follow Structure
+    <ul>
+      <li>screen.scss (Contains all @include’s)</li>
+      <li>vendor/ (CSS related to javascript)</li>
+      <li>modules/ (mixins, variables and utilities (such as icons))</li>
+      <li>patterns/ (global styles, buttons, and forms)</li>
+      <li>components/ (groups of patterns with small bits of layout)</li>
+      <li>layouts/ (page layouts go and any page-specific changes to patterns and components)</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="javascript">Javascript</h2>
+<ol>
+  <li><input type="checkbox" /> Javascript at bottom of page</li>
+  <li><input type="checkbox" /> Javascript served concatenated</li>
+  <li><input type="checkbox" /> Google API used when possible</li>
+  <li><input type="checkbox" /> Javascript is minified</li>
+  <li><input type="checkbox" /> Add Modernizr.js</li>
+  <li><input type="checkbox" /> Make sure each JS file has a comment and title at top</li>
+</ol>
+
+<h2 id="gulpjs">Gulp.js</h2>
+<ol>
+  <li><input type="checkbox" /> Use Gulp</li>
+  <li><input type="checkbox" /> Clone gulpfile.js <a href="https://github.com/stephenherko/gulpfile.js" target="blank">https://github.com/stephenherko/gulpfile.js</a></li>
+  <li><input type="checkbox" /> CLI: npm init</li>
+  <li><input type="checkbox" /> CLI: npm install –save-dev gulp-(node module specific name)</li>
+</ol>
+
+<h2 id="head">Head</h2>
+<ol>
+  <li><input type="checkbox" /> Charset declared</li>
+  <li><input type="checkbox" /> Expires headers are used advantageously</li>
+  <li><input type="checkbox" /> Title tag is used - No more than 65 characters</li>
+  <li><input type="checkbox" /> Meta description - No more than 150 characters</li>
+  <li><input type="checkbox" /> Favicon</li>
+  <li><input type="checkbox" /> Link to sitemap &lt; link rel=”sitemap” type=”application/xml” title=”Sitemap” href=”/sitemap.xml” /&gt;”</li>
+</ol>
+
+<h2 id="load-times">Load Times</h2>
+<ol>
+  <li><input type="checkbox" /> Single pages are less than 500k</li>
+  <li><input type="checkbox" /> Run through Google page speed <a href="https://developers.google.com/speed/pagespeed/" target="blank">https://developers.google.com/speed/pagespeed/</a></li>
+</ol>
+
+<h2 id="images">Images</h2>
+<ol>
+  <li><input type="checkbox" /> Images have height and width set</li>
+  <li><input type="checkbox" /> Images used sparingly</li>
+  <li><input type="checkbox" /> PNG’s instead of GIF’s</li>
+  <li><input type="checkbox" /> All images have alt tags</li>
+  <li><input type="checkbox" /> Minimize all images</li>
+</ol>
+
+<h2 id="html">HTML</h2>
+<ol>
+  <li><input type="checkbox" /> ID’s are unique to a page</li>
+  <li><input type="checkbox" /> HTML5 semanticly used (header, nav, main, section, article, aside, footer)</li>
+  <li><input type="checkbox" /> Properly used H1-H6 tags</li>
+  <li><input type="checkbox" /> No broken Links</li>
+  <li><input type="checkbox" /> Validate with W3C <a href="http://validator.w3.org/" target="blank">http://validator.w3.org/</a></li>
+  <li><input type="checkbox" /> Responsive if applicable</li>
+  <li><input type="checkbox" /> &lt; header &gt; has role=”banner”</li>
+  <li><input type="checkbox" /> &lt; nav &gt; has role=”navigation”</li>
+  <li><input type="checkbox" /> &lt; main &gt; has role=”main”</li>
+  <li><input type="checkbox" /> 404 error page included</li>
+  <li><input type="checkbox" /> Clean up commented code/unnecessary code</li>
+  <li><input type="checkbox" /> Make sure to follow secton/article HTML5 standards <a href="https://github.com/stephenherko/html5blank/blob/master/index.html">https://github.com/stephenherko/html5blank/blob/master/index.html</a></li>
+</ol>
+
+<h2 id="seo-on-site">SEO (On-Site)</h2>
+<ol>
+  <li><input type="checkbox" /> Friendly URL’s</li>
+  <li><input type="checkbox" /> Sitemap.xml - Submit to Google</li>
+  <li><input type="checkbox" /> Help pagination with rel=”next” and rel=”prev” tag</li>
+  <li><input type="checkbox" /> Make sure robots can access page</li>
+  <li><input type="checkbox" /> Use 301 instead of 302 when possible</li>
+  <li><input type="checkbox" /> Responsive sites are better for SEO</li>
+  <li><input type="checkbox" /> Use rel=”canonical” for duplicate content</li>
+  <li><input type="checkbox" /> HTML sitemap</li>
+  <li><input type="checkbox" /> Sign up for Google pages <a href="https://plus.google.com/dashboard" target="blank">plus.google.com/dashboard</a></li>
+  <li><input type="checkbox" /> Make use of rich snippets <a href="http://schema.org" target="blank">www.schema.org</a></li>
+</ol>
+
+<h2 id="seo-on-page">SEO (On-Page)</h2>
+<ol>
+  <li><input type="checkbox" /> Use hyphens to split urls</li>
+  <li><input type="checkbox" /> Single keyword per page</li>
+  <li><input type="checkbox" /> Keyword in URL</li>
+  <li><input type="checkbox" /> Keyword in title</li>
+  <li><input type="checkbox" /> Keyword in heading</li>
+  <li><input type="checkbox" /> Keyword in content</li>
+</ol>
+
+<h2 id="seo-off-page">SEO (Off-Page)</h2>
+<ol>
+  <li><input type="checkbox" /> Google analytics <a href="http://www.google.com/analytics" target="blank">http://www.google.com/analytics</a></li>
+  <li><input type="checkbox" /> Google webmaster <a href="http://www.google.com/webmasters" target="blank">http://www.google.com/webmasters</a></li>
+  <li><input type="checkbox" /> Google Business <a href="http://www.google.com/business/" target="blank">http://www.google.com/business/</a></li>
+  <li><input type="checkbox" /> Google Plus Page <a href="https://plus.google.com/" target="blank">https://plus.google.com//</a></li>
+  <li><input type="checkbox" /> Add label and URL to Google plus page about contributor to section</li>
+  <li><input type="checkbox" /> <a href="http://www.google.com/webmasters/tools/richsnippets" target="blank">http://www.google.com/webmasters/tools/richsnippets</a></li>
+  <li><input type="checkbox" /> Twitter Page <a href="https:/twitter.com/" target="blank">https://twitter.com//</a></li>
+  <li><input type="checkbox" /> Facebook Page <a href="https:/facebook.com/" target="blank">https://facebook.com//</a></li>
+  <li><input type="checkbox" /> Pinterest Page <a href="https:/pinterest.com/" target="blank">https://pinterest.com//</a></li>
+</ol>
+
+<h2 id="wordpress">Wordpress</h2>
+<ol>
+  <li><input type="checkbox" /> Yoast SEO plugin</li>
+  <li><input type="checkbox" /> W3 Total Cache plugin</li>
+</ol>
+
+    </article>
+    <!-- /article -->
+    
+    <footer>
+       <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'stephenherko'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </footer>
+  </section>
+  <!-- /section -->
+</main>
+<!-- /main -->
+
+  <!-- footer -->
+  <footer>
+  </footer>
+  <!-- /footer -->
+
+  <!-- Scripts -->
+  <script src="/js/modernizr.min.js"></script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-18902143-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+</body>
+</html>

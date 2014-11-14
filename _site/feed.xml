@@ -5,9 +5,143 @@
     <description>I&#39;m interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://stephenherko.com/</link>
     <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Nov 2014 19:24:27 -0600</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2014 19:24:27 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.1</generator>
+    <pubDate>Fri, 14 Nov 2014 17:46:51 -0600</pubDate>
+    <lastBuildDate>Fri, 14 Nov 2014 17:46:51 -0600</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Frontend Checklist</title>
+        <description>&lt;p&gt;I’ve put together a frontend checklist before you deploy your site. Or can be used as a friendly reminder. The list can be downloaded here: 
+&lt;a href=&quot;https://github.com/stephenherko/frontend-checklist&quot;&gt;https://github.com/stephenherko/frontend-checklist&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;css&quot;&gt;CSS&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CSS is linked first&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CSS served concatenated&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CSS is minified&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Consider SASS instead of CSS&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make sure each CSS file has a comment and title at top&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Never style ID’s&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Follow Structure
+    &lt;ul&gt;
+      &lt;li&gt;screen.scss (Contains all @include’s)&lt;/li&gt;
+      &lt;li&gt;vendor/ (CSS related to javascript)&lt;/li&gt;
+      &lt;li&gt;modules/ (mixins, variables and utilities (such as icons))&lt;/li&gt;
+      &lt;li&gt;patterns/ (global styles, buttons, and forms)&lt;/li&gt;
+      &lt;li&gt;components/ (groups of patterns with small bits of layout)&lt;/li&gt;
+      &lt;li&gt;layouts/ (page layouts go and any page-specific changes to patterns and components)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;javascript&quot;&gt;Javascript&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Javascript at bottom of page&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Javascript served concatenated&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google API used when possible&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Javascript is minified&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Add Modernizr.js&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make sure each JS file has a comment and title at top&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;gulpjs&quot;&gt;Gulp.js&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Use Gulp&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Clone gulpfile.js &lt;a href=&quot;https://github.com/stephenherko/gulpfile.js&quot; target=&quot;blank&quot;&gt;https://github.com/stephenherko/gulpfile.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CLI: npm init&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CLI: npm install –save-dev gulp-(node module specific name)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;head&quot;&gt;Head&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Charset declared&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Expires headers are used advantageously&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Title tag is used - No more than 65 characters&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Meta description - No more than 150 characters&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Favicon&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Link to sitemap &amp;lt; link rel=”sitemap” type=”application/xml” title=”Sitemap” href=”/sitemap.xml” /&amp;gt;”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;load-times&quot;&gt;Load Times&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Single pages are less than 500k&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Run through Google page speed &lt;a href=&quot;https://developers.google.com/speed/pagespeed/&quot; target=&quot;blank&quot;&gt;https://developers.google.com/speed/pagespeed/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Images have height and width set&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Images used sparingly&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; PNG’s instead of GIF’s&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; All images have alt tags&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Minimize all images&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;html&quot;&gt;HTML&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; ID’s are unique to a page&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; HTML5 semanticly used (header, nav, main, section, article, aside, footer)&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Properly used H1-H6 tags&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; No broken Links&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Validate with W3C &lt;a href=&quot;http://validator.w3.org/&quot; target=&quot;blank&quot;&gt;http://validator.w3.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Responsive if applicable&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; &amp;lt; header &amp;gt; has role=”banner”&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; &amp;lt; nav &amp;gt; has role=”navigation”&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; &amp;lt; main &amp;gt; has role=”main”&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; 404 error page included&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Clean up commented code/unnecessary code&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make sure to follow secton/article HTML5 standards &lt;a href=&quot;https://github.com/stephenherko/html5blank/blob/master/index.html&quot;&gt;https://github.com/stephenherko/html5blank/blob/master/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;seo-on-site&quot;&gt;SEO (On-Site)&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Friendly URL’s&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Sitemap.xml - Submit to Google&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Help pagination with rel=”next” and rel=”prev” tag&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make sure robots can access page&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Use 301 instead of 302 when possible&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Responsive sites are better for SEO&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Use rel=”canonical” for duplicate content&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; HTML sitemap&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Sign up for Google pages &lt;a href=&quot;https://plus.google.com/dashboard&quot; target=&quot;blank&quot;&gt;plus.google.com/dashboard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make use of rich snippets &lt;a href=&quot;http://schema.org&quot; target=&quot;blank&quot;&gt;www.schema.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;seo-on-page&quot;&gt;SEO (On-Page)&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Use hyphens to split urls&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Single keyword per page&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Keyword in URL&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Keyword in title&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Keyword in heading&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Keyword in content&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;seo-off-page&quot;&gt;SEO (Off-Page)&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google analytics &lt;a href=&quot;http://www.google.com/analytics&quot; target=&quot;blank&quot;&gt;http://www.google.com/analytics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google webmaster &lt;a href=&quot;http://www.google.com/webmasters&quot; target=&quot;blank&quot;&gt;http://www.google.com/webmasters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google Business &lt;a href=&quot;http://www.google.com/business/&quot; target=&quot;blank&quot;&gt;http://www.google.com/business/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google Plus Page &lt;a href=&quot;https://plus.google.com/&quot; target=&quot;blank&quot;&gt;https://plus.google.com//&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Add label and URL to Google plus page about contributor to section&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; &lt;a href=&quot;http://www.google.com/webmasters/tools/richsnippets&quot; target=&quot;blank&quot;&gt;http://www.google.com/webmasters/tools/richsnippets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Twitter Page &lt;a href=&quot;https:/twitter.com/&quot; target=&quot;blank&quot;&gt;https://twitter.com//&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Facebook Page &lt;a href=&quot;https:/facebook.com/&quot; target=&quot;blank&quot;&gt;https://facebook.com//&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Pinterest Page &lt;a href=&quot;https:/pinterest.com/&quot; target=&quot;blank&quot;&gt;https://pinterest.com//&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;wordpress&quot;&gt;Wordpress&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Yoast SEO plugin&lt;/li&gt;
+  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; W3 Total Cache plugin&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Fri, 14 Nov 2014 11:22:20 -0600</pubDate>
+        <link>http://stephenherko.com/frontend-checklist</link>
+        <guid isPermaLink="true">http://stephenherko.com/frontend-checklist</guid>
+        
+        
+      </item>
     
       <item>
         <title>Yosemite UI Review</title>
