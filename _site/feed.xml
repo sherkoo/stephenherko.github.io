@@ -5,9 +5,41 @@
     <description>I&#39;m interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://stephenherko.com/</link>
     <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 24 Nov 2014 16:04:09 -0600</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2014 16:04:09 -0600</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2014 11:23:49 -0600</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2014 11:23:49 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Will google start penalizing non mobile friendly sites?</title>
+        <description>&lt;p&gt;Google &lt;a href=&quot;http://googlewebmastercentral.blogspot.com/2014/11/helping-users-find-mobile-friendly-pages.html?m=1&quot;&gt;announced&lt;/a&gt; that they’ll start tagging sites that are mobile friendly. This could affect the SEO rankings in the future.&lt;/p&gt;
+
+&lt;p&gt;This change will be rolling out globally over the next few weeks. A page is eligible for the “mobile-friendly” label if it meets the following criteria as detected by Googlebot:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Avoids software that is not common on mobile devices, like Flash&lt;/li&gt;
+  &lt;li&gt;Uses text that is readable without zooming&lt;/li&gt;
+  &lt;li&gt;Sizes content to the screen so users don’t have to scroll horizontally or zoom&lt;/li&gt;
+  &lt;li&gt;Places links far enough apart so that the correct one can be easily tapped&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you want to make sure that your page meets the mobile-friendly criteria: &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Check your pages with the Mobile-Friendly Test &lt;/li&gt;
+  &lt;li&gt;Read our updated documentation on our Webmasters Mobile Guide on how to create and improve your mobile site&lt;/li&gt;
+  &lt;li&gt;See the Mobile usability report in Google Webmaster Tools, which highlights major mobile usability issues across your entire site, not just one page&lt;/li&gt;
+  &lt;li&gt;Check our how-to guide for third-party software like WordPress or Joomla, in order to migrate your website hosted on a CMS (Content Management System) to use a mobile-friendly template&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve felt for a while that google favored mobile friendly sites, even if they’ve never officially announced it. &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Nov 2014 11:22:48 -0600</pubDate>
+        <link>http://stephenherko.com/will-google-start-penalizing-non-mobile-friendly-sites</link>
+        <guid isPermaLink="true">http://stephenherko.com/will-google-start-penalizing-non-mobile-friendly-sites</guid>
+        
+        
+      </item>
     
       <item>
         <title>Frontend Checklist</title>
