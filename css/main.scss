@@ -13,6 +13,7 @@
 @import "_components/_alignment.scss";
 @import "_components/_syntax-highlighting.scss";
 @import "_components/_typography.scss";
+@import "_components/_motifs.scss";
 
 // Layouts
 @import "_layouts/_grid.scss";
@@ -20,3 +21,4 @@
 
 // Modules
 @import "_modules/_panel.scss";
+@import "_modules/_article.scss";
