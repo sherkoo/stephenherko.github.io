@@ -20,7 +20,7 @@ layout: default
       <div class="panel-content col-75">
         <!-- header -->
         <header>
-          <time datetime="{{ post.date | date: "%F %H:%M:%S" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+          <time class="sub-head" datetime="{{ post.date | date: "%F %H:%M:%S" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
           <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         </header>
         <!-- /header -->
