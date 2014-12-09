@@ -4,11 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-Tweet at me or just shoot me an email about anything.
+Just shoot me an email about anything.
 
-<ul>
-  <li><a href="mailto:{{ site.email }}">hello@stephenherko.com</a></li>
-  <li><a href="http://github.com/{{ site.github }}" target="_blank">Github/{{ site.github }}</a></li>
-  <li><a href="http://twitter.com/{{ site.twitter }}" target="_blank">@{{ site.twitter }}</a></li>
-  <li><a href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">linkedin/stephenherko</a></li>
-</ul>
+- <a href="mailto:{{ site.email }}">hello@stephenherko.com</a>
+- <a href="http://github.com/{{ site.github }}" target="_blank">Github/{{ site.github }}</a>
+- <a href="http://twitter.com/{{ site.twitter }}" target="_blank">@{{ site.twitter }}</a>
+- <a href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">linkedin/stephenherko</a>

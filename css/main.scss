@@ -4,9 +4,18 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-  "reset",
-  "main",
-  "grid",
-  "globals",
-  "syntax-highlighting";
+
+// Base
+@import "_base/_reset.scss";
+
+// Components
+@import "_components/_alignment.scss";
+@import "_components/_syntax-highlighting.scss";
+@import "_components/_typography.scss";
+
+// Layouts
+@import "_layouts/_grid.scss";
+@import "_layouts/_header.scss";
+
+// Modules
+@import "_modules/_panel.scss";

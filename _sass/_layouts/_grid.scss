@@ -1,11 +1,6 @@
-/* ==================================================
-
-@Description: Basic CSS Grid
-@Author: Stephen Herko
-@Url: stephenherko.com
-@Twitter: @stpehenherko
-
-================================================== */
+/**
+ *Grid
+ */
 
 *{
   margin: 0;
@@ -137,11 +132,9 @@
   padding: 0 5px;
 }
 
-/* ==================================================
-
-Media Queries
-
-================================================== */
+/**
+ * Media Queries
+ */
 
 @media all and (max-width: 959px) and (min-width: 0px){
 
@@ -229,11 +222,3 @@ Media Queries
   }
 
 }
-
-
-
-
-
-
-
-
