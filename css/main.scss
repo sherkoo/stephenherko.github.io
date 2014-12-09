@@ -6,6 +6,7 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 
 // Base
+@import "_base/_vars.scss";
 @import "_base/_reset.scss";
 
 // Components

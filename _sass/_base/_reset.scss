@@ -68,32 +68,32 @@ summary {
   display: block;
 }
 
-section header{
-  margin-bottom: 25px;
-}
-
-article ul,
-article ol{
-  margin-bottom: 20px;
-  margin-left: 30px;
-}
-
-article ul li{
-  list-style: disc;
-  margin-bottom: 3px;
-}
-
-article ol li{
-  margin-bottom: 3px;
-  list-style: decimal;
-}
-
-article h2,
-article h3{
-  font-size: 2em;
-  font-weight: 300;
-  letter-spacing: 0.5px;
-}
+//section header{
+//  margin-bottom: 25px;
+//}
+//
+//article ul,
+//article ol{
+//  margin-bottom: 20px;
+//  margin-left: 30px;
+//}
+//
+//article ul li{
+//  list-style: disc;
+//  margin-bottom: 3px;
+//}
+//
+//article ol li{
+//  margin-bottom: 3px;
+//  list-style: decimal;
+//}
+//
+//article h2,
+//article h3{
+//  font-size: 2em;
+//  font-weight: 300;
+//  letter-spacing: 0.5px;
+//}
 
 /* ==================================================
 
@@ -102,7 +102,7 @@ Links
 ================================================== */
 
 a{
-  color: #e09d32;
+  color: $gold;
   text-decoration: none;
   -webkit-transition: all .25s ease-in-out;
   -moz-transition: all .25s ease-in-out;
