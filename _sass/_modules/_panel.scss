@@ -1,13 +1,11 @@
-/*
+/**
  * Panel
  */
 
 .panel{
-  margin-bottom: 20px;
+  margin-bottom: $spacing;
 }
 
 .panel-media{}
 
-
-.panel-content {
-}
+.panel-content {}
