@@ -3,7 +3,7 @@ layout: post
 title:  "5 Things I Love About Sublime Text That Other Editors Don't Have"
 date:   2014-12-16 18:12:48
 categories:
-description: ""
+description: "Choosing the right editor is so important to your workflow. A list of 5 Things I Love About Sublime Text That Other Editors Don't Have."
 thumbnail: code
 ---
 
