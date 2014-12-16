@@ -5,9 +5,54 @@
     <description>I&#39;m interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://stephenherko.com/</link>
     <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Dec 2014 10:33:31 -0600</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2014 10:33:31 -0600</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2014 12:13:16 -0600</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2014 12:13:16 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>5 Things I Love About Sublime Text That Other Editors Don&#39;t Have</title>
+        <description>&lt;h2 id=&quot;lightweight&quot;&gt;Lightweight&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Opens and runs very quickly&lt;/li&gt;
+  &lt;li&gt;(Never) really crashes or freezes&lt;/li&gt;
+  &lt;li&gt;Event projects with 50-100 files seem to open seamlessly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Speed is very important to my workflow. I can’t stand that feeling of waiting for my editor when my brain is already on to the next step.&lt;/p&gt;
+
+&lt;h2 id=&quot;easy-to-customize&quot;&gt;Easy To Customize&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Package manager - allows you to install extensions to help you develop more efficiently&lt;/li&gt;
+  &lt;li&gt;Fetch - Great for fetching things from github&lt;/li&gt;
+  &lt;li&gt;Emmet - Amazing for fast front end development&lt;/li&gt;
+  &lt;li&gt;Themes - Never locked into how your editor looks&lt;/li&gt;
+  &lt;li&gt;Feels like an editor you can program to fit your needs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quick-open&quot;&gt;Quick Open&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Uses fuzzy search which allows you to search for files without typing the exact file name&lt;/li&gt;
+  &lt;li&gt;Saves time&lt;/li&gt;
+  &lt;li&gt;“:” allows you to quickly go to a line&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;overall-ui&quot;&gt;Overall UI&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tabs at top - easy to see what’s open&lt;/li&gt;
+  &lt;li&gt;Files/sidebar on left&lt;/li&gt;
+  &lt;li&gt;Clean, simple and effective&lt;/li&gt;
+  &lt;li&gt;Again, very easy to change the overall colors, UI, and theme based on your preference&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;snippets&quot;&gt;Snippets&lt;/h2&gt;
+&lt;p&gt;I’ve been using snippets less these days, but they still have their place in my workflow. The emmet package comes with a lot preloaded I use on a day to day. Sublime is probably the best I’ve seen at making your own snippets, customizing and organizing them.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Dec 2014 12:12:48 -0600</pubDate>
+        <link>http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</link>
+        <guid isPermaLink="true">http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</guid>
+        
+        
+      </item>
     
       <item>
         <title>The Importance of Commenting HTML</title>
