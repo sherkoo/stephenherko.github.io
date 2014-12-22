@@ -4,14 +4,22 @@
 
 .h1{
   font-size: $h1;
+  line-height: $h1-lh;
 }
 
 .h2{
   font-size: $h2;
+  line-height: $h2-lh;
 }
 
 .h3{
   font-size: $h3;
+  font-size: $h3-lh;
+}
+
+.h4{
+  font-size: $h4;
+  font-size: $h4-lh;
 }
 
 .sub-head{

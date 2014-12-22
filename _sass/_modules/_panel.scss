@@ -4,6 +4,8 @@
 
 .panel{
   margin-bottom: $spacing;
+  max-height: 200px;
+  min-height: 200px;
 }
 
 .panel-media{}

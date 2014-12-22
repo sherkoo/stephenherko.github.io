@@ -3,27 +3,28 @@ layout: default
 ---
 
 <!-- main -->
-<main role="main" class="container">
+<main role="main" id="main" class="container">
   <!-- section -->
   <section>
     {% for post in site.posts %}
     <!-- article -->
-    <article class="panel clearfix">
-      <div class="panel-media col-25">
+    <article class="col-33 panel clearfix">
+      <!-- <div class="panel-media col-25">
         {% if post.thumbnail %}
         <a href="{{ post.url | prepend: site.baseurl }}"><img src="/img/{{ post.thumbnail }}.png" alt="{{ post.title }}"></a>
         {% else %}
         <a href="{{ post.url | prepend: site.baseurl }}"><img src="/img/default.png" alt="{{ post.title }}"></a>
         {% endif %}
-      </div>
+      </div> -->
       <!-- panel-conent -->
-      <div class="panel-content col-75">
+      <div class="panel-content">
         <!-- header -->
         <header>
           <time class="sub-head" datetime="{{ post.date | date: "%F %H:%M:%S" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-          <h2 class="h1"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <h2 class="h4"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         </header>
         <!-- /header -->
+        {{ post.excerpt | strip_html | truncatewords:35 }}
       </div>
       <!-- panel-conent -->
     </article>

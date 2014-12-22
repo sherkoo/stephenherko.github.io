@@ -17,12 +17,12 @@
 }
 
 body{
-  font-size: 100%;
-  line-height: 1.125em;
+  font-size: 14px;
+  line-height: 24px;
   font-family: $body-font;
   background: #fff;
-  color: #646057;
-  padding-top: 100px;
+  color: $gray;
+  padding-top: $spacing;
 }
 
 ::selection{
@@ -60,7 +60,7 @@ summary {
  */
 
 a{
-  color: $gold;
+  color: $dark-gray;
   text-decoration: none;
   -webkit-transition: all .25s ease-in-out;
   -moz-transition: all .25s ease-in-out;
@@ -70,16 +70,7 @@ a{
 }
 
 a:hover{
-  color: #000;
-}
-
-/*
- * Lists
- */
-
-ul,
-li{
-  list-style: none;
+  color: $purple;
 }
 
 /*
@@ -107,6 +98,19 @@ td {
   line-height: 1em;
 }
 
+/**
+ * Lists
+ */
+
+ul li{
+  list-style-type: square;
+}
+
+ul{
+  margin-left: $spacing;
+  margin-bottom: $spacing;
+}
+
 /*
  * Images
  */
@@ -122,28 +126,27 @@ img{
 
 p{
   margin-bottom: $spacing;
-  line-height: 1.75em;
-  font-size: 1.2em;
 }
 
 h1,h2,h3,h4,h5,h6{
   color: #000;
-  margin-bottom: 10px;
-  font-weight: 300;
+  margin-bottom: $spacing;
+  font-weight: 700;
   letter-spacing: -1px;
-  line-height: normal;
+  // line-height: normal;
   font-family: $heading-font;
 }
 
-h1, .h1{
+h1{
   font-size: $h1;
+  line-height: $h1-lh;
 }
 
-h2, .h2{
+h2{
   font-size: $h2;
 }
 
-h3, .h3{
+h3{
   font-size: $h3;
 }
 
@@ -151,7 +154,7 @@ small, sub, sup, em{
   font-size: 0.8em;
 }
 
-blockquote {
+blockquote{
   background: #f9f9f9;
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
@@ -159,7 +162,7 @@ blockquote {
   quotes: "\201C""\201D""\2018""\2019";
 }
 
-blockquote:before {
+blockquote:before{
   color: #ccc;
   content: open-quote;
   font-size: 4em;
@@ -168,7 +171,7 @@ blockquote:before {
   vertical-align: -0.4em;
 }
 
-blockquote p {
+blockquote p{
   display: inline;
 }
 
@@ -176,18 +179,18 @@ blockquote p {
  * Forms
  */
 
-::-webkit-input-placeholder {
+::-webkit-input-placeholder{
   color: #83838e;
 }
 
-:-moz-placeholder { /* Firefox 18- */
+:-moz-placeholder{ /* Firefox 18- */
   color: #83838e;
 }
 
-::-moz-placeholder {  /* Firefox 19+ */
+::-moz-placeholder{  /* Firefox 19+ */
   color: #83838e;
 }
 
-:-ms-input-placeholder {
+:-ms-input-placeholder{
   color: #83838e;
 }
