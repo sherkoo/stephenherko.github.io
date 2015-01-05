@@ -10,30 +10,29 @@ I'm currently working as the creative director for PVP Live. I'm interested in s
 
 ###Tools/Skills
 
-<div class="col-33">
+<div class="col-50">
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
     <li>Sass/Scss</li>
     <li>Gulp.js</li>
-    <li>Jquery / Javascript</li>
-    <li>Git</li>
+    <li>Jquery/Javascript</li>
+    <li>Git/Github</li>
+    <li>Ruby</li>
     <li>Ruby on Rails</li>
     <li>Responsive Web Design</li>
+    <li>Wordpress (Custom Themes)</li>
+    <li>Bootstrap</li>
   </ul>
 </div>
 
 
-<div class="col-33">
+<div class="col-50">
   <ul>
     <li>Photoshop CC</li>
     <li>Illustrator CC</li>
     <li>InDesign CC</li>
   </ul>
-</div>
-
-
-<div class="col-33">
   <ul>
     <li>Sublime Text</li>
     <li>Adobe Brackets</li>
