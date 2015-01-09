@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="robots" content="index, follow">
+  <meta name="dcterms.rightsHolder" content="Copyright Stephen Herko. All Rights Reserved.">
+  <meta name="description" content="Should you use ID's or classes in CSS? I believe they shouldn’t be used or very very sparingly. CSS should be thought of in an object oriented manner.">
+
+  <!-- Title -->
+  <title>Cut Out Those ID's - Stephen Herko</title>
+
+  <!-- Prefetch -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+
+  <!-- Typography -->
+  <link href='http://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600' rel='stylesheet' type='text/css'>
+
+  <!-- Author -->
+  <link rel="author" href="https://plus.google.com/110424801622068807906/posts">
+  <meta name="google-site-verification" content="dQCNooJWsn6sN-03uupHcOoMJUTeZ7l5XPJItObHxYE" />
+
+  <!-- Sitemap -->
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+
+  <!-- Style -->
+  <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Canonical -->
+  <link rel="canonical" href="http://stephenherko.com/cut-out-those-ids">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="shortcut icon" href="/img/favicon.png">
+</head>
+<body>
+
+<!-- main-header -->
+<header id="main-header" class="clearfix" role="banner">
+  <div class="container">
+     <a title="Stephen Herko Creative Director" href="/"><div id="logo">Stephen Herko Creative Director</div></a>
+
+    <!-- navigation -->
+    <!-- <nav id="main-nav" role="navigation">
+      <ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/feed.xml">RSS</a></li>
+      </ul>
+    </nav> -->
+    <!-- /navigation -->
+  </div>
+</header>
+<!-- /main-header -->
+
+<!-- main -->
+<main role="main" id="main" class="container">
+  <!-- section -->
+  <section>
+    <!-- article -->
+    <article class="article">
+      <!-- header -->
+      <header>
+        <!-- 
+        <a href=""><img src="/img/default.png" alt=""></a>
+         -->
+        <time class="sub-head" datetime="2015-01-08 12:12:48">Jan 8, 2015</time>
+        <h1>Cut Out Those ID's</h1>
+        <div class="divider"></div>
+      </header>
+      <!-- header -->
+      <p>ID’s are considered “non-reusable” code. It has weight, it makes a statement that this block of code is so important it shouldn’t appear more than once on the page. It certain cases it makes sense. For example a #page-header or a #logo, why would you use those more than once? But, is it even necessary?</p>
+
+<h2 id="object-oriented">Object Oriented</h2>
+<p>Lets put aside the argument that you should or shouldn’t use ID’s as CSS selectors. I believe that only using classes in your css makes you think about your architecture in a totally different light. It keeps your mind more in the sense that your code is (or should be) object oriented. It eliminates the thinking that you’re styling one block of code per page when you could be writing reusable code that can be easily adapted to other parts of the site’s design as many times as it needs to be. It’s much easier to think in terms of modules and components.</p>
+
+<h2 id="is-it-necessary-for-css">Is it necessary for CSS?</h2>
+<p>Going back to #page-header and #logo, would it be so bad if it was .page-header or .logo? Or how about thinking about more in the sense of a framework like .navbar and .navbar-branding.</p>
+
+<h2 id="so-just-remove-ids">So just remove ID’s?</h2>
+<p>In some situations only an ID will suffice. For example when using javascript’s getElementById or a classic “skip to navigation” link. Using it as a CSS selector is a different story. It’s totally  up to the developer and should be used if necessary. I believe they shouldn’t be used or very very sparingly.</p>
+
+    </article>
+    <!-- /article -->
+    
+    <!-- <footer>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+          var disqus_shortname = 'stephenherko'; // required: replace example with your forum shortname
+
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </footer> -->
+  </section>
+  <!-- /section -->
+</main>
+<!-- /main -->
+
+  <!-- footer -->
+  <footer id="main-footer">
+    <div class="container">
+      2014 copyright Stephen Herko <a href="/feed.xml">rss</a> <a href="mailto: hello@stephenherko.com">hello@stephenherko.com</a> <a href="/contact/">contact</a> <a href="/about/">about</a> <a href="/cv/">cv</a>
+    </div>
+  </footer>
+  <!-- /footer -->
+
+  <!-- Scripts -->
+  <script src="/js/modernizr.min.js"></script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-18902143-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+</body>
+</html>
