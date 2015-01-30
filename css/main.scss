@@ -5,24 +5,10 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
-// Base
-// @import "_base/_normalize.scss";
-@import "_base/_vars.scss";
-@import "_base/_reset.scss";
-
-// Components
-@import "_components/_alignment.scss";
-@import "_components/_syntax-highlighting.scss";
-@import "_components/_typography.scss";
-@import "_components/_motifs.scss";
-@import "_components/_buttons.scss";
-
-// Layouts
-@import "_layouts/_grid.scss";
-@import "_layouts/_header.scss";
-@import "_layouts/_main.scss";
-@import "_layouts/_footer.scss";
-
-// Modules
-@import "_modules/_panel.scss";
-@import "_modules/_article.scss";
+@import "vars.scss";
+@import "normalize.scss";
+@import "html.scss";
+@import "grid.scss";
+@import "article.scss";
+@import "site-header.scss";
+@import "site-footer.scss";

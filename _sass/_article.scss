@@ -1,0 +1,43 @@
+/**
+ * Article
+ */
+
+.article{
+  margin-bottom: 20px;
+
+  .article-time{
+    color: #888;
+    font-size: 0.7em;
+  }
+
+
+  .article-title{
+    font-size: 1.5em;
+  }
+
+  .article-title a{
+    font-size: 1.5em;
+    color: $gray-1;
+
+    &:hover{
+      text-decoration: none;
+      color: $red-1;
+    }
+  }
+
+  .article-btn{
+    display: inline-block;
+    border: 1px solid $red-1;
+    font-size: 0.7em;
+    height: 33px;
+    line-height: 33px;
+    padding: 0 10px;
+    color: $red-1;
+
+    &:hover{
+      text-decoration: none;
+      background: $red-1;
+      color: #fff;
+    }
+  }
+}

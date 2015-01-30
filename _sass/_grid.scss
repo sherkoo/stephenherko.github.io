@@ -1,0 +1,129 @@
+/**
+ * Grid
+ */
+
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Container to wrap all columns */
+.container{
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+/* Row */
+.row{
+  *zoom: 1;
+}
+
+.row:before,
+.row:after {
+  content: " ";
+  display: table;
+}
+
+.row:after{
+  clear: both;
+}
+
+/* Container full width */
+.container-full{
+  padding: 0 10px;
+  width: 100%;
+}
+
+/* Make columns nestable */
+[class*='col-'].nest{
+  padding: 0;
+}
+
+/* Global styling for columns */
+[class*='col-']{
+  float: left;
+  min-height: 1px;
+  padding: 0 5px;
+  margin-bottom: 10px;
+}
+
+/* Set percent based widths */
+.col-10{
+  width: 10%;
+}
+
+.col-20{
+  width: 20%;
+}
+
+.col-25{
+  width: 25%;
+}
+
+.col-40{
+  width: 40%;
+}
+
+.col-60{
+  width: 60%;
+}
+
+.col-75{
+  width: 75%;
+}
+
+/* Set column widths - 6 max */
+/* 100 / 6(cols) = 16.66666666, 100 - 16.6666666 = 83.33 etc */
+.col-1{
+  width: 16.66%;
+}
+
+.col-2{
+  width: 33.33%;
+}
+
+.col-3{
+  width: 50%;
+}
+
+.col-4{
+  width: 66.66%;
+}
+
+.col-5{
+  width: 83.33%;
+}
+
+.col-6{
+  width: 100%;
+}
+
+/* Responsive */
+@media all and (max-width: 800px){
+  .col-1{
+    width: 50%;
+  }
+
+  /* Make any col 100% */
+  [class*='col-'].full{
+    width: 100%;
+  }
+
+  .col-6, .col-5, .col-4, .col-3, .col-2{
+    width: 100%;
+  }
+}
+
+/* Testing */
+.box{
+  padding: 10px;
+  background-color: #ddd;
+}
+
+.box2{
+  padding: 10px;
+  background-color: #999;
+}

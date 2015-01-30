@@ -1,0 +1,21 @@
+/**
+ * Site footer
+ */
+
+.site-footer{
+  font-size: 0.7em;
+  margin: 2em 0;
+}
+
+.site-footer-nav{
+  float: right;
+
+  a{
+    color: $red-1;
+  }
+
+  li{
+    display: inline;
+    margin-left: 10px;
+  }
+}

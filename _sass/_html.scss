@@ -1,0 +1,45 @@
+/**
+ * Html
+ */
+
+body{
+  margin: 0;
+  line-height: 1.5;
+  font-size: 20px;
+  text-rendering: optimizeLedgability;
+  font-family: $font-family;
+  color: $gray-1;
+
+  @media all and (max-width: 800px){
+    font-size: 16px; /* Smaller for mobile */
+  }
+}
+
+h1,h2,h3,h4,h5,h6{
+  line-height: 1;
+  margin-bottom: 0.5em;
+}
+
+p{
+  margin-top: 0.25em;
+  margin-bottom: 1.75em;
+}
+
+/* Links */
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+/* Lists */
+ul{
+  list-style-type: square;
+}
+
+/* Images */
+img{
+  max-width: 100%;
+}
