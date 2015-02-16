@@ -6,12 +6,10 @@ layout: default
   <section >
     {% for post in site.posts %}
     <article class="article">
-      <!-- header -->
       <header>
         <time class="article-time" datetime="{{ post.date | date: "%F %H:%M:%S" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
         <h2 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      </header>
-      <!-- /header -->
+      </header> <!-- /header -->
       <p>{{ post.excerpt | strip_html | truncatewords:135 }}</p>
       <a class="article-btn" href="{{ post.url }}">Read More</a>
     </article> <!-- /article -->
