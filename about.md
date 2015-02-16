@@ -38,3 +38,5 @@ I'm currently working as the creative director for PVP Live. I'm interested in s
     <li>Adobe Brackets</li>
   </ul>
 </div>
+
+<div class="clearfix"></div>
