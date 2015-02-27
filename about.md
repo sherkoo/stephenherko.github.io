@@ -40,6 +40,10 @@ I'm currently working as the creative director for PVP Live. I'm interested in s
       <li>Sublime Text</li>
       <li>Adobe Brackets</li>
     </ul>
+    <ul>
+      <li>Google Analytics</li>
+      <li>Google Webmaster Tools</li>
+    </ul>
   </div>
 </div>
 
