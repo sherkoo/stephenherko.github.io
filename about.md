@@ -26,6 +26,7 @@ I'm currently working as the creative director for PVP Live. I'm interested in s
       <li>Foundation</li>
       <li>SMACSS Methodology</li>
       <li>BEM Methodology</li>
+      <li>Node.js</li>
     </ul>
   </div>
 
