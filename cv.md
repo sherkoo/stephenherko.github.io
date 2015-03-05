@@ -14,7 +14,7 @@ permalink: /cv/
 - September 2010 – October 2013 - TX
 - Self made business. Worked with clients one on one to develop solutions based on their needs.
 
-##Associate Art Director
+##Art Director
 - The Star Group
 - January 2008 – August 2010 - NJ/PA
 - Oversee and managed a team of designers producing print and web materials. Developed creative campaigns for new business ventures. Responsible for the team meeting deadlines.
