@@ -23,3 +23,6 @@ permalink: /cv/
 - The Star Group
 - Sept 2005 - January 2008 - NJ/PA
 - Responsible for print and web design with quick turnarounds.
+
+##Tools/Skills
+{% include skills.html %}
