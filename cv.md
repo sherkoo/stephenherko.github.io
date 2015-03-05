@@ -24,5 +24,15 @@ permalink: /cv/
 - Sept 2005 - January 2008 - NJ/PA
 - Responsible for print and web design with quick turnarounds.
 
+<hr />
+
+##Some Things I've Done
+- Winner of the American Association of Advertising Agencies (4A’s) competing against top talent in marketing and advertising on the east coast.
+- Branded and led a design team for one of the first casinos in Philadelphia. Strategized and carefully planned marketing/teaser campaign utilizing the city before launch.
+- Lead team of designers developing design campaigns, RFP’s and point of sales for Coca-Cola, Sprite and Fanta.
+
+<hr />
+
 ##Tools/Skills
 {% include skills.html %}
+
