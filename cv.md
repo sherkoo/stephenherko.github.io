@@ -4,6 +4,11 @@ title: CV
 permalink: /cv/
 ---
 
+<small>Stephen Herko<br /></small>
+<small>stephenherko.com<br /></small>
+<small>hello@stephenherko.com<br /></small>
+<small>TX<br /></small>
+
 ##Creative Director
 - PVP Live
 - October 2013 – Present - TX
@@ -26,13 +31,13 @@ permalink: /cv/
 
 <hr />
 
-##Some Things I've Done
+###Some Things I've Done
 - Winner of the American Association of Advertising Agencies (4A’s) competing against top talent in marketing and advertising on the east coast.
 - Branded and led a design team for one of the first casinos in Philadelphia. Strategized and carefully planned marketing/teaser campaign utilizing the city before launch.
 - Lead team of designers developing design campaigns, RFP’s and point of sales for Coca-Cola, Sprite and Fanta.
 
 <hr />
 
-##Tools/Skills
+###Tools/Skills
 {% include skills.html %}
 
