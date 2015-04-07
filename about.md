@@ -4,47 +4,14 @@ title: About
 permalink: /about/
 ---
 
-##Hello, my name is Stephen
+<div class="col-3 col-center">
 
-I'm currently working as the creative director for PVP Live. I'm interested in skill sets like Branding, Front End Development, UI/UX Design, as well as a little marketing sprinkled on top. I love helping brands reach and develop their voice.
+  <h1>Hello, <br />my name is Stephen</h1>
 
-###Tools/Skills
+  <p>I've been working professionally for the last 10 years. My background began in advertising where I developed print and marketing campaigns. From there I fell in love with design and branding. It seems to take up most of my time and thoughts these days. </p>
 
-<div class="row">
-  <div class="col-3">
-    <ul>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>Sass/Scss</li>
-      <li>Gulp.js</li>
-      <li>Jquery/Javascript</li>
-      <li>Git/Github</li>
-      <li>Ruby on Rails</li>
-      <li>Responsive Web Design</li>
-      <li>Wordpress (Custom Themes)</li>
-      <li>Bootstrap</li>
-      <li>BEM Methodology</li>
-      <li>SMACSS Methodology</li>
-      <li>Bower</li>
-      <li>Node.js</li>
-    </ul>
-  </div> <!-- /.col-3 -->
+  <p>Originally from the Philadelphia are, now residing in Texas. I'm always looking for challenges and self improvment. Two things I believe are essential to any creative's career.</p>
 
+  <p>I'm currently working as the creative director for PVP Live. I'm interested in skill sets like Branding, Front End Development, UI/UX Design, as well as a little marketing sprinkled on top. I love helping brands reach and develop their voice.</p>
 
-  <div class="col-3">
-    <ul>
-      <li>Photoshop CC</li>
-      <li>Illustrator CC</li>
-      <li>InDesign CC</li>
-    </ul>
-    <ul>
-      <li>Sublime Text</li>
-      <li>Adobe Brackets</li>
-    </ul>
-    <ul>
-      <li>Google Analytics</li>
-      <li>Google Webmaster Tools</li>
-    </ul>
-  </div> <!-- /.col-3 -->
 </div>
-

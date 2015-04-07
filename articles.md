@@ -1,26 +1,10 @@
 ---
-layout: default
+layout: page
+title: Articles
+permalink: /articles/
 ---
 
-<section class="billboard">
-  <div class="container">
-    <div class="row">
-      <h2 class="billboard__msg">Creative<span class="billboard__msg--red">Direction</span></h2>
-    </div> <!-- /.row -->
-  </div> <!-- /.container -->
-</section> <!-- /section billboard -->
-
-<main role="main" class="container">
-  <section>
-    <div class="container">
-      <div class="row">
-        {% for work in site.works %}
-        
-        {% endfor %}
-      </div> <!-- /.row -->
-    </div> <!-- /.container -->
-  </section> <!-- /section works -->
-
+<main role="main">
   <section class="articles">
     <div class="container">
       <div class="row">
@@ -37,4 +21,4 @@ layout: default
       </div> <!-- /.row -->
     </div> <!-- /.container -->
   </section> <!-- /section articles -->
-</main> <!-- /main -->
+</main>

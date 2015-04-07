@@ -5,11 +5,13 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
-@import "vars.scss";
-@import "normalize.scss";
-@import "html.scss";
-@import "grid.scss";
-@import "article.scss";
-@import "site-sidebar.scss";
-@import "site-header.scss";
-@import "site-footer.scss";
+/* Base */
+@import "vars";
+@import "html";
+
+/* Layout */
+@import "site-header";
+@import "site-footer";
+@import "grid";
+@import "billboard";
+@import "article";

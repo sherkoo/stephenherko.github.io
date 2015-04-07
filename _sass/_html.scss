@@ -1,47 +1,62 @@
 /**
- * Html
+ * General
+ */
+ 
+body{
+  font: 16px/1.5 $font__body;
+  background-color: $black;
+  margin: 0;
+  color: #343438;
+}
+
+/**
+ * Headers
  */
 
-body{
-  margin: 0;
-  line-height: 1.5;
-  font-size: 20px;
-  text-rendering: optimizeLedgability;
-  font-family: $font-family;
-  color: $gray-1;
+h1,h2,h3,h4,h5,h6{
+  font-family: $font__heading;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: $red;
+  line-height: 1.1;
+}
 
-  @media all and (max-width: 800px){
-    font-size: 16px; /* Smaller for mobile */
+/**
+ * Images
+ */
+
+img{
+  max-width: 100%;
+  display: block;
+}
+
+/**
+ * Lists
+ */
+
+ul,li{
+  list-style: square;
+}
+
+/**
+ * Link
+ */
+
+a{
+  color: $red;
+  text-decoration: none;
+
+  &:hover{
+    text-decoration: underline;
   }
 }
 
-/* Typography */
-h1,h2,h3,h4,h5,h6{
-  line-height: 1;
-  margin-bottom: 0.5em;
-}
+/**
+ * HR
+ */
 
-p{
-  margin-top: 0.25em;
-  margin-bottom: 1.75em;
-}
-
-/* Links */
-a{
-  text-decoration: none;
-  color: $red-1;
-}
-
-a:hover{
-  text-decoration: underline;
-}
-
-/* Lists */
-ul{
-  list-style-type: square;
-}
-
-/* Images */
-img{
-  max-width: 100%;
+hr{
+  height: 1px;
+  background: #343438;
+  border: none;
 }

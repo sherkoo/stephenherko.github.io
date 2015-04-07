@@ -2,41 +2,37 @@
  * Article
  */
 
+.articles{
+  // background-color: #fff;
+  padding: 50px 0;
+}
+
 .article{
-  margin-bottom: 20px;
+  min-height: 300px;
+}
 
-  .article-time{
-    color: #888;
-    font-size: 0.7em;
+.article__title{
+  color: $red;
+
+  a:hover{
+    text-decoration: none;
+    color: #fff;
   }
+}
 
-  .article-title{
-    font-size: 1.5em;
-  }
+.article__title--page{
+  @extend .article__title;
+  font-size: 4em;
+  line-height: 60px;
+}
 
-  .article-title a{
-    font-size: 1.5em;
-    color: $gray-1;
+.article__body{
+  // color: #343438;
+}
 
-    &:hover{
-      text-decoration: none;
-      color: $red-1;
-    }
-  }
-
-  .article-btn{
-    display: inline-block;
-    border: 1px solid $red-1;
-    font-size: 0.7em;
-    height: 33px;
-    line-height: 33px;
-    padding: 0 10px;
-    color: $red-1;
-
-    &:hover{
-      text-decoration: none;
-      background: $red-1;
-      color: #fff;
-    }
-  }
+.article__read{
+  font-size: 0.8em;
+  font-family: $font__heading;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }

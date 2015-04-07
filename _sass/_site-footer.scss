@@ -1,17 +1,29 @@
 /**
- * Site footer
+ * Site Footer
  */
 
 .site-footer{
-  font-size: 0.7em;
-  margin: 2em 0;
+  background-color: $black--light;
+  padding: 100px 0;
+  border-bottom: 5px solid $red;
 }
 
-.site-footer-nav{
+.site-footer__brand{
   float: right;
+}
+
+.site-footer__nav{
+  float: left;
+
+  ul{
+    padding: 0;
+  }
 
   li{
-    display: inline;
-    margin-left: 10px;
+    list-style-type: none;
+    float: left;
+    margin-right: 20px;
+    font-family: $font__heading;
+    text-transform: uppercase;
   }
 }
