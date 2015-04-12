@@ -188,6 +188,15 @@ $grid-breakpoint-2: 400px;
   float: none;
 }
 
+/* Float/pull/push columns */
+.col-right{
+  float: right;
+}
+
+.col-left{
+  float: left;
+}
+
 /**
  * Responsive
  * ----------

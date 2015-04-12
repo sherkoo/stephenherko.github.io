@@ -2,25 +2,27 @@
 layout: default
 ---
 
-<main role="main" class="container">
-  <section>
+<main role="main">
+  <div class="container">
     <div class="row">
-      <article class="article col-75">
-        <header>
-          <time class="article__time" datetime="{{ page.date | date: "%F %H:%M:%S" }}">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
-          <h1 class="article__title--page">{{ page.title }}</h1>
-        </header> <!-- /header -->
-        <div class="article__body">{{ content }}</div>
-      </article> <!-- /article -->
-      <aside class="sidebar col-25">
+      <section>
+        <article class="article col-center col-4">
+          <header>
+            <time class="article__time" datetime="{{ page.date | date: "%F %H:%M:%S" }}"></time>
+            <h1 class="article__title--page">{{ page.title }}</h1>
+          </header> <!-- /header -->
+          <div class="article__body">{{ content }}</div>
+        </article> <!-- /article -->
+      </section> <!-- /section -->
+      <!-- <aside class="sidebar col-right col-25">
         <h4>You Might Also Like</h4>
         {% for post in site.posts %}
         <ul>
           <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
         </ul>
         {% endfor %}
-      </aside> <!-- /sidebar -->
+      </aside> -->
       {% if page.categories %}{{ page.categories }}{% endif %}
     </div> <!-- /.row -->
-  </section> <!-- /section -->
+  </div> <!-- /.container -->
 </main> <!-- /main -->

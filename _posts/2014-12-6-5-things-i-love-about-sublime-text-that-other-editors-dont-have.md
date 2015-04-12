@@ -10,7 +10,7 @@ thumbnail: code
 ##Lightweight
 - Opens and runs very quickly
 - (Never) really crashes or freezes
-- Event projects with 50-100 files seem to open seamlessly
+- Even projects with 50-100 files seem to open seamlessly
 
 Speed is very important to my workflow. I can’t stand that feeling of waiting for my editor when my brain is already on to the next step.
 

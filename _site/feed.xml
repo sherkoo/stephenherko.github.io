@@ -5,9 +5,9 @@
     <description>I&#39;m interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://stephenherko.com/</link>
     <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Apr 2015 09:17:29 -0500</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2015 09:17:29 -0500</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Sun, 12 Apr 2015 12:24:12 -0500</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2015 12:24:12 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Cut Out Those ID&#39;s</title>
@@ -35,7 +35,7 @@
 &lt;ul&gt;
   &lt;li&gt;Opens and runs very quickly&lt;/li&gt;
   &lt;li&gt;(Never) really crashes or freezes&lt;/li&gt;
-  &lt;li&gt;Event projects with 50-100 files seem to open seamlessly&lt;/li&gt;
+  &lt;li&gt;Even projects with 50-100 files seem to open seamlessly&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Speed is very important to my workflow. I can’t stand that feeling of waiting for my editor when my brain is already on to the next step.&lt;/p&gt;
@@ -133,16 +133,16 @@
   &lt;li&gt;Places links far enough apart so that the correct one can be easily tapped&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;If you want to make sure that your page meets the mobile-friendly criteria: &lt;/p&gt;
+&lt;p&gt;If you want to make sure that your page meets the mobile-friendly criteria:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Check your pages with the Mobile-Friendly Test &lt;/li&gt;
+  &lt;li&gt;Check your pages with the Mobile-Friendly Test&lt;/li&gt;
   &lt;li&gt;Read our updated documentation on our Webmasters Mobile Guide on how to create and improve your mobile site&lt;/li&gt;
   &lt;li&gt;See the Mobile usability report in Google Webmaster Tools, which highlights major mobile usability issues across your entire site, not just one page&lt;/li&gt;
   &lt;li&gt;Check our how-to guide for third-party software like WordPress or Joomla, in order to migrate your website hosted on a CMS (Content Management System) to use a mobile-friendly template&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I’ve felt for a while that google favored mobile friendly sites, even if they’ve never officially announced it. &lt;/p&gt;
+&lt;p&gt;I’ve felt for a while that google favored mobile friendly sites, even if they’ve never officially announced it.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 25 Nov 2014 11:22:48 -0600</pubDate>
@@ -306,7 +306,7 @@
 
 &lt;p&gt;Overall I think they did a good job. You’ll notice quite a difference between the safari icons. Comparing them side by side, the newer I’m glad to see more continuity.&lt;/p&gt;
 
-&lt;p&gt;One thing I wasn’t a fan of was the close, minimize, and maximize buttons. Since the gloss look has been completely removed from them, they “really” look like traffic lights now. &lt;/p&gt;
+&lt;p&gt;One thing I wasn’t a fan of was the close, minimize, and maximize buttons. Since the gloss look has been completely removed from them, they “really” look like traffic lights now.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/close.png&quot; alt=&quot;Yosemite Finder Icon&quot; /&gt;&lt;/p&gt;
 
@@ -317,7 +317,7 @@
 &lt;h2 id=&quot;frosted-windows&quot;&gt;Frosted Windows&lt;/h2&gt;
 &lt;p&gt;Things like logging in, the dock, parts of any window make use of this frosted effect. I really liked the spotlight search in particular.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/spotlight.png&quot; alt=&quot;Yosemite Spotlight Search&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/spotlight.png&quot; alt=&quot;Yosemite Spotlight Search&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;lucida-grande-to-helvetica&quot;&gt;Lucida Grande to Helvetica&lt;/h2&gt;
 &lt;p&gt;I’ll admit Helvetica is my favorite font. (I’m a designer I have to say that) I actually feel like Helvetica is a bit “crisper” vs Lucida Grande. However, it’s a little thinner. So I think there’s pros and cons for readability sake. From a branding point of view, Helvetica definitely gives off that “modern” vibe for being such an old typeface.&lt;/p&gt;
@@ -366,7 +366,7 @@
   &lt;li&gt;
     &lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
     &lt;p&gt;&lt;strong&gt;Wordpress&lt;/strong&gt; - At the core wordpress is built with PHP, but when you’re writing blog posts you get to use a WYSIWYG editor. I feel so lost with these things. I’ve noticed many times if you want to put a headline in an &amp;lt;h2&amp;gt; tag, and then you backspace, it’ll delete the tag, or put everything in an &amp;lt;h2&amp;gt; tag. Not only are you affecting the design of your post, but the SEO as well.&lt;br /&gt;
-&lt;strong&gt;Jeykll&lt;/strong&gt; - Is built with ruby and gives developers the opportunity to write their blog posts in markdown. Markdown is amazing to write with. In my opinion it’s easier to manage. I’m a programmer, id rather just see the code.   &lt;/p&gt;
+&lt;strong&gt;Jeykll&lt;/strong&gt; - Is built with ruby and gives developers the opportunity to write their blog posts in markdown. Markdown is amazing to write with. In my opinion it’s easier to manage. I’m a programmer, id rather just see the code.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h3 id=&quot;templating&quot;&gt;Templating&lt;/h3&gt;
@@ -377,12 +377,12 @@
     &lt;h3 id=&quot;on-site-seo&quot;&gt;On Site SEO&lt;/h3&gt;
     &lt;p&gt;This really comes down to strategy, and I’m mainly talking about your title, meta description, and friendly URL’s.&lt;br /&gt;
 &lt;strong&gt;Wordpress&lt;/strong&gt; - You either need to do write some custom functions or download a plugin to handle that for you. I’m not a huge advocate for plugins. Personally I can’t stand bloated, unnecessary code that comes with a lot of them. The setting for friendly URL’s is very easy to find, but doesn’t come out of the box.&lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - Comes out of the box supporting friendly URL’s. You’ll have to incorporate your own logic to support meta descriptions. Which really isn’t too difficult. I just added mine to post, then called it from my header template.  &lt;/p&gt;
+&lt;strong&gt;Jekyll&lt;/strong&gt; - Comes out of the box supporting friendly URL’s. You’ll have to incorporate your own logic to support meta descriptions. Which really isn’t too difficult. I just added mine to post, then called it from my header template.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h3 id=&quot;maintenance&quot;&gt;Maintenance&lt;/h3&gt;
     &lt;p&gt;&lt;strong&gt;Wordpress&lt;/strong&gt; -  If you’re a wordpress developer or you use wordpress sites, you’ve of course ran into the white screen of death a time or two. If you’re just starting out with wordpress, it can be difficult to tell why that happend or where it came from. If you have plugins, those and the wordpress installation itself will most likely need to be updated every so often. If you don’t keep up with wordpress updates, you could put your site at risk for hackers. Installed a plugin that wasn’t friendly with your theme? Bam broken. Wordpress has been known to struggle under heavy load. This of course is situational and doesn’t happen to every wordpress site.&lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - The static generated HTML files only puts a tiny amount of load on your site. You can still break a Jekyll site, but the great thing about that is your CLI will give you a heads up on what happened. &lt;/p&gt;
+&lt;strong&gt;Jekyll&lt;/strong&gt; - The static generated HTML files only puts a tiny amount of load on your site. You can still break a Jekyll site, but the great thing about that is your CLI will give you a heads up on what happened.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h3 id=&quot;cost&quot;&gt;Cost&lt;/h3&gt;

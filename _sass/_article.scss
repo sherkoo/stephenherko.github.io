@@ -22,8 +22,9 @@
 
 .article__title--page{
   @extend .article__title;
-  font-size: 4em;
-  line-height: 60px;
+  font-size: 3em;
+  color: #fff;
+  line-height: 50px;
 }
 
 .article__body{
