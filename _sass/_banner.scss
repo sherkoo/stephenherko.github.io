@@ -2,19 +2,19 @@
  * Billboard
  */
 
-.billboard{
+.banner{
   text-align: center;
-  background-color: $black--light;
+  background-color: $black;
   margin-bottom: 20px;
 }
 
-.billboard__msg{
+.banner__msg{
   color: #fff;
   text-transform: uppercase;
   font-size: 5vw;
   letter-spacing: 0.5vw;
 }
 
-.billboard__msg--red{
+.banner__msg--red{
   color: $red;
 }

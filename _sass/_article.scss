@@ -8,7 +8,7 @@
 }
 
 .article{
-  min-height: 320px;
+  min-height: 300px;
   background: #fff;
   padding: 20px;
   border: 1px solid #ddd;
@@ -23,12 +23,13 @@
 .article__header{
   background: $black;
   padding: 20px 0;
+  margin-bottom: 20px;
 }
 
 .article__title--page{
   @extend .article__title;
   font-size: 3em;
-  color: #fff;
+  // color: #fff;
   line-height: 50px;
 }
 
