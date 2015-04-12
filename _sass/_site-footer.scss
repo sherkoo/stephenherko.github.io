@@ -5,6 +5,7 @@
 .site-footer{
   background-color: $black--light;
   padding: 100px 0;
+  font-size: 0.875em;
   border-bottom: 5px solid $red;
 }
 
@@ -13,7 +14,7 @@
 }
 
 .site-footer__nav{
-  float: left;
+  float: right;
 
   ul{
     padding: 0;
@@ -22,8 +23,8 @@
   li{
     list-style-type: none;
     float: left;
-    margin-right: 20px;
-    font-family: $font__heading;
-    text-transform: uppercase;
+    margin-left: 10px;
+    // font-family: $font__heading;
+    // text-transform: uppercase;
   }
 }

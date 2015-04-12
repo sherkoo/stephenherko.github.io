@@ -11,7 +11,7 @@ layout: default
 </section> <!-- /section billboard -->
 
 <main role="main" class="container">
-  <section>
+  <section class="works">
     <div class="container">
       <div class="row">
         {% for work in site.works %}
@@ -29,7 +29,7 @@ layout: default
           <article class="article">
             <time class="article__time" datetime="{{ post.date | date: "%F %H:%M:%S" }}"></time>
             <h2 class="article__title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-            <p class="article__body">{{ post.excerpt | strip_html | truncatewords:135 }}</p>
+            <p class="article__body">{{ post.excerpt | strip_html | truncatewords:30 }}</p>
             <a class="article__read" href="{{ post.url | prepend: site.baseurl }}">Read</a>
           </article> <!-- /.article -->
         </div> <!-- /.col-2 -->

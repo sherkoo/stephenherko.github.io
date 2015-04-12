@@ -8,16 +8,21 @@
 }
 
 .article{
-  min-height: 300px;
+  min-height: 320px;
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+    -webkit-border-radius: 3px;
 }
 
 .article__title{
   color: $red;
+}
 
-  a:hover{
-    text-decoration: none;
-    color: #fff;
-  }
+.article__header{
+  background: $black;
+  padding: 20px 0;
 }
 
 .article__title--page{
@@ -32,8 +37,6 @@
 }
 
 .article__read{
-  font-size: 0.8em;
   font-family: $font__heading;
   text-transform: uppercase;
-  letter-spacing: 3px;
 }
