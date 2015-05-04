@@ -3,38 +3,132 @@ layout: default
 ---
 
 <section class="banner">
+  <h2 class="banner__msg wow fadeIn">creative solutions <br />are my biggest passion</h2>
+</section> <!-- /section .banner -->
+
+<section class="works">
   <div class="container">
     <div class="row">
-      <h2 class="banner__msg">Creative<span class="banner__msg--red">Direction</span></h2>
+      <div class="col-5 col-center">
+        {% for post in site.categories['works'] %}
+        <a href="{{post.url | prepend: site.baseurl}}">
+          <div class="col-2 col-md-3 col-sm-6 wow fadeInUp">
+            <div class="work">
+              <img src="{{site.baseurl}}/img/work-thumb/{{post.thumbnail}}" alt="{{post.title}}">
+            </div> <!-- /.work -->
+          </div> <!-- /.col-2 -->
+        </a>
+        {% endfor %}
+      </div> <!-- /.col-5 col-center -->
     </div> <!-- /.row -->
   </div> <!-- /.container -->
-</section> <!-- /section banner -->
+</section> <!-- /section .works -->
 
-<main role="main" class="container">
-  <section class="works">
-    <div class="container">
-      <div class="row">
-        {% for work in site.works %}
-        
-        {% endfor %}
-      </div> <!-- /.row -->
-    </div> <!-- /.container -->
-  </section> <!-- /section works -->
-
+<!--
   <section class="articles">
     <div class="container">
       <div class="row">
-        {% for post in site.posts %}
+        {% for post in site.categories['blog'] limit:6 %}
         <div class="col-2 col-md-3 col-sm-6">
           <article class="article">
             <time class="article__time" datetime="{{ post.date | date: "%F %H:%M:%S" }}"></time>
             <h2 class="article__title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
             <p class="article__body">{{ post.excerpt | strip_html | truncatewords:30 }}</p>
-            <!-- <a class="article__read" href="{{ post.url | prepend: site.baseurl }}">Read</a> -->
-          </article> <!-- /.article -->
-        </div> <!-- /.col-2 -->
+          </article> 
+        </div> 
         {% endfor %}
+      </div> 
+    </div> 
+  </section> -->
+
+  <section class="clients">
+    <h2>Who I've Worked With</h2>
+    <div class="col-3 col-sm-6 col-center">
+      <p>I've had the opportunity to work with some pretty amazing companies during my career. From the top casinos in the U.S. to fortune 500 companies to some of the best game developers in the world.</p>
+    </div> <!-- /.col-3 .col-center -->
+    <div class="container">
+      <div class="row">
+        <div class="col-3 col-md-6 col-center">
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/twitch.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/coca-cola.svg" width="128" height="128" alt="Coca-Cola">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/blizzard.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/fanta.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/4as.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/sprite.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+        </div> <!-- /.col-center -->
       </div> <!-- /.row -->
     </div> <!-- /.container -->
-  </section> <!-- /section articles -->
+  </section> <!-- /section .clients -->
+
+  <section class="services">
+    <div class="service">
+      <div class="row row-no-gutter">
+        <div class="col-3 col-sm-6 wow fadeInLeft">
+          <div class="service__img service__img--branding"></div>
+        </div> <!-- /.col-3 -->
+        <div class="col-3 col-sm-6 wow fadeInRight">
+          <div class="service__body__cont">
+            <div class="service__body">
+              <img src="img/branding-icon.svg" width="48" height="48" alt="">
+              <h3 class="service__title">Branding</h3>
+              <p>The voice and face of your company, it represents everything. Whatever your voice is, it should communicate exactly who you are.</p>
+            </div> <!-- /.service__body -->
+          </div> <!-- /.service__body__cont -->
+        </div> <!-- /.col-3 -->
+      </div> <!-- /.row -->
+    </div> <!-- /.service -->
+
+    <div class="service">
+      <div class="row row-no-gutter">
+        <div class="col-3 col-sm-6 wow fadeInLeft">
+          <div class="service__body__cont">
+            <div class="service__body">
+              <img src="img/web-icon.svg" width="48" height="48" alt="">
+              <h3 class="service__title">Web/UI</h3>
+              <p>A user interface is more than just looking good, it's the part that greets the user and guides them through.</p>
+            </div> <!-- /.service__body -->
+          </div> <!-- /.service__body__cont -->
+        </div> <!-- /.col-3 -->
+        <div class="col-3 col-sm-6 wow fadeInRight">
+          <div class="service__img service__img--web"></div>
+        </div> <!-- /.col-3 -->
+      </div> <!-- /.row -->
+    </div> <!-- /.service -->
+
+    <div class="service">
+      <div class="row row-no-gutter">
+        <div class="col-3 col-sm-6 wow fadeInLeft">
+          <div class="service__img service__img--design"></div>
+        </div> <!-- /.col-3 -->
+        <div class="col-3 col-sm-6 wow fadeInRight">
+          <div class="service__body__cont">
+            <div class="service__body">
+              <img src="img/design-icon.svg" width="48" height="48" alt="">
+              <h3 class="service__title">Design</h3>
+              <p>A good design is the very first thing your viewers will notice. It's important it makes the right first impression.</p>
+            </div> <!-- /.service__body -->
+          </div> <!-- /.service__body__cont -->
+        </div> <!-- /.col-3 -->
+      </div> <!-- /.row -->
+    </div> <!-- /.service -->
+    
+  </section> <!-- /section .services -->
+
 </main> <!-- /main -->

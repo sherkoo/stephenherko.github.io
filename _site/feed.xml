@@ -5,9 +5,141 @@
     <description>I&#39;m interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://stephenherko.com/</link>
     <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Apr 2015 18:09:01 -0500</pubDate>
-    <lastBuildDate>Sun, 12 Apr 2015 18:09:01 -0500</lastBuildDate>
+    <pubDate>Sun, 03 May 2015 21:33:09 -0500</pubDate>
+    <lastBuildDate>Sun, 03 May 2015 21:33:09 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Vertex</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/vertex-business-card.jpg&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/vertex-logo3.jpg&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/vertex-web.jpg&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/vertex-web2.jpg&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
+        <link>http://stephenherko.com/vertex</link>
+        <guid isPermaLink="true">http://stephenherko.com/vertex</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>PVP Live</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/pvp-live-biz-card.jpg&quot; alt=&quot;PVP Live Business Card&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/pvp-live-website.jpg&quot; alt=&quot;PVP Live Website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/pvp-live-branding.jpg&quot; alt=&quot;PVP Live Website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/pvp-live-tagline.jpg&quot; alt=&quot;PVP Live Website&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
+        <link>http://stephenherko.com/pvp-live</link>
+        <guid isPermaLink="true">http://stephenherko.com/pvp-live</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>INU Clothing</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/inu-biz-card.jpg&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/inu-shirt1.jpg&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/inu-shirt2.jpg&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/inu-clothing-thumb.png&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
+        <link>http://stephenherko.com/inu-clothing</link>
+        <guid isPermaLink="true">http://stephenherko.com/inu-clothing</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Sugar House</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/sugarhouse01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sugarhouse02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sugarhouse03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sugarhouse-exterior.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
+        <link>http://stephenherko.com/sugar-house</link>
+        <guid isPermaLink="true">http://stephenherko.com/sugar-house</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Personal Branding</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/stephen-biz-card.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/stephen-standards.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;
+.banner{
+  height: 408px;
+  text-align: center;
+  background-color: #ddd;
+  display: table;
+  width: 100%;
+  background: url(&#39;../img/banner.jpg&#39;) no-repeat bottom;
+  background-size: cover;
+  margin-bottom: 48px;
+}
+
+.banner__msg{
+  color: #fff;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 46px;
+  line-height: 48px;
+  letter-spacing: 12px;
+  text-transform: uppercase;
+}
+&lt;/pre&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
+        <link>http://stephenherko.com/stephenherko</link>
+        <guid isPermaLink="true">http://stephenherko.com/stephenherko</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Nittany Entertainment</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/nittany-biz-cards.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/nittany-closeup.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/nittany-ipad.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/nittany-iphone.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/nittany-thumb.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/nittany-shirt.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
+        <link>http://stephenherko.com/nittany-entertainment</link>
+        <guid isPermaLink="true">http://stephenherko.com/nittany-entertainment</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>Cut Out Those ID&#39;s</title>
@@ -26,6 +158,8 @@
         <link>http://stephenherko.com/cut-out-those-ids</link>
         <guid isPermaLink="true">http://stephenherko.com/cut-out-those-ids</guid>
         
+        
+        <category>blog</category>
         
       </item>
     
@@ -71,6 +205,8 @@
         <link>http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</link>
         <guid isPermaLink="true">http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</guid>
         
+        
+        <category>blog</category>
         
       </item>
     
@@ -118,6 +254,8 @@
         <guid isPermaLink="true">http://stephenherko.com/the-importance-of-commenting-html</guid>
         
         
+        <category>blog</category>
+        
       </item>
     
       <item>
@@ -150,253 +288,7 @@
         <guid isPermaLink="true">http://stephenherko.com/will-google-start-penalizing-non-mobile-friendly-sites</guid>
         
         
-      </item>
-    
-      <item>
-        <title>Frontend Checklist</title>
-        <description>&lt;p&gt;I’ve put together a frontend checklist before you deploy your site. Or can be used as a friendly reminder. The list can be downloaded here: 
-&lt;a href=&quot;https://github.com/stephenherko/frontend-checklist&quot;&gt;https://github.com/stephenherko/frontend-checklist&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;css&quot;&gt;CSS&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CSS is linked first&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CSS served concatenated&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CSS is minified&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Consider SASS instead of CSS&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make sure each CSS file has a comment and title at top&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Never style ID’s&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Follow Structure
-    &lt;ul&gt;
-      &lt;li&gt;screen.scss (Contains all @include’s)&lt;/li&gt;
-      &lt;li&gt;vendor/ (CSS related to javascript)&lt;/li&gt;
-      &lt;li&gt;modules/ (mixins, variables and utilities (such as icons))&lt;/li&gt;
-      &lt;li&gt;patterns/ (global styles, buttons, and forms)&lt;/li&gt;
-      &lt;li&gt;components/ (groups of patterns with small bits of layout)&lt;/li&gt;
-      &lt;li&gt;layouts/ (page layouts go and any page-specific changes to patterns and components)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;javascript&quot;&gt;Javascript&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Javascript at bottom of page&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Javascript served concatenated&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google API used when possible&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Javascript is minified&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Add Modernizr.js&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make sure each JS file has a comment and title at top&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;gulpjs&quot;&gt;Gulp.js&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Use Gulp&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Clone gulpfile.js &lt;a href=&quot;https://github.com/stephenherko/gulpfile.js&quot; target=&quot;blank&quot;&gt;https://github.com/stephenherko/gulpfile.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CLI: npm init&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; CLI: npm install –save-dev gulp-(node module specific name)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;head&quot;&gt;Head&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Charset declared&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Expires headers are used advantageously&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Title tag is used - No more than 65 characters&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Meta description - No more than 150 characters&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Favicon&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Link to sitemap &amp;lt; link rel=”sitemap” type=”application/xml” title=”Sitemap” href=”/sitemap.xml” /&amp;gt;”&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;load-times&quot;&gt;Load Times&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Single pages are less than 500k&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Run through Google page speed &lt;a href=&quot;https://developers.google.com/speed/pagespeed/&quot; target=&quot;blank&quot;&gt;https://developers.google.com/speed/pagespeed/&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Images have height and width set&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Images used sparingly&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; PNG’s instead of GIF’s&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; All images have alt tags&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Minimize all images&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;html&quot;&gt;HTML&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; ID’s are unique to a page&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; HTML5 semanticly used (header, nav, main, section, article, aside, footer)&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Properly used H1-H6 tags&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; No broken Links&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Validate with W3C &lt;a href=&quot;http://validator.w3.org/&quot; target=&quot;blank&quot;&gt;http://validator.w3.org/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Responsive if applicable&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; &amp;lt; header &amp;gt; has role=”banner”&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; &amp;lt; nav &amp;gt; has role=”navigation”&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; &amp;lt; main &amp;gt; has role=”main”&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; 404 error page included&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Clean up commented code/unnecessary code&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make sure to follow secton/article HTML5 standards &lt;a href=&quot;https://github.com/stephenherko/html5blank/blob/master/index.html&quot;&gt;https://github.com/stephenherko/html5blank/blob/master/index.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;seo-on-site&quot;&gt;SEO (On-Site)&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Friendly URL’s&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Sitemap.xml - Submit to Google&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Help pagination with rel=”next” and rel=”prev” tag&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make sure robots can access page&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Use 301 instead of 302 when possible&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Responsive sites are better for SEO&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Use rel=”canonical” for duplicate content&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; HTML sitemap&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Sign up for Google pages &lt;a href=&quot;https://plus.google.com/dashboard&quot; target=&quot;blank&quot;&gt;plus.google.com/dashboard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Make use of rich snippets &lt;a href=&quot;http://schema.org&quot; target=&quot;blank&quot;&gt;www.schema.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;seo-on-page&quot;&gt;SEO (On-Page)&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Use hyphens to split urls&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Single keyword per page&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Keyword in URL&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Keyword in title&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Keyword in heading&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Keyword in content&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;seo-off-page&quot;&gt;SEO (Off-Page)&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google analytics &lt;a href=&quot;http://www.google.com/analytics&quot; target=&quot;blank&quot;&gt;http://www.google.com/analytics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google webmaster &lt;a href=&quot;http://www.google.com/webmasters&quot; target=&quot;blank&quot;&gt;http://www.google.com/webmasters&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google Business &lt;a href=&quot;http://www.google.com/business/&quot; target=&quot;blank&quot;&gt;http://www.google.com/business/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Google Plus Page &lt;a href=&quot;https://plus.google.com/&quot; target=&quot;blank&quot;&gt;https://plus.google.com//&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Add label and URL to Google plus page about contributor to section&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; &lt;a href=&quot;http://www.google.com/webmasters/tools/richsnippets&quot; target=&quot;blank&quot;&gt;http://www.google.com/webmasters/tools/richsnippets&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Twitter Page &lt;a href=&quot;https:/twitter.com/&quot; target=&quot;blank&quot;&gt;https://twitter.com//&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Facebook Page &lt;a href=&quot;https:/facebook.com/&quot; target=&quot;blank&quot;&gt;https://facebook.com//&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Pinterest Page &lt;a href=&quot;https:/pinterest.com/&quot; target=&quot;blank&quot;&gt;https://pinterest.com//&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;wordpress&quot;&gt;Wordpress&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; Yoast SEO plugin&lt;/li&gt;
-  &lt;li&gt;&lt;input type=&quot;checkbox&quot; /&gt; W3 Total Cache plugin&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Fri, 14 Nov 2014 11:22:20 -0600</pubDate>
-        <link>http://stephenherko.com/frontend-checklist</link>
-        <guid isPermaLink="true">http://stephenherko.com/frontend-checklist</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Yosemite UI Review</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/yosemite-osx.png&quot; alt=&quot;Yosemite OSX&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Yosemite was released Oct 16 which is currently the newest OS for Mac. It can be downloaded from the Apple app store for a free upgrade. It took a pretty big turn in it’s UI. Overall it’s more simple and straightforward.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-overall-branding&quot;&gt;The Overall Branding&lt;/h2&gt;
-&lt;p&gt;Personally I love the branding names Apple uses to describe their new updates. I.e snow lion, Mavericks, Yosemite. It beats just calling it 10.7. It also makes the user excited for the next one, like they’re getting more value. Overall I’d say this new design approach is aimed more towards simplifying things. This seems to be the case with design (especially UI design) in general the last 3 or so years. Design is getting back to it’s roots of simple, bold ideas. I think thats a great thing.&lt;/p&gt;
-
-&lt;h2 id=&quot;first-reaction&quot;&gt;First Reaction&lt;/h2&gt;
-&lt;p&gt;When I first saw Yosemite, I thought “It doesn’t even feel like Apple anymore.”. UI design in this case represents a pretty large part of your branding. Why look like someone else when you already have a lot going for you? However, after spending some time with it, I’ve grown to quite like it. I like the direction they’re going in.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-icons&quot;&gt;The Icons&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/safari-yosemite-icon.png&quot; alt=&quot;Yosemite Safari Icon&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Some of the icons changed quite a bit. At this point, those icons were mini logos, so I’m curious if that was a debate at some point. A lot of the gloss is taken out of the icons. Reinforcing that flat, graphic look UI seems to be going in for the past couple years.&lt;/p&gt;
-
-&lt;p&gt;Overall I think they did a good job. You’ll notice quite a difference between the safari icons. Comparing them side by side, the newer I’m glad to see more continuity.&lt;/p&gt;
-
-&lt;p&gt;One thing I wasn’t a fan of was the close, minimize, and maximize buttons. Since the gloss look has been completely removed from them, they “really” look like traffic lights now.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/close.png&quot; alt=&quot;Yosemite Finder Icon&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The classic “Apple blue” is now brighter. I think this was a good decision. Brighter looks happier. Why wouldn’t you want your users enjoying their experience. The finder icon in particular looks even more smiley. Every time I see it, I smiled. The bold line in the middle has been removed separating the two faces.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/yosemite-finder-icon.png&quot; alt=&quot;Yosemite Finder Icon&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;frosted-windows&quot;&gt;Frosted Windows&lt;/h2&gt;
-&lt;p&gt;Things like logging in, the dock, parts of any window make use of this frosted effect. I really liked the spotlight search in particular.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/spotlight.png&quot; alt=&quot;Yosemite Spotlight Search&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;lucida-grande-to-helvetica&quot;&gt;Lucida Grande to Helvetica&lt;/h2&gt;
-&lt;p&gt;I’ll admit Helvetica is my favorite font. (I’m a designer I have to say that) I actually feel like Helvetica is a bit “crisper” vs Lucida Grande. However, it’s a little thinner. So I think there’s pros and cons for readability sake. From a branding point of view, Helvetica definitely gives off that “modern” vibe for being such an old typeface.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/lucida-grande.png&quot; alt=&quot;Lucida Grand Yosemite OSX&quot; /&gt;
-&lt;img src=&quot;/img/helvetica-neue.png&quot; alt=&quot;Helvetica Neue Yosemite OSX&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;My very first reaction to the Yosemite UI was that I got an overwhelming sense that it’s been dumbed down. I thought was this a good thing, or does it come off too childish instead of the sophisticated apple UI thats been in the past? It was a bit of a shock at first, but after using it for a couple days, I really like it. I think the design team did a great job.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Nov 2014 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/yosemite-ui-review</link>
-        <guid isPermaLink="true">http://stephenherko.com/yosemite-ui-review</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Jekyll vs Wordpress 2014</title>
-        <description>&lt;p&gt;I’ve used wordpress a lot for projects. My preferred method is to design and write the theme from scratch. I’ve built a &lt;a href=&quot;https://github.com/stephenherko/wordpressblank&quot;&gt;blank wordpress shell&lt;/a&gt; to automate things a little better. I’ve been intrigued by &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; for a while now. I’ve built some sites locally but never put anything out in the “real world” with it. I like to build projects from the ground up, as opposed to starting with a bunch of code and hacking my way through until I get something I want.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;speed&quot;&gt;Speed&lt;/h3&gt;
-    &lt;p&gt;Speed is very important. It makes a better user experience and improves your SEO.&lt;br /&gt;
-&lt;strong&gt;Wordpress&lt;/strong&gt; - These days wordpress is getting pretty bloated. That was one of the reasons why I sought out an alternative to build my site with. I’m less likely to return to a site that feels very clunky and slow.&lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - Generates static html. It runs all on the client side. Every site I’ve visited that was built with Jekyll ran like a dream.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;git&quot;&gt;Git&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Wordpress&lt;/strong&gt; - Of course you can still use git with wordpress, but mainly for the design portion. Once your theme is set, your posting your blog posts to a database.&lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - You get to use git with Jekyll very often. Some may consider this a “pain”, but personally I love it. I feel like using git for everything with Jekyll like posting, design changes, template changes, it automates the process much more.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;security&quot;&gt;Security&lt;/h3&gt;
-    &lt;p&gt;Call me a paranoid person but internet security is important.&lt;br /&gt;
-&lt;strong&gt;Wordpress&lt;/strong&gt; - Are wordpress sites hackable? Oh yes. It took me all of 3 seconds to learn how to hack one &lt;a href=&quot;http://www.flippercode.com/how-to-hack-wordpress-site-using-sql-injection/&quot;&gt;here&lt;/a&gt;.&lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - Theres no databases to connect to with jekyll so no log in required. You write, then push your changes to your git repository. If your site is set up with github pages, this will update automatically. Basically there’s nothing to hack since it’s all static.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;ease-of-use&quot;&gt;Ease of use&lt;/h3&gt;
-    &lt;p&gt;Lets face it, were all busy with our lives, our significant others, families, our careers, you name it.&lt;br /&gt;
-&lt;strong&gt;Wordpress&lt;/strong&gt; - With wordpress you have to navigate to www.yoursite.com/wp-admin, enter your username and password, click the button to make a new blog post, then start writing. Even tho its my own site, I feel like I’m logging on to someones else’s to post my own content.&lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - I feel so much more connected with jekyll then I do with a wordpress blog. You can easily write offline, on your own computer in the editor of your choice. I feel like I’m more connected to my writing and my blog. Which makes me want to write more!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Wordpress&lt;/strong&gt; - At the core wordpress is built with PHP, but when you’re writing blog posts you get to use a WYSIWYG editor. I feel so lost with these things. I’ve noticed many times if you want to put a headline in an &amp;lt;h2&amp;gt; tag, and then you backspace, it’ll delete the tag, or put everything in an &amp;lt;h2&amp;gt; tag. Not only are you affecting the design of your post, but the SEO as well.&lt;br /&gt;
-&lt;strong&gt;Jeykll&lt;/strong&gt; - Is built with ruby and gives developers the opportunity to write their blog posts in markdown. Markdown is amazing to write with. In my opinion it’s easier to manage. I’m a programmer, id rather just see the code.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;templating&quot;&gt;Templating&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Wordpress&lt;/strong&gt; -  Wordpress has some things over jekyll in this regard. In wordpress you have the luxury of a dropdown menu which lets you pick the template you’d like to use.    &lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - With jekyll you need to type out which one you’d like. This could create problems if you had a 100 posts and wanted to change the template name.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;on-site-seo&quot;&gt;On Site SEO&lt;/h3&gt;
-    &lt;p&gt;This really comes down to strategy, and I’m mainly talking about your title, meta description, and friendly URL’s.&lt;br /&gt;
-&lt;strong&gt;Wordpress&lt;/strong&gt; - You either need to do write some custom functions or download a plugin to handle that for you. I’m not a huge advocate for plugins. Personally I can’t stand bloated, unnecessary code that comes with a lot of them. The setting for friendly URL’s is very easy to find, but doesn’t come out of the box.&lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - Comes out of the box supporting friendly URL’s. You’ll have to incorporate your own logic to support meta descriptions. Which really isn’t too difficult. I just added mine to post, then called it from my header template.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;maintenance&quot;&gt;Maintenance&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Wordpress&lt;/strong&gt; -  If you’re a wordpress developer or you use wordpress sites, you’ve of course ran into the white screen of death a time or two. If you’re just starting out with wordpress, it can be difficult to tell why that happend or where it came from. If you have plugins, those and the wordpress installation itself will most likely need to be updated every so often. If you don’t keep up with wordpress updates, you could put your site at risk for hackers. Installed a plugin that wasn’t friendly with your theme? Bam broken. Wordpress has been known to struggle under heavy load. This of course is situational and doesn’t happen to every wordpress site.&lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - The static generated HTML files only puts a tiny amount of load on your site. You can still break a Jekyll site, but the great thing about that is your CLI will give you a heads up on what happened.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;cost&quot;&gt;Cost&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Wordpress&lt;/strong&gt; - For a “professional site”, you’ll need a custom domain and hosting that supplies PHP 5.2.4 or greater and MySQL 5.0 or greater. &lt;br /&gt;
-&lt;strong&gt;Jekyll&lt;/strong&gt; - Can be hosted for free on your github account (if you choose to). You’ll need to purchase a domain name if you don’t want your url to appear as username.github.io. Not a requirement tho.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; I really like jekyll, and I’m going to try and use it as much as possible in the future. I’m not going to pick a “winner” because they both have pros and cons. I would use Wordpress over Jekyll when the project’s scope required certain features. Wordpress would absolutely be a better option for a team of bloggers, or a site that needs more control over it’s users. If you’re a single programmer, you like git, and have been wanting to write, give &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; a try. Let me know if you have a preference between the two.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 02 Nov 2014 04:15:16 -0600</pubDate>
-        <link>http://stephenherko.com/jekyll-vs-wordpress-2014</link>
-        <guid isPermaLink="true">http://stephenherko.com/jekyll-vs-wordpress-2014</guid>
-        
+        <category>blog</category>
         
       </item>
     

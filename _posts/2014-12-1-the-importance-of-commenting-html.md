@@ -3,6 +3,7 @@ layout: post
 title:  "The Importance of Commenting HTML"
 date:   2014-12-01 21:06:35
 categories:
+  - blog
 description: "The Importance of Commenting HTML is crucial. There are a lot of benefits to keeping your code structured."
 thumbnail: code
 ---

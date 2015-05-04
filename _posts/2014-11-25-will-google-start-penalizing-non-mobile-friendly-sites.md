@@ -3,6 +3,7 @@ layout: post
 title:  "Will google start penalizing non mobile friendly sites?"
 date:   2014-11-25 17:22:48
 categories:
+  - blog
 description: "Will google start penalizing non mobile friendly sites?
 Google announced that they’ll start tagging sites that are mobile friendly. This could affect the SEO rankings in the future."
 thumbnail: blog

@@ -1,30 +1,9 @@
-/**
- * Site Footer
- */
+/* Site Footer */
 
 .site-footer{
-  background-color: $black;
-  padding: 100px 0;
-  font-size: 0.875em;
-  border-bottom: 5px solid $red;
-}
-
-.site-footer__brand{
-  float: right;
-}
-
-.site-footer__nav{
-  float: right;
-
-  ul{
-    padding: 0;
-  }
-
-  li{
-    list-style-type: none;
-    float: left;
-    margin-left: 10px;
-    // font-family: $font__heading;
-    // text-transform: uppercase;
-  }
+  padding: 6em 0px;
+  text-align: center;
+  font-size: 0.75em;
+  color: #2A2A2D;
+  background-color: #111111;
 }

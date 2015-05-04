@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<main role="main">
+  <div class="container">
+    <div class="row">
+      <section>
+        <div class="col-5 col-center">
+          <div class="col-4">
+            <div class="wow fadeIn">{{content}}</div>
+          </div> <!-- /.col-4 -->
+          <div class="col-2">
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+          </div> <!-- /.col-2 -->
+        </div> <!-- /.col-5 .col-center -->
+      </section>
+    </div> <!-- /.row -->
+    <div class="row">
+      <section class="works">
+        <div class="col-5 col-center">
+          <div class="col-6"><hr></div>
+          {% for post in site.categories['works'] %}
+          <a href="{{post.url | prepend: site.baseurl}}">
+            <div class="col-2 col-md-3 col-sm-6">
+              <div class="work">
+                <img src="{{site.baseurl}}/img/work-thumb/{{post.thumbnail}}" alt="{{post.title}}">
+              </div> <!-- /.work -->
+            </div> <!-- /.col-2 -->
+          </a>
+          {% endfor %}
+        </div> <!-- /.col-5 col-center -->
+      </section> <!-- /section .works -->
+    </div> <!-- /.row -->
+  </div> <!-- /.container -->
+</main> <!-- /main -->

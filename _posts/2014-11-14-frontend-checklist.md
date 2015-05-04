@@ -3,6 +3,7 @@ layout: post
 title:  "Frontend Checklist"
 date:   2014-11-14 17:22:20
 categories:
+  - blog
 description: "A friendly frontend checklist for developers. Tips for CSS, Javascript, Gulp, SEO, Images, HTML, Load times."
 thumbnail: code
 ---

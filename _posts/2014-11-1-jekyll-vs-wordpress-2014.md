@@ -2,7 +2,8 @@
 layout: post
 title:  "Jekyll vs Wordpress 2014"
 date:   2014-11-02 10:15:16
-categories:
+categories: 
+  - blog
 description: "Jekyll vs Wordpress against various qualities including speed, security, on site seo, speed and more. Which is better at blogging in 2014?"
 thumbnail: blog
 ---

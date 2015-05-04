@@ -3,15 +3,21 @@
 ---
 @charset "utf-8";
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-
 /* Base */
 @import "vars";
-@import "html";
+@import "normalize";
+@import "body";
+
+/* Vendor */
+@import "animate";
 
 /* Layout */
+@import "grid";
 @import "site-header";
 @import "site-footer";
-@import "grid";
+
+/* Modules */
 @import "banner";
-@import "article";
+@import "clients";
+@import "works";
+@import "services";

@@ -20,7 +20,13 @@
   <link rel="dns-prefetch" href="//www.google-analytics.com">
 
   <!-- Typography -->
-  <link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+  <!-- Scripts -->
+  <script src="/js/wow.min.js"></script>
+  <script>
+    new WOW().init();
+  </script>
 
   <!-- Author -->
   <link rel="author" href="https://plus.google.com/110424801622068807906/posts">
@@ -46,44 +52,74 @@
 <![endif]-->
 
 <header class="site-header" role="banner">
-  <div class="container">
-    <div class="row">
-      <div class="col-6">
-        <div class="site-header__brand">
-          <a href="/">
-            <img src="/img/sherko-logo6.svg" height="35" alt="">
-          </a>
-        </div> <!-- /.site-header__brand -->
-        <nav class="site-header__nav" role="navigation">
-          <ul>
-            <li><a href="/">Work</a></li>
-            <li><a href="/about/">About</a></li>
-            <li><a href="/articles/">Articles</a></li>
-            <li><a href="/contact/">Contact</a></li>
-          </ul>
-        </nav> <!-- /site-header__nav -->
-      </div> <!-- /.col-6 -->
-    </div> <!-- /.row -->
-  </div> <!-- /.container -->
+  <div class="site-header__brand">
+    <a href="/"><img src="/img/herko-logo.svg" width="172" height="72" alt="Stephen Herko"></a>
+  </div> <!-- /.site-header__brand -->
 </header> <!-- /.site-header -->
 
 <section class="banner">
+  <h2 class="banner__msg wow fadeIn">creative solutions <br />are my biggest passion</h2>
+</section> <!-- /section .banner -->
+
+<section class="works">
   <div class="container">
     <div class="row">
-      <h2 class="banner__msg">Creative<span class="banner__msg--red">Direction</span></h2>
+      <div class="col-5 col-center">
+        
+        <a href="/vertex">
+          <div class="col-2 col-md-3 col-sm-6 wow fadeInUp">
+            <div class="work">
+              <img src="/img/work-thumb/vertex-thumb.jpg" alt="Vertex">
+            </div> <!-- /.work -->
+          </div> <!-- /.col-2 -->
+        </a>
+        
+        <a href="/pvp-live">
+          <div class="col-2 col-md-3 col-sm-6 wow fadeInUp">
+            <div class="work">
+              <img src="/img/work-thumb/pvplive-thumb.jpg" alt="PVP Live">
+            </div> <!-- /.work -->
+          </div> <!-- /.col-2 -->
+        </a>
+        
+        <a href="/inu-clothing">
+          <div class="col-2 col-md-3 col-sm-6 wow fadeInUp">
+            <div class="work">
+              <img src="/img/work-thumb/inu-thumb.jpg" alt="INU Clothing">
+            </div> <!-- /.work -->
+          </div> <!-- /.col-2 -->
+        </a>
+        
+        <a href="/sugar-house">
+          <div class="col-2 col-md-3 col-sm-6 wow fadeInUp">
+            <div class="work">
+              <img src="/img/work-thumb/sugarhouse-thumb.jpg" alt="Sugar House">
+            </div> <!-- /.work -->
+          </div> <!-- /.col-2 -->
+        </a>
+        
+        <a href="/stephenherko">
+          <div class="col-2 col-md-3 col-sm-6 wow fadeInUp">
+            <div class="work">
+              <img src="/img/work-thumb/stephen-thumb.jpg" alt="Personal Branding">
+            </div> <!-- /.work -->
+          </div> <!-- /.col-2 -->
+        </a>
+        
+        <a href="/nittany-entertainment">
+          <div class="col-2 col-md-3 col-sm-6 wow fadeInUp">
+            <div class="work">
+              <img src="/img/work-thumb/nittany-thumb.jpg" alt="Nittany Entertainment">
+            </div> <!-- /.work -->
+          </div> <!-- /.col-2 -->
+        </a>
+        
+      </div> <!-- /.col-5 col-center -->
     </div> <!-- /.row -->
   </div> <!-- /.container -->
-</section> <!-- /section banner -->
+</section> <!-- /section .works -->
 
-<main role="main" class="container">
-  <section class="works">
-    <div class="container">
-      <div class="row">
-        
-      </div> <!-- /.row -->
-    </div> <!-- /.container -->
-  </section> <!-- /section works -->
-
+<!--
   <section class="articles">
     <div class="container">
       <div class="row">
@@ -93,9 +129,8 @@
             <time class="article__time" datetime="2015-01-08 12:12:48"></time>
             <h2 class="article__title"><a href="/cut-out-those-ids">Cut Out Those ID's</a></h2>
             <p class="article__body">ID’s are considered “non-reusable” code. It has weight, it makes a statement that this block of code is so important it shouldn’t appear more than once on the page. It...</p>
-            <!-- <a class="article__read" href="/cut-out-those-ids">Read</a> -->
-          </article> <!-- /.article -->
-        </div> <!-- /.col-2 -->
+          </article> 
+        </div> 
         
         <div class="col-2 col-md-3 col-sm-6">
           <article class="article">
@@ -109,18 +144,16 @@
 
 
 </p>
-            <!-- <a class="article__read" href="/5-things-i-love-about-sublime-text-that-other-editors-dont-have">Read</a> -->
-          </article> <!-- /.article -->
-        </div> <!-- /.col-2 -->
+          </article> 
+        </div> 
         
         <div class="col-2 col-md-3 col-sm-6">
           <article class="article">
             <time class="article__time" datetime="2014-12-01 15:06:35"></time>
             <h2 class="article__title"><a href="/the-importance-of-commenting-html">The Importance of Commenting HTML</a></h2>
             <p class="article__body">Benefits Easy for team members to understand Discern what’s going on more quickly in old code Much easier to read when your code gets lengthy Sublime Text makes it very...</p>
-            <!-- <a class="article__read" href="/the-importance-of-commenting-html">Read</a> -->
-          </article> <!-- /.article -->
-        </div> <!-- /.col-2 -->
+          </article> 
+        </div> 
         
         <div class="col-2 col-md-3 col-sm-6">
           <article class="article">
@@ -129,9 +162,8 @@
             <p class="article__body">Google announced that they’ll start tagging sites that are mobile friendly. This could affect the SEO rankings in the future.
 
 </p>
-            <!-- <a class="article__read" href="/will-google-start-penalizing-non-mobile-friendly-sites">Read</a> -->
-          </article> <!-- /.article -->
-        </div> <!-- /.col-2 -->
+          </article> 
+        </div> 
         
         <div class="col-2 col-md-3 col-sm-6">
           <article class="article">
@@ -141,9 +173,8 @@
 https://github.com/stephenherko/frontend-checklist
 
 </p>
-            <!-- <a class="article__read" href="/frontend-checklist">Read</a> -->
-          </article> <!-- /.article -->
-        </div> <!-- /.col-2 -->
+          </article> 
+        </div> 
         
         <div class="col-2 col-md-3 col-sm-6">
           <article class="article">
@@ -152,34 +183,111 @@ https://github.com/stephenherko/frontend-checklist
             <p class="article__body">
 
 </p>
-            <!-- <a class="article__read" href="/yosemite-ui-review">Read</a> -->
-          </article> <!-- /.article -->
-        </div> <!-- /.col-2 -->
+          </article> 
+        </div> 
         
-        <div class="col-2 col-md-3 col-sm-6">
-          <article class="article">
-            <time class="article__time" datetime="2014-11-02 04:15:16"></time>
-            <h2 class="article__title"><a href="/jekyll-vs-wordpress-2014">Jekyll vs Wordpress 2014</a></h2>
-            <p class="article__body">I’ve used wordpress a lot for projects. My preferred method is to design and write the theme from scratch. I’ve built a blank wordpress shell to automate things a little...</p>
-            <!-- <a class="article__read" href="/jekyll-vs-wordpress-2014">Read</a> -->
-          </article> <!-- /.article -->
-        </div> <!-- /.col-2 -->
-        
+      </div> 
+    </div> 
+  </section> -->
+
+  <section class="clients">
+    <h2>Who I've Worked With</h2>
+    <div class="col-3 col-sm-6 col-center">
+      <p>I've had the opportunity to work with some pretty amazing companies during my career. From the top casinos in the U.S. to fortune 500 companies to some of the best game developers in the world.</p>
+    </div> <!-- /.col-3 .col-center -->
+    <div class="container">
+      <div class="row">
+        <div class="col-3 col-md-6 col-center">
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/twitch.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/coca-cola.svg" width="128" height="128" alt="Coca-Cola">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/blizzard.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/fanta.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/4as.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+
+          <div class="col-2 col-md-6 client wow fadeInUp">
+            <img src="img/sprite.svg" width="128" height="128" alt="Twitch">
+          </div> <!-- /.col-2 -->
+        </div> <!-- /.col-center -->
       </div> <!-- /.row -->
     </div> <!-- /.container -->
-  </section> <!-- /section articles -->
+  </section> <!-- /section .clients -->
+
+  <section class="services">
+    <div class="service">
+      <div class="row row-no-gutter">
+        <div class="col-3 col-sm-6 wow fadeInLeft">
+          <div class="service__img service__img--branding"></div>
+        </div> <!-- /.col-3 -->
+        <div class="col-3 col-sm-6 wow fadeInRight">
+          <div class="service__body__cont">
+            <div class="service__body">
+              <img src="img/branding-icon.svg" width="48" height="48" alt="">
+              <h3 class="service__title">Branding</h3>
+              <p>The voice and face of your company, it represents everything. Whatever your voice is, it should communicate exactly who you are.</p>
+            </div> <!-- /.service__body -->
+          </div> <!-- /.service__body__cont -->
+        </div> <!-- /.col-3 -->
+      </div> <!-- /.row -->
+    </div> <!-- /.service -->
+
+    <div class="service">
+      <div class="row row-no-gutter">
+        <div class="col-3 col-sm-6 wow fadeInLeft">
+          <div class="service__body__cont">
+            <div class="service__body">
+              <img src="img/web-icon.svg" width="48" height="48" alt="">
+              <h3 class="service__title">Web/UI</h3>
+              <p>A user interface is more than just looking good, it's the part that greets the user and guides them through.</p>
+            </div> <!-- /.service__body -->
+          </div> <!-- /.service__body__cont -->
+        </div> <!-- /.col-3 -->
+        <div class="col-3 col-sm-6 wow fadeInRight">
+          <div class="service__img service__img--web"></div>
+        </div> <!-- /.col-3 -->
+      </div> <!-- /.row -->
+    </div> <!-- /.service -->
+
+    <div class="service">
+      <div class="row row-no-gutter">
+        <div class="col-3 col-sm-6 wow fadeInLeft">
+          <div class="service__img service__img--design"></div>
+        </div> <!-- /.col-3 -->
+        <div class="col-3 col-sm-6 wow fadeInRight">
+          <div class="service__body__cont">
+            <div class="service__body">
+              <img src="img/design-icon.svg" width="48" height="48" alt="">
+              <h3 class="service__title">Design</h3>
+              <p>A good design is the very first thing your viewers will notice. It's important it makes the right first impression.</p>
+            </div> <!-- /.service__body -->
+          </div> <!-- /.service__body__cont -->
+        </div> <!-- /.col-3 -->
+      </div> <!-- /.row -->
+    </div> <!-- /.service -->
+    
+  </section> <!-- /section .services -->
+
 </main> <!-- /main -->
 
 <footer class="site-footer">
   <div class="container">
-    &copy; 2015 Copyright Stephen Herko
-    <nav class="site-footer__nav">
-      <li><a href="/feed.xml">RSS</a></li>
-      <li><a href="mailto: hello@stephenherko.com">hello@stephenherko.com</a></li>
-      <li><a href="/contact/">Contact</a></li>
-      <li><a href="/about/">About</a></li>
-      <li><a href="/cv/">CV</a></li>
-    </nav> <!-- /.site-footer__nav -->
+    <div class="row">
+      <img src="/img/herko-logo.svg" width="300" alt="">
+      <p>&copy; Copyright 2015 stephenherko.com</p>
+    </div> <!-- /.row -->
   </div> <!-- /.container -->
 </footer> <!-- /.site-footer -->
 

@@ -1,0 +1,25 @@
+/* Works */
+
+.works{}
+
+.work{
+  // height: 192px;
+  // background: $color--blue;
+  text-align: center;
+  overflow: hidden;
+  max-height: 200px;
+
+  img{
+    display: block;
+    min-width: 100%;
+    // opacity: 0.9;
+    transition: all .5s ease-in-out;
+      -webkit-transition: all .5s ease-in-out;
+  }
+
+  &:hover img{
+    // opacity: 1;
+    min-width: 120% !important;
+
+  }
+}

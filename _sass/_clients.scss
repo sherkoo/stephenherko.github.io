@@ -1,0 +1,23 @@
+/* Clients */
+
+.clients{
+  text-align: center;
+  padding-bottom: 96px;
+  padding-top: 72px;
+}
+
+.client[class*='col-']{
+  margin: 0;
+}
+
+.client{
+  border: 1px solid #ddd;
+  background-color: #fafafa;
+
+  // box-shadow: inset 1px 1px 1px #fff;
+  //   -webkit-box-shadow: inset 1px 1px 1px #fff;
+
+  &:first-child{
+    border-left: 1px solid #ddd;
+  }
+}

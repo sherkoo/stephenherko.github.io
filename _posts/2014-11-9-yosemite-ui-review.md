@@ -3,6 +3,7 @@ layout: post
 title:  "Yosemite UI Review"
 date:   2014-11-09 15:44:10
 categories:
+  - blog
 description: "Yosemite OSX took a pretty big turn in it's UI and UX. Here I'll breakdown and describe it's simple approach."
 thumbnail: yosemite
 ---

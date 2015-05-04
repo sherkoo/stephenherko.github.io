@@ -78,11 +78,17 @@ $grid-breakpoint-2: 400px;
 
 /* Remove gutter from columns in this row */
 .row-no-gutter{
-  padding: 0 $grid-col-gutter;
+  padding: 0;
 }
 
 .row-no-gutter [class*='col-']{
   padding: 0;
+  margin: 0;
+}
+
+/* Remove margin from columns */
+.col-no-margin{
+  margin: 0;
 }
 
 /**
@@ -186,15 +192,6 @@ $grid-breakpoint-2: 400px;
 .col-center{
   margin: 0 auto $grid-col-margin auto;
   float: none;
-}
-
-/* Float/pull/push columns */
-.col-right{
-  float: right;
-}
-
-.col-left{
-  float: left;
 }
 
 /**

@@ -3,6 +3,7 @@ layout: post
 title:  "Cut Out Those ID's"
 date:   2015-1-8 18:12:48
 categories:
+  - blog
 description: "Should you use ID's or classes in CSS? I believe they shouldn’t be used or very very sparingly. CSS should be thought of in an object oriented manner."
 thumbnail: code
 ---

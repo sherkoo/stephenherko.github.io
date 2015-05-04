@@ -1,13 +1,9 @@
 <footer class="site-footer">
   <div class="container">
-    &copy; {{ 'now' | date: "%Y" }} Copyright {{ site.title }}
-    <nav class="site-footer__nav">
-      <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li>
-      <li><a href="mailto: hello@stephenherko.com">{{ site.email }}</a></li>
-      <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
-      <li><a href="{{ site.baseurl }}/about/">About</a></li>
-      <li><a href="{{ site.baseurl }}/cv/">CV</a></li>
-    </nav> <!-- /.site-footer__nav -->
+    <div class="row">
+      <img src="{{site.baseurl}}/img/herko-logo.svg" width="300" alt="">
+      <p>&copy; Copyright {{ 'now' | date: "%Y" }} stephenherko.com</p>
+    </div> <!-- /.row -->
   </div> <!-- /.container -->
 </footer> <!-- /.site-footer -->
 
