@@ -1,0 +1,51 @@
+/**
+ * Section
+ * -------------
+ * Controls spacing for each section throughout
+ * Should be applied to each <section> tag
+ */
+
+.section{
+  padding: 90px 0;
+}
+
+/**
+ * Section Title
+ * -------------
+ * Appears as the title above each <section> throughout 
+ */
+.section-title{
+  font-size: 20px;
+  font-family: $font__serif;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 0 0 60px 0;
+  margin: 0;
+  font-weight: normal;
+}
+
+.section-title--small{
+  @extend .section-title;
+  padding-bottom: 20px;
+}
+
+/**
+ * Section Crowd
+ * -------------
+ * Applies image of crowd to <section>
+ */
+.section--crowd{
+  background: #333 url('../img/crowd.jpg') no-repeat;
+  background-size: cover;
+
+  .section--title{
+    color: #fff !important;
+  }
+}
+
+/**
+ * Section White
+ */
+.section--white{
+  background-color: #fff;
+}

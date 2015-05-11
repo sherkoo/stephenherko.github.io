@@ -1,0 +1,30 @@
+/**
+ * Buttons
+ */
+
+.btn{
+  line-height: 48px;
+  height: 48px;
+  display: inline-block;
+  width: 135px;
+  text-align: center;
+  margin: 40px 0;
+  text-transform: uppercase;
+  font-family: $font__serif;
+  border: 2px solid $color__gray;
+
+  &:hover{
+    background-color: $color__red;
+    color: #fff;
+    border-color: $color__red;
+  }
+}
+
+.btn--center{
+  margin: 40px auto;
+  display: block;
+}
+
+.btn--white{
+  color: #fff;
+}

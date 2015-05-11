@@ -1,0 +1,90 @@
+/* Tour Schedule */
+
+.tour-schedule{
+  // width: 100%;
+  text-transform: uppercase;
+  // border-collapse: collapse;
+
+  .icon-location{
+    color: $color__red;
+    font-size: 1.25em;
+    margin-right: 3px;
+  }
+}
+
+.tour-schedule__row{
+  height: 82px;
+  line-height: 82px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.tour-schedule .row:first-child{
+  border-top: 1px solid #e6e6e6;
+}
+
+.tour-schedule__date{
+  color: #444444;
+}
+
+.tour-schedule__date--month{
+  color: $color__red;
+  font-weight: bold;
+}
+
+.tour-schedule__venue{
+  // float: left;
+  // width: 419px;
+}
+
+.tour-schedule__location{
+  // float: left;
+}
+
+/**
+ * Tour Schedule Share Links
+ */
+.tour-schedule__links{
+  margin-left: 50px;
+  position: relative;
+  display: inline;
+}
+
+.tour-schedule__links--bold{
+  @extend .tour-schedule__links;
+  font-weight: 700;
+}
+
+.tour-schedule__share-icons{
+  position: absolute;
+  width: 300px;
+  margin-left: -20px;
+  top: 0;
+
+  ul{
+    margin: 0;
+    padding: 0;
+  }
+
+  li{
+    float: left;
+    font-size: 20px;
+    display: inline;
+  }
+}
+
+.tour-schedule__share-btn{
+  cursor: pointer;
+}
+
+// .tour-schedule__share-btn:hover{
+//   display: none;
+// }
+
+.tour-schedule__share-btn:hover .tour-schedule__share-icons{
+  display: block !important;
+}
+
+
+
+
+
