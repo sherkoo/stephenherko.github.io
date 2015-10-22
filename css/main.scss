@@ -333,12 +333,12 @@ h1,h2,h3,h4,h5,h6{
  /**
   * Footer
   */
-.footer{
-
-}
-
 .footer.header{
   border-top: none;
+
+  @media(max-width: $breakpoint3){
+    display: none !important;
+  }
 }
 
 .footer.header>.container{
@@ -436,10 +436,18 @@ h1,h2,h3,h4,h5,h6{
 .clients{
   display: flex;
   display: -webkit-flex;
+  flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+
+
 
   img{
     flex: 1;
       -webkit-flex: 1;
     margin: 0 10px;
+
+    @media(max-width: $breakpoint2){
+      flex-basis: 25%;
+    }
   }
 }
