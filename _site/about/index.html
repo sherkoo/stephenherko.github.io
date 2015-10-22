@@ -22,12 +22,6 @@
   <!-- Typography -->
   <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 
-  <!-- Scripts -->
-  <script src="/js/wow.min.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-
   <!-- Author -->
   <link rel="author" href="https://plus.google.com/110424801622068807906/posts">
   <meta name="google-site-verification" content="dQCNooJWsn6sN-03uupHcOoMJUTeZ7l5XPJItObHxYE" />
@@ -36,6 +30,7 @@
   <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
 
   <!-- Style -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" media="screen" title="no title" charset="utf-8">
   <link rel="stylesheet" href="/css/main.css">
 
   <!-- Canonical -->
@@ -51,28 +46,73 @@
   <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 
-<header class="site-header" role="banner">
-  <div class="site-header__brand">
-    <a href="/"><img src="/img/herko-logo.svg" width="172" height="72" alt="Stephen Herko"></a>
-  </div> <!-- /.site-header__brand -->
-</header> <!-- /.site-header -->
+
+<header class="header" role="banner">
+  <div class="container">
+    <div class="header-logo">
+  <a href="/"><img src="/img/herko-logo.svg" alt="Stephen Herko" title="Stephen Herko Designer" /></a>
+</div>
+<button type="button" name="button" class="mobile-btn">
+  <img src="/img/menu-icon.svg" />
+</button>
+<nav class="header-nav" role="navigation">
+  <ul>
+    <li><a href="/">Work</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="mailto: stephenherko@gmail.com">Contact</a></li>
+  </ul>
+</nav>
+
+  </div>
+</header>
+
 
 <main role="main">
   <section>
     <div class="container">
       <div class="row">
         <article>
-          <div class="col-3 col-center">
+          <main>
+  <section>
+  <div class="container">
+        <div class="grid">
+          <div class="grid-col-1">
+            <img src="/img/pic.jpg" alt="" />
+            <!-- <img src="/img/about.jpg" alt="" /> -->
+          </div>
+          <div class="grid-col-2">
+            <h2>Hello, My name is Stephen</h2>
+            <p>I've been working professionally for the last 10 years. My background began in advertising where I developed print and marketing campaigns. From there I fell in love with design and branding. It seems to take up most of my time and thoughts these days. </p>
 
-  <h1>Hello, <br />my name is Stephen</h1>
+            <p>Originally from the Philadelphia area, now residing in Texas. I'm always looking for challenges and self improvement. Two things I believe are essential to any creative's career.</p>
 
-  <p>I've been working professionally for the last 10 years. My background began in advertising where I developed print and marketing campaigns. From there I fell in love with design and branding. It seems to take up most of my time and thoughts these days. </p>
+            <p>I'm currently working as the creative director for PVP Live. I'm interested in skill sets like Branding, Front End Development, UI/UX Design, as well as a little marketing sprinkled on top. I love helping brands reach and develop their voice.</p>
 
-  <p>Originally from the Philadelphia area, now residing in Texas. I'm always looking for challenges and self improvment. Two things I believe are essential to any creative's career.</p>
+            <section>
+  <div class="container">
+    <div class="row">
+      <h2>Who I've Worked With</h2>
+      <p>I've had the opportunity to work with some pretty amazing companies during my career. From the top casinos in the U.S. to fortune 500 companies to some of the best game developers in the world.</p>
+    </div> <!-- /.row -->
+  </div> <!-- /.container -->
+  <div class="container">
+    <div class="clients">
+      <img src="/img/twitch.svg" width="128" height="128" alt="Twitch" />
+      <img src="/img/coca-cola.svg" width="128" height="128" alt="Coca-Cola" />
+      <img src="/img/blizzard.svg" width="128" height="128" alt="Twitch" />
+      <img src="/img/fanta.svg" width="128" height="128" alt="Twitch" />
+      <img src="/img/4as.svg" width="128" height="128" alt="Twitch" />
+      <img src="/img/sprite.svg" width="128" height="128" alt="Twitch" />
+    </div>
+  </div>
+</section> <!-- /section .clients -->
 
-  <p>I'm currently working as the creative director for PVP Live. I'm interested in skill sets like Branding, Front End Development, UI/UX Design, as well as a little marketing sprinkled on top. I love helping brands reach and develop their voice.</p>
 
-</div>
+          </div>
+        </div>
+    </div>
+  </section>
+</main>
 
         </article> <!-- /article -->
       </div> <!-- /.row -->
@@ -80,17 +120,31 @@
   </section> <!-- /section -->
 </main> <!-- /main -->
 
-<footer class="site-footer">
+<footer class="footer header" role="banner">
   <div class="container">
-    <div class="row">
-      <img src="/img/herko-logo.svg" width="300" alt="">
-      <p>&copy; Copyright 2015 stephenherko.com</p>
-    </div> <!-- /.row -->
-  </div> <!-- /.container -->
-</footer> <!-- /.site-footer -->
+    <div class="header-logo">
+  <a href="/"><img src="/img/herko-logo.svg" alt="Stephen Herko" title="Stephen Herko Designer" /></a>
+</div>
+<button type="button" name="button" class="mobile-btn">
+  <img src="/img/menu-icon.svg" />
+</button>
+<nav class="header-nav" role="navigation">
+  <ul>
+    <li><a href="/">Work</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="mailto: stephenherko@gmail.com">Contact</a></li>
+  </ul>
+</nav>
+
+    <br>
+  </div>
+  <small>&copy; Copyright 2015 stephenherko.com</small>
+</footer>
 
 <!-- Scripts -->
 <script src="/js/modernizr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/js/scripts.js"></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
