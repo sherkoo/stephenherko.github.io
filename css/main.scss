@@ -3,11 +3,14 @@
 ---
 @charset "utf-8";
 
+/**
+ * Vars
+ */
+
 // Typography
 $body-font: 'Open Sans', sans-serif;
 $heading-font: 'Montserrat', sans-serif;
 
-// Colors
 // $green-color: #BBE090;
 $green-color: #29af87;
 $black-color: #211F1F;
@@ -16,6 +19,10 @@ $black-color: #211F1F;
 $breakpoint1: 1260px;
 $breakpoint2: 768px;
 $breakpoint3: 375px;
+
+/**
+ * HTML
+ */
 
 *,
 *:before,
@@ -242,6 +249,7 @@ h1,h2,h3,h4,h5,h6{
 
    img{
      display: block;
+     width: 100%;
      transition: all .25s ease-in-out;
       -webkit-transition: all .25s ease-in-out;
    }
@@ -391,6 +399,8 @@ h1,h2,h3,h4,h5,h6{
 
 /**
  * Grid
+ * ------
+ * Simple grid built for about page
  */
 
 .grid{
@@ -432,19 +442,27 @@ h1,h2,h3,h4,h5,h6{
   }
 }
 
-// Clients
+/**
+ * Clients
+ * ---------
+ * Includes all the client logos seen on home and about page
+ */
+
+.clients-section{
+  // width: 60%;
+  // margin: 0 auto;
+}
+
 .clients{
   display: flex;
   display: -webkit-flex;
   flex-flow: row wrap;
     -webkit-flex-flow: row wrap;
 
-
-
   img{
     flex: 1;
       -webkit-flex: 1;
-    margin: 0 10px;
+    margin: 0 2em 1em 0;
 
     @media(max-width: $breakpoint2){
       flex-basis: 25%;
