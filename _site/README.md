@@ -1,4 +1,6 @@
 stephenherko.com
 ======================
 
-My personal website built on 14px/24px with a 24px baseline grid.
+My personal website
+
+![Alt text](https://raw.githubusercontent.com/stephenherko/music-timeline/master/assets/img/screenhshot.png)
