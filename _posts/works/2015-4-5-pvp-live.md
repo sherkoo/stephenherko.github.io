@@ -10,16 +10,16 @@ thumbnail: pvp-live-biz-card.jpg
 
 ![PVP Live Business Card](/img/pvp-live-biz-card.jpg)
 
-![PVP Live Website](/img/pvp-live-branding-1.jpg)
+![PVP Live Branding](/img/pvp-live-branding-1.jpg)
 
-![PVP Live Website](/img/pvp-live-branding-2.jpg)
+![PVP Live Branding](/img/pvp-live-branding-2.jpg)
 
-![PVP Live Website](/img/pvp-live-branding-3.jpg)
+![PVP Live Branding](/img/pvp-live-branding-3.jpg)
 
-![PVP Live Website](/img/pvp-live-branding-4.jpg)
+![PVP Live Branding](/img/pvp-live-branding-4.jpg)
 
-![PVP Live Website](/img/pvp-live-branding-5.jpg)
+![PVP Live Branding](/img/pvp-live-branding-5.jpg)
 
-![PVP Live Website](/img/pvp-live-branding-6.jpg)
+![PVP Live Branding](/img/pvp-live-branding-6.jpg)
 
-![PVP Live Website](/img/pvp-live-branding-7.jpg)
+![PVP Live Branding](/img/pvp-live-branding-7.jpg)
