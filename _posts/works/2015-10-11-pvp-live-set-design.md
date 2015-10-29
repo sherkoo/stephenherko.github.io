@@ -8,16 +8,16 @@ description: "The PVP Live Set Design was designed for Esports leagues. The prod
 thumbnail: hpl-2.jpg
 ---
 
-![](/img/hpl-2.jpg)
+![PVP Live Set Design](/img/hpl-2.jpg)
 
-![](/img/hpl-1.jpg)
+![PVP Live Set Design](/img/hpl-1.jpg)
 
-![](/img/hpl-3.jpg)
+![PVP Live Set Design](/img/hpl-3.jpg)
 
 <!-- ![](/img/unfinished-set-design.jpg) -->
 
-![](/img/hpl-4.jpg)
+![PVP Live Set Design](/img/hpl-4.jpg)
 
-![](/img/hpl-5.jpg)
+![PVP Live Set Design](/img/hpl-5.jpg)
 
-![](/img/hpl-6.jpg)
+![PVP Live Set Design](/img/hpl-6.jpg)
