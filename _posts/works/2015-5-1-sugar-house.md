@@ -1,6 +1,6 @@
 ---
 layout: work
-description: "SugarHouse Casino is a casino entertainment development along the Delaware River in Philadelphia, Pennsylvania's Fishtown neighborhood, one of five stand-alone casinos awarded a gaming license on December 20, 2006 by the Pennsylvania Gaming Control Board. SugarHouse's first phase opened on September 23, 2010."
+description: "Sugarhouse is one of the first casinos in Philadelphia. A teaser campaign was launched before it’s grand opening depicting gaming icons throughout iconic places in Philadelphia."
 categories:
   - works
 thumbnail: "sugarhouse-spread.jpg"
