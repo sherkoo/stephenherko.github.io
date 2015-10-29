@@ -7,6 +7,6 @@ categories:
 thumbnail: "music-timeline-1.jpg"
 ---
 
-![](/img/music-timeline-1.jpg)
+![Music timeline angularjs](/img/music-timeline-1.jpg)
 
-![](/img/music-timeline-2.jpg)
+![Music timeline angularjs](/img/music-timeline-2.jpg)
