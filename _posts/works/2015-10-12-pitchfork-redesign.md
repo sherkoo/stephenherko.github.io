@@ -7,16 +7,16 @@ categories:
 thumbnail: "pitchfork-5.png"
 ---
 
-![](/img/pitchfork-1.png)
+![Pitchfork website redesign](/img/pitchfork-1.png)
 
-![](/img/pitchfork-2.png)
+![Pitchfork website redesign](/img/pitchfork-2.png)
 
-![](/img/pitchfork-3.png)
+![Pitchfork website redesign](/img/pitchfork-3.png)
 
-![](/img/pitchfork-4.png)
+![Pitchfork website redesign](/img/pitchfork-4.png)
 
-![](/img/pitchfork-5.png)
+![Pitchfork website redesign](/img/pitchfork-5.png)
 
-![](/img/pitchfork-6.png)
+![Pitchfork website redesign](/img/pitchfork-6.png)
 
-![](/img/pitchfork-7.png)
+![Pitchfork website redesign](/img/pitchfork-7.png)
