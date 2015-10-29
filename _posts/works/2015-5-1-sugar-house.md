@@ -6,14 +6,14 @@ categories:
 thumbnail: "sugarhouse-spread.jpg"
 ---
 
-![](/img/sugarhouse01.jpg)
+![Sugar House Casino](/img/sugarhouse01.jpg)
 
-![](/img/sugarhouse02.jpg)
+![Sugar House Casino](/img/sugarhouse02.jpg)
 
-![](/img/sugarhouse-spread.jpg)
+![Sugar House Casino](/img/sugarhouse-spread.jpg)
 
-![](/img/sugarhouse03.jpg)
+![Sugar House Casino](/img/sugarhouse03.jpg)
 
-![](/img/sugarhouse04.jpg)
+![Sugar House Casino](/img/sugarhouse04.jpg)
 
-![](/img/sugarhouse-exterior.jpg)
+![Sugar House Casino](/img/sugarhouse-exterior.jpg)
