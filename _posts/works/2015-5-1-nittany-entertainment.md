@@ -7,14 +7,14 @@ categories:
 thumbnail: "nittany-ipad.png"
 ---
 
-![](/img/nittany-biz-cards.png)
+![Nittany Entertainment business card](/img/nittany-biz-cards.png)
 
-![](/img/nittany-closeup.png)
+![Nittany Entertainment website](/img/nittany-closeup.png)
 
-![](/img/nittany-ipad.png)
+![Nittany Entertainment ipad](/img/nittany-ipad.png)
 
-![](/img/nittany-iphone.png)
+![Nittany Entertainment mobile](/img/nittany-iphone.png)
 
-![](/img/nittany-thumb.png)
+![Nittany Entertainment website](img/nittany-thumb.png)
 
-![](/img/nittany-shirt.png)
+![Nittany Entertainment shirt](/img/nittany-shirt.png)
