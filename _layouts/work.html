@@ -5,9 +5,11 @@ layout: default
 <main role="main">
   <div class="container">
     <section class="work-single">
+      <div class="work-single-meta">
+        <h1 class="work-single-title">{{page.title}}</h1>
+        <p class="work-single-desc">{{page.description}}</p>
+      </div>
       {{content}}
-      <h1>{{page.title}}</h1>
-      <p>{{page.description}}</p>
     </section>
   </div> <!-- /.container -->
 </main> <!-- /main -->

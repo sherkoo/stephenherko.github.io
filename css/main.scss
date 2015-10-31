@@ -289,14 +289,40 @@ h1,h2,h3,h4,h5,h6{
  }
 
  .work-single{
-   text-align: center;
-
    img{
      text-align: center;
      display: block;
      margin: 0 auto;
-    //  margin-bottom: 2em;
    }
+ }
+
+.work-single-meta{
+  text-align: left;
+  display: flex;
+    display: -webkit-flex;
+
+  .work-single-title{
+    flex: 1 0 0;
+    -webkit-flex: 1 0 0;
+
+    @media(max-width: $breakpoint3){
+      display: none;
+    }
+  }
+
+  .work-single-desc{
+    flex: 3 0 0;
+      -webkit-flex: 3 0 0;
+    padding-right: 13em;
+
+    @media(max-width: $breakpoint2){
+      padding-right: 0;
+    }
+
+    @media(max-width: $breakpoint3){
+      display: none;
+    }
+  }
  }
 
  // .work-meta-title,
