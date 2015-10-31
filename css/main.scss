@@ -68,7 +68,6 @@ a:hover{
 /**
  * Headers
  */
-
 h1,h2,h3,h4,h5,h6{
   color: $green-color;
   // color: #000;
@@ -154,7 +153,7 @@ h1,h2,h3,h4,h5,h6{
     -webkit-flex-direction: row;
     position: absolute;
     border-top: 1px solid #ddd;
-    top: 130px;
+    top: 115px;
     margin: 0;
     padding: 0;
     left: 0px;
@@ -164,7 +163,6 @@ h1,h2,h3,h4,h5,h6{
   }
 
   @media(max-width: $breakpoint3){
-    top: 115px;
     z-index: 3;
   }
 
