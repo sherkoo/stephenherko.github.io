@@ -1,24 +1,10 @@
 $(document).ready(function(){
 
-  // Header fixed
-  $('.header-fixed').hide();
-
-  $(window).scroll(function(){
-    var top = $(this).scrollTop();
-
-    if(top >= 300){
-      $('.header-fixed').fadeIn(200);
-    } else {
-      $('.header-fixed').fadeOut(200);
-    }
-  });
-
   // Mobile Btn
   $('.mobile-btn').click(function(){
     $('.header-nav').toggle();
     return false;
   });
-
 
   // Show header nav on scroll down
   var lastScrollTop = 0;
@@ -27,7 +13,6 @@ $(document).ready(function(){
     console.log($(this).scrollTop());
 
     if($(this).scrollTop() >= 500){
-      $('.header').fadeIn(500);
       $('.header').addClass('header-fixed');
       // Account for missing space after .header-fixed
       $('body').css({
