@@ -326,7 +326,10 @@ h1,h2,h3,h4,h5,h6{
 
  /**
   * Footer
+  * --------
+  * Includes copyright and social icons
   */
+
 .footer{
   text-align: center;
   padding: 3em 0;
@@ -403,11 +406,25 @@ h1,h2,h3,h4,h5,h6{
  */
 
 .clients-section{
-  // width: 60%;
-  // margin: 0 auto;
+  padding: 4em 0;
+  margin: 5em 0 3em 0;
+  // background-color: #222;
+  text-align: center;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+.clients-cta{
+  width: 450px;
+  max-width: 100%;
+  margin: 0 auto;
+  color: #808080;
 }
 
 .clients{
+  width: 800px;
+  max-width: 100%;
+  margin: 0 auto;
   display: flex;
   display: -webkit-flex;
   flex-flow: row wrap;
