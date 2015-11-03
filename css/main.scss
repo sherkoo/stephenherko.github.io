@@ -332,6 +332,24 @@ h1,h2,h3,h4,h5,h6{
   padding: 3em 0;
 }
 
+.footer-social-icons{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+  li{
+    display: inline-block;
+    margin: 0 5px;
+  }
+
+  .footer-icon{
+    transition: 1s;
+  }
+
+  svg:hover .footer-icon{
+    fill: $green-color;
+  }
+}
 
 /**
  * Grid
