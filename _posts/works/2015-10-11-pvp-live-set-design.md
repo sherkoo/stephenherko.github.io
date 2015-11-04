@@ -15,14 +15,16 @@ thumbnail: hpl-2.jpg
 
 <!-- ![](/img/unfinished-set-design.jpg) -->
 
-![PVP Live Set Design](/img/hpl-4.jpg)
+<!-- ![PVP Live Set Design](/img/hpl-4.jpg) -->
 
 ![PVP Live Set Design](/img/hpl-5.jpg)
 
 ![PVP Live Set Design](/img/hpl-6.jpg)
 
-![PVP Live Set Design](/img/hpl-7.jpg)
+<!-- ![PVP Live Set Design](/img/hpl-7.jpg) -->
 
 ![PVP Live Set Design](/img/hpl-8.jpg)
 
 ![PVP Live Set Design](/img/hpl-9.jpg)
+
+![PVP Live Set Design](/img/hpl-10.jpg)
