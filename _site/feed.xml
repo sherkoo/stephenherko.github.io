@@ -5,8 +5,8 @@
     <description>I&#39;m interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://stephenherko.com/</link>
     <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Nov 2015 11:48:33 -0600</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2015 11:48:33 -0600</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2015 15:16:33 -0600</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2015 15:16:33 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -49,6 +49,23 @@
         <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
         <link>http://stephenherko.com/pvp-live</link>
         <guid isPermaLink="true">http://stephenherko.com/pvp-live</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Mobile Store App</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/shoe-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/shoe-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/shoe-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Nov 2015 09:44:10 -0600</pubDate>
+        <link>http://stephenherko.com/mobile-store-app</link>
+        <guid isPermaLink="true">http://stephenherko.com/mobile-store-app</guid>
         
         
         <category>works</category>
@@ -205,28 +222,6 @@
         
         
         <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Cut Out Those ID&#39;s</title>
-        <description>&lt;p&gt;ID’s are considered “non-reusable” code. It has weight, it makes a statement that this block of code is so important it shouldn’t appear more than once on the page. It certain cases it makes sense. For example a #page-header or a #logo, why would you use those more than once? But, is it even necessary?&lt;/p&gt;
-
-&lt;h2 id=&quot;object-oriented&quot;&gt;Object Oriented&lt;/h2&gt;
-&lt;p&gt;Lets put aside the argument that you should or shouldn’t use ID’s as CSS selectors. I believe that only using classes in your css makes you think about your architecture in a totally different light. It keeps your mind more in the sense that your code is (or should be) object oriented. It eliminates the thinking that you’re styling one block of code per page when you could be writing reusable code that can be easily adapted to other parts of the site’s design as many times as it needs to be. It’s much easier to think in terms of modules and components.&lt;/p&gt;
-
-&lt;h2 id=&quot;is-it-necessary-for-css&quot;&gt;Is it necessary for CSS?&lt;/h2&gt;
-&lt;p&gt;Going back to #page-header and #logo, would it be so bad if it was .page-header or .logo? Or how about thinking about more in the sense of a framework like .navbar and .navbar-branding.&lt;/p&gt;
-
-&lt;h2 id=&quot;so-just-remove-ids&quot;&gt;So just remove ID’s?&lt;/h2&gt;
-&lt;p&gt;In some situations only an ID will suffice. For example when using javascript’s getElementById or a classic “skip to navigation” link. Using it as a CSS selector is a different story. It’s totally  up to the developer and should be used if necessary. I believe they shouldn’t be used or very very sparingly.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 08 Jan 2015 12:12:48 -0600</pubDate>
-        <link>http://stephenherko.com/cut-out-those-ids</link>
-        <guid isPermaLink="true">http://stephenherko.com/cut-out-those-ids</guid>
-        
-        
-        <category>blog</category>
         
       </item>
     
