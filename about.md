@@ -23,10 +23,9 @@ permalink: /about/
             <h2>Proficiencies</h2>
             <p>HTML5, CSS3, Sketch3, Sass/Scss, Gulp.js, Jquery/Javascript, Angular.js, Git/Github, Responsive Web Design, Wordpress (Custom Themes), Bootstrap, BEM Methodology, SMACSS Methodology, Photoshop CC, Illustrator CC, InDesign CC, Sublime Text, Google Analytics, Google Webmaster Tools</p>
 
-            {% include clients.html %}
-
           </div>
         </div>
     </div>
+    {% include clients.html %}
   </section>
 </main>

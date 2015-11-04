@@ -11,15 +11,6 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/pvp-live-set-design</loc>
-      
-        <lastmod>2015-11-09T09:44:10-06:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://stephenherko.com/pvp-live</loc>
       
         <lastmod>2015-11-09T09:44:10-06:00</lastmod>
@@ -47,9 +38,9 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/pitchfork-redesign</loc>
+      <loc>http://stephenherko.com/pvp-live-set-design</loc>
       
-        <lastmod>2015-10-12T00:00:00-05:00</lastmod>
+        <lastmod>2015-10-11T00:00:00-05:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -77,6 +68,15 @@
       <loc>http://stephenherko.com/nittany-entertainment</loc>
       
         <lastmod>2015-05-01T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://stephenherko.com/pitchfork-redesign</loc>
+      
+        <lastmod>2015-02-12T09:44:10-06:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
