@@ -43,3 +43,15 @@ thumbnail: illustration-17.jpg
 ![stephen herko illustration](/img/illustration-17.jpg)
 
 ![stephen herko illustration](/img/illustration-18.jpg)
+
+![stephen herko illustration](/img/illustration-19.png)
+
+![stephen herko illustration](/img/illustration-20.png)
+
+![stephen herko illustration](/img/illustration-21.png)
+
+![stephen herko illustration](/img/illustration-22.png)
+
+![stephen herko illustration](/img/illustration-23.png)
+
+![stephen herko illustration](/img/illustration-24.png)
