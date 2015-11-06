@@ -5,11 +5,11 @@
       <a href="{{post.url | prepend: site.baseurl}}">
         <div class="work-grid-item">
           <img src="{{site.baseurl}}/img/{{post.thumbnail}}" alt="{{post.title}}">
-          <!-- <div class="work-meta"> -->
+          <div class="work-meta">
             <!-- <h2 class="work-meta-title">Some Title</h2> -->
-            <!-- <p class="work-meta-body">{{post.title}}</p> -->
-          <!-- </div> -->
-        </div>
+            <p class="work-meta-body">{{post.title}}</p>
+          </div> <!-- /.work-meta -->
+        </div> <!-- /.work-grid-item -->
       </a>
       {% endfor %}
     </div>
