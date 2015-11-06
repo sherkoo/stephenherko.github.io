@@ -23,6 +23,10 @@ permalink: /about/
             <h2>Proficiencies</h2>
             <p>HTML5, CSS3, Sketch3, Sass/Scss, Gulp.js, Jquery/Javascript, Angular.js, Git/Github, Responsive Web Design, Wordpress (Custom Themes), Bootstrap, BEM Methodology, SMACSS Methodology, Photoshop CC, Illustrator CC, InDesign CC, Sublime Text, Google Analytics, Google Webmaster Tools</p>
 
+            <h2>Site Development</h2>
+            <p>This site was coded with Atom and built on Jekyll. It utilizes flexbox for the grid and Sass as the prepossessor.</p>
+
+
           </div>
         </div>
     </div>
