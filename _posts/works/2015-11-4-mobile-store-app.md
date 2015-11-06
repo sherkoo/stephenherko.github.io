@@ -4,7 +4,7 @@ title:  "Mobile Store App"
 date:   2015-11-04 15:44:10
 categories:
   - works
-description: ""
+description: "The checkout page for a mobile store app."
 thumbnail: shoe-1.jpg
 ---
 

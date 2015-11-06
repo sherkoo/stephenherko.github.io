@@ -15,6 +15,6 @@ thumbnail: "nittany-ipad.png"
 
 ![Nittany Entertainment mobile](/img/nittany-iphone.png)
 
-![Nittany Entertainment website](img/nittany-thumb.png)
+![Nittany Entertainment website](/img/nittany-thumb.png)
 
 ![Nittany Entertainment shirt](/img/nittany-shirt.png)
