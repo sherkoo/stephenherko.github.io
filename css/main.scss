@@ -74,7 +74,6 @@ h1,h2,h3,h4,h5,h6{
 
 .cta{
   // font-family: serif;
-  font-size: 40px;
   // font-style: italic;
   text-align: center;
   // max-width: 500px;
@@ -91,6 +90,13 @@ h1,h2,h3,h4,h5,h6{
     text-transform: capitalize;
     font-weight: 700;
     margin: 0 auto;
+    font-size: 40px;
+
+    @media(max-width: $breakpoint3){
+      font-size: 25px;
+      padding: 0 1em;
+      text-align: left;
+    }
   }
 
   p{
