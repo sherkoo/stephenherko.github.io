@@ -71,6 +71,34 @@ h1,h2,h3,h4,h5,h6{
   font-size: 1em;
 }
 
+.cta{
+  // font-family: serif;
+  font-size: 40px;
+  // font-style: italic;
+  text-align: center;
+  // max-width: 500px;
+  line-height: 1.2;
+  padding: 2em 0;
+  margin-bottom: 0.5em;
+  border-top: 1px solid #ddd;
+
+  h1{
+    color: #333;
+    letter-spacing: -2px;
+    max-width: 800px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin: 0 auto;
+  }
+
+  p{
+    font-size: 18px;
+    font-family: 'Georgia', serif;
+    color: $green-color;
+    font-style: italic;
+  }
+}
+
 /**
  * Header
  */
@@ -147,7 +175,7 @@ h1,h2,h3,h4,h5,h6{
     -webkit-flex-direction: row;
     position: absolute;
     border-top: 1px solid #ddd;
-    top: 115px;
+    top: 107px;
     margin: 0;
     padding: 0;
     left: 0px;
