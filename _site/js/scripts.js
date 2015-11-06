@@ -12,20 +12,33 @@ $(document).ready(function(){
   $(window).scroll(function(){
     console.log($(this).scrollTop());
 
-    if($(this).scrollTop() >= 500){
-      $('.header').addClass('header-fixed');
-      // Account for missing space after .header-fixed
-      $('body').css({
-        'paddingTop': '113px'
-      });
+    if($(this).scrollTop() >= 300){
+      $('.header').addClass('header-shrink');
     } else {
-      $('.header').show();
-      $('.header').removeClass('header-fixed');
-      $('body').css({
-        'paddingTop': '0'
-      });
+      $('.header').removeClass('header-shrink');
     }
   });
+
+  // // Show header nav on scroll down
+  // var lastScrollTop = 0;
+  //
+  // $(window).scroll(function(){
+  //   console.log($(this).scrollTop());
+  //
+  //   if($(this).scrollTop() >= 500){
+  //     $('.header').addClass('header-fixed');
+  //     // Account for missing space after .header-fixed
+  //     $('body').css({
+  //       'paddingTop': '113px'
+  //     });
+  //   } else {
+  //     $('.header').show();
+  //     $('.header').removeClass('header-fixed');
+  //     $('body').css({
+  //       'paddingTop': '0'
+  //     });
+  //   }
+  // });
 
   // Show header on scroll up - remove on scroll down
   // var lastScrollTop = 0;
