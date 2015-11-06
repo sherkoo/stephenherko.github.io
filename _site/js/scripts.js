@@ -14,8 +14,10 @@ $(document).ready(function(){
 
     if($(this).scrollTop() >= 300){
       $('.header').addClass('header-shrink');
+      $('.header-nav').addClass('header-nav-shrink');
     } else {
       $('.header').removeClass('header-shrink');
+      $('.header-nav').removeClass('header-nav-shrink');
     }
   });
 
