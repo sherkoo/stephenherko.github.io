@@ -319,8 +319,9 @@ h1,h2,h3,h4,h5,h6{
    display: inline-block;
 
    img{
-     -webkit-filter: grayscale(100%);
+    //  -webkit-filter: grayscale(100%);
      filter: grayscale(100%);
+     opacity: 1;
      display: block;
      width: 100%;
      transition: all .25s ease-in-out;
@@ -334,8 +335,8 @@ h1,h2,h3,h4,h5,h6{
 
    &:hover img{
     //  opacity: 0.2;
-    -webkit-filter: grayscale(0%);
-    filter: grayscale(0%);
+    // -webkit-filter: grayscale(0%);
+    // filter: grayscale(0%);
    }
 
    &:hover .work-meta{
