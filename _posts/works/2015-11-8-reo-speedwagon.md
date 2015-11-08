@@ -1,7 +1,7 @@
 ---
 layout: work
 title:  "REO Speedwagon"
-date:   2015-11-08 12:44:10
+date:   2015-10-08 12:44:10
 categories:
   - works
 description: "Design: Carrie Paul, Front End Development/Wordpress Theme: Stephen Herko. New site for REO Speedwagon which was built on a custom responsive Wordpress theme. Tools use to complete this project included scss, bootstrap, and jQuery."
