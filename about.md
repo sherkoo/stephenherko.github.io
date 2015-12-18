@@ -16,7 +16,7 @@ permalink: /about/
             <h2>Hello, My name is Stephen</h2>
             <p>I've been working professionally for the last 10 years. My background began in advertising where I developed print and marketing campaigns. From there I fell in love with web development, design, branding, and building products for the web.</p>
 
-            <p>Originally from the Philadelphia area, now residing in Texas. I'm always looking for challenges and self improvement. Two things I believe are essential to any creative's career.</p>
+            <p>Originally from the Philadelphia area, I'm now residing in Texas. I'm always looking for challenges and self improvement. Two things I believe are essential to any creative's career.</p>
 
             <p>I'm currently working as a designer and <a href="https://github.com/stephenherko">front end development</a>. I'm interested in skill sets like Branding and UI/UX Design.</p>
 
