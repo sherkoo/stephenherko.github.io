@@ -18,7 +18,7 @@ permalink: /about/
 
             <p>Originally from the Philadelphia area, I'm now residing in Texas. I'm always looking for challenges and self improvement. Two things I believe are essential to any creative's career.</p>
 
-            <p>I'm currently working as a designer and <a href="https://github.com/stephenherko">front end development</a>. I'm interested in skill sets like Branding and UI/UX Design.</p>
+            <p>I'm currently working as a designer and <a href="https://github.com/stephenherko">front end developer</a>. I'm interested in skill sets like Branding and UI/UX Design.</p>
 
             <h2>Proficiencies</h2>
             <p>HTML5, CSS3, Sketch3, Sass/Scss, Gulp.js, Jquery/Javascript, Angular.js, Git/Github, Responsive Web Design, Wordpress (Custom Themes), Bootstrap, BEM Methodology, SMACSS Methodology, Photoshop CC, Illustrator CC, InDesign CC, Sublime Text, Google Analytics, Google Webmaster Tools</p>
