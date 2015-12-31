@@ -15,7 +15,7 @@ permalink: /cv/
   </ul>
 
   <div class="cv-info">
-    <h1 class="cv-cta">I'm a Frontend Developer who is passionate about problem solving and working on projects that make an impact.</h1>
+    <h1 class="cv-cta">I'm a Front End Developer who is passionate about problem solving and working On Meaningful Projects.</h1>
     <p>
        This is my passion in life.
     </p>

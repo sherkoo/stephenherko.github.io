@@ -541,8 +541,9 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .cv-cta{
-  font-size: 3em;
+  font-size: 2.7em;
   line-height: 1.1;
+  text-transform: capitalize;
 }
 
 .cv-contact-list{
@@ -584,4 +585,14 @@ h1,h2,h3,h4,h5,h6{
   margin: 0 3em 0 0;
   list-style: none;
   padding: 0;
+}
+
+@media(max-width: $breakpoint2){
+  .cv-contact-list,
+  .cv-info{
+    width: 100%;
+    flex: 0;
+    -webkit-flex: 0;
+    padding-right: 0;
+  }
 }
