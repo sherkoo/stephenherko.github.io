@@ -529,3 +529,59 @@ h1,h2,h3,h4,h5,h6{
     }
   }
 }
+
+/**
+ * CV
+ * ------------------
+ * Styling for resume
+ */
+.cv-container{
+  display: flex;
+  display: -webkit-flex;
+}
+
+.cv-cta{
+  font-size: 3em;
+  line-height: 1.1;
+}
+
+.cv-contact-list{
+  margin-top: 2.5em;
+  list-style: none;
+  padding: 0;
+  flex: 1;
+  -webkit-flex: 1;
+
+  li{
+    font-size: 0.8em;
+    margin-bottom: 5px;
+  }
+}
+
+.cv-rule{
+  height: 2px;
+  background-color: #ddd;
+  width: 250px;
+}
+
+.cv-info{
+  flex: 4;
+  -webkit-flex: 4;
+  padding-right: 13em;
+}
+
+.cv-date{
+  font-family: 'georgia', serif;
+  font-style: italic;
+  font-size: 0.8em;
+  color: #555;
+}
+
+.cv-skills{
+  flex: 4;
+  -webkit-flex: 4;
+  float: left;
+  margin: 0 3em 0 0;
+  list-style: none;
+  padding: 0;
+}
