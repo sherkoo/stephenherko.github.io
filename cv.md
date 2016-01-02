@@ -23,17 +23,18 @@ permalink: /cv/
     <div class="cv-rule"></div>
 
     <h2>Frontend Developer / Designer</h2>
-    <div class="cv-date">PVP Live - October 2013 – Present - TX</div>
+    <div class="cv-date">PVP Live &bull; October 2013 – Present &bull; TX</div>
 
     <p>
-      Oversee the entire brand for PVP Live. Developing brand strategies to position the company as an iconic mark in the esports world. Working with and hiring developers and designers to produce content.
+      Provide ongoing UI and Front End Development for pvplive.net, a custom built web application which utilizes HTML5, CSS3, Javascript, Jquery, Gulp.js, PHP &amp; MYSQL.
     </p>
+
     <p>
-      Establishing the voice and face of PVP Live. Goal is to position the company as an iconic force in the esports market. Taking careful consideration in every design &amp; marketing choice to get PVP Live as the leader above it's competitors.
+      Created investor materials which have been used to secure multiple rounds of Series A funding as well as establish partnerships with UFC, Twitch, and Activision/Blizzard.
     </p>
 
     <h2>Founder, Developer/Creative Lead</h2>
-    <div class="cv-date">The Design Studio of Stephen Herko - September 2010 – October 2013 - TX</div>
+    <div class="cv-date">The Design Studio of Stephen Herko &bull; September 2010 – October 2013 &bull; TX</div>
 
     <p>
       Self made business. Worked with clients one on one to develop solutions based on their needs.
@@ -43,14 +44,14 @@ permalink: /cv/
     </p>
 
     <h2>Art Director</h2>
-    <div class="cv-date">The Star Group - January 2008 – August 2010 - NJ/PA</div>
+    <div class="cv-date">The Star Group &bull; January 2008 – August 2010 &bull; NJ/PA</div>
 
     <p>
       Oversee and managed a team of designers producing print, web, and marketing materials. Developed creative campaigns for new business ventures. Responsible for the team meeting deadlines. Clients included Coca-Cola, Fanta, Sprite and major casinos along the east coast.
     </p>
 
     <h2>Graphic Designer</h2>
-    <div class="cv-date">The Star Group - Sept 2005 - January 2008 - NJ/PA</div>
+    <div class="cv-date">The Star Group &bull; Sept 2005 - January 2008 &bull; NJ/PA</div>
 
     <p>
       Responsible for print and web design with quick turnarounds.
@@ -91,7 +92,7 @@ permalink: /cv/
 
     <h2>Jquery &amp; Javascript</h2>
     <p>
-      Writing custom interactive scripts for sites delivering a pleasant user experience. Using Javascript for form validations. I avoid using plugins and prewritten scripts as much as possible. This is an area I'm constantly pushing myself in. I would much rather be an engineer than a hacker. Javascript is something I'm particularly passionate about at the moment because of the MEAN stack. Also taking advantage of amazing tools like grunt.js and gulp.js.
+      Writing custom interactive scripts for sites delivering a pleasant user experience. Using Javascript for form validations. I avoid using plugins and prewritten scripts as much as possible. This is an area I'm constantly pushing myself in. I would much rather be an engineer than a hacker. Javascript is something I'm particularly passionate about at the moment because of the MEAN stack. Also taking advantage of tools like grunt.js and gulp.js.
     </p>
 
     <h2>MEAN Stack</h2>
@@ -104,7 +105,7 @@ permalink: /cv/
 
     <h2>Ruby on Rails</h2>
     <p>
-      Using the Ruby on Rails framework to develop smaller projects. Complete understanding of how the framework works. Experience with deploying to Heroku.
+      Using the Ruby on Rails framework to develop smaller projects. Still developing skills with this framework, but understanding of how the framework works. Experience with deploying to Heroku.
       <br>
       <br>
       Example: <a href="https://github.com/stephenherko/Ruby-On-Rails-Blog">Ruby on Rails Blog</a>
@@ -132,6 +133,7 @@ permalink: /cv/
         <li>SMACSS Methodology</li>
         <li>Bower</li>
         <li>Angular.js</li>
+        <li>Node Package Manager</li>
       </ul>
 
     <ul class="cv-skills">
