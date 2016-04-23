@@ -1,7 +1,3 @@
-function fadeIn() {
-  $(this).fadeIn(1000);
-}
-
 $(document).ready(function(){
 
   // Mobile Btn
