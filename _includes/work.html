@@ -2,9 +2,9 @@
   <div class="container">
     <div class="work-grid">
       {% for post in site.categories['works'] %}
-      <a href="{{post.url | prepend: site.baseurl}}">
+      <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="work-grid-item">
-          <img src="{{site.baseurl}}/img/{{post.thumbnail}}" alt="{{post.title}}">
+          <img onload="fadeIn(this)" src="{{ site.baseurl }}/img/{{ post.thumbnail }}" alt="{{ post.title }}">
           <div class="work-meta">
             <!-- <h2 class="work-meta-title">Some Title</h2> -->
             <p class="work-meta-body">{{post.title}}</p>

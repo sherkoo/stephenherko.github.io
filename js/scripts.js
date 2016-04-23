@@ -21,6 +21,12 @@ $(document).ready(function(){
     }
   });
 
+  // Fade in images individually
+  function fadeIn(obj) {
+    $(obj).fadeIn(1000);
+  }
+
+
   // // Show header nav on scroll down
   // var lastScrollTop = 0;
   //
