@@ -22,10 +22,10 @@ $(document).ready(function(){
   });
 
   // grab list of all image thumbs
-  $('.work-grid-item img').load(function(){
+  $('.work-grid-item-img').each(function(){
     $(this).animate({
       'opacity': 1
-    }, 700);
+    });
   });
   // var workThumbs = $('.work').each('img ');
   // var workThumb = workThumbs.each('img');
