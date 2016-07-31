@@ -23,9 +23,8 @@ $(document).ready(function(){
 
   // grab list of all image thumbs
   $('.work-grid-item-img').each(function(){
-    $(this).animate({
-      'opacity': 1
-    }, 700);
+    $(this).fadeIn(400);
+
   });
   // var workThumbs = $('.work').each('img ');
   // var workThumb = workThumbs.each('img');

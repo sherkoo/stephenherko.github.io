@@ -322,7 +322,7 @@ h1,h2,h3,h4,h5,h6{
  }
 
  .work-grid-item{
-   background: #000 url('../img/spinner.gif') 50% no-repeat;
+   background: #000;
    min-height: 200px;
    position: relative;
    margin: 0px 0 .6em 0;
@@ -331,7 +331,7 @@ h1,h2,h3,h4,h5,h6{
    img{
     //  -webkit-filter: grayscale(100%);
     //  filter: grayscale(100%);
-     opacity: 0;
+     opacity: 1;
      display: block;
      width: 100%;
      transition: all .25s ease-in-out;
