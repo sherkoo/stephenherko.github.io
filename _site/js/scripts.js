@@ -21,11 +21,16 @@ $(document).ready(function(){
     }
   });
 
-  // grab list of all image thumbs
-  $('.work-grid-item-img').each(function(){
-    $(this).fadeIn(400);
-
+  $('.work').imagesLoaded( function() {
+    // images have loaded
+    console.log('imagse have loaded');
   });
+
+  // grab list of all image thumbs
+  // $('.work-grid-item-img').each(function(){
+  //   $(this).fadeIn(400);
+  //
+  // });
   // var workThumbs = $('.work').each('img ');
   // var workThumb = workThumbs.each('img');
   // // console.log(workThumb);
