@@ -1,6 +1,7 @@
 ---
 layout: work
 title: "Network Reel"
+slug: network-reel
 date: 2015-11-09 15:44:10
 categories:
   - works
@@ -12,14 +13,14 @@ tags:
 
 <iframe width="100%" height="705" src="https://www.youtube.com/embed/5BjJw0wNqvY" frameborder="0" allowfullscreen></iframe>
 
-![PVP Live Network Reel](/img/network-reel-1.jpg)
+![PVP Live Network Reel](/img/work/network-reel/network-reel-1.jpg)
 
-![PVP Live Network Reel](/img/network-reel-2.jpg)
+![PVP Live Network Reel](/img/work/network-reel/network-reel-2.jpg)
 
-![PVP Live Network Reel](/img/network-reel-3.jpg)
+![PVP Live Network Reel](/img/work/network-reel/network-reel-3.jpg)
 
-![PVP Live Network Reel](/img/network-reel-4.jpg)
+![PVP Live Network Reel](/img/work/network-reel/network-reel-4.jpg)
 
-![PVP Live Network Reel](/img/network-reel-5.jpg)
+![PVP Live Network Reel](/img/work/network-reel/network-reel-5.jpg)
 
-![PVP Live Network Reel](/img/network-reel-6.jpg)
+![PVP Live Network Reel](/img/work/network-reel/network-reel-6.jpg)

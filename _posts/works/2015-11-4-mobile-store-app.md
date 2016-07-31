@@ -1,6 +1,7 @@
 ---
 layout: work
 title:  "Mobile Store App"
+slug: shoe
 date:   2015-11-04 15:44:10
 categories:
   - works
@@ -11,8 +12,8 @@ tags:
   - UX Design
 ---
 
-![](/img/shoe-1.jpg)
+![](/img/work/shoe/shoe-1.jpg)
 
-![](/img/shoe-2.jpg)
+![](/img/work/shoe/shoe-2.jpg)
 
-![](/img/shoe-3.jpg)
+![](/img/work/shoe/shoe-3.jpg)

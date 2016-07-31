@@ -1,6 +1,7 @@
 ---
 layout: work
 title:  "PVP Live"
+slug: pvp-live
 date:   2015-11-09 15:44:10
 categories:
   - works

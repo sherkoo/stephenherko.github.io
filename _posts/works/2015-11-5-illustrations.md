@@ -1,6 +1,7 @@
 ---
 layout: work
 title:  "Illustrations"
+slug: illustration
 date:   2015-11-05 15:44:10
 categories:
   - works
@@ -11,50 +12,50 @@ tags:
    - Design
 ---
 
-![stephen herko illustration](/img/illustration-1.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-1.jpg)
 
-![stephen herko illustration](/img/illustration-2.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-2.jpg)
 
-![stephen herko illustration](/img/illustration-3.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-3.jpg)
 
-![stephen herko illustration](/img/illustration-4.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-4.jpg)
 
-![stephen herko illustration](/img/illustration-5.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-5.jpg)
 
-![stephen herko illustration](/img/illustration-6.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-6.jpg)
 
-![stephen herko illustration](/img/illustration-7.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-7.jpg)
 
-![stephen herko illustration](/img/illustration-8.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-8.jpg)
 
-![stephen herko illustration](/img/illustration-9.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-9.jpg)
 
-![stephen herko illustration](/img/illustration-10.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-10.jpg)
 
-![stephen herko illustration](/img/illustration-11.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-11.jpg)
 
-![stephen herko illustration](/img/illustration-12.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-12.jpg)
 
-![stephen herko illustration](/img/illustration-13.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-13.jpg)
 
-![stephen herko illustration](/img/illustration-14.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-14.jpg)
 
-![stephen herko illustration](/img/illustration-15.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-15.jpg)
 
-![stephen herko illustration](/img/illustration-16.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-16.jpg)
 
-![stephen herko illustration](/img/illustration-17.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-17.jpg)
 
-![stephen herko illustration](/img/illustration-18.jpg)
+![stephen herko illustration](/img/work/illustration/illustration-18.jpg)
 
-![stephen herko illustration](/img/illustration-19.png)
+![stephen herko illustration](/img/work/illustration/illustration-19.png)
 
-![stephen herko illustration](/img/illustration-20.png)
+![stephen herko illustration](/img/work/illustration/illustration-20.png)
 
-![stephen herko illustration](/img/illustration-21.png)
+![stephen herko illustration](/img/work/illustration/illustration-21.png)
 
-![stephen herko illustration](/img/illustration-22.png)
+![stephen herko illustration](/img/work/illustration/illustration-22.png)
 
-![stephen herko illustration](/img/illustration-23.png)
+![stephen herko illustration](/img/work/illustration/illustration-23.png)
 
-![stephen herko illustration](/img/illustration-24.png)
+![stephen herko illustration](/img/work/illustration/illustration-24.png)

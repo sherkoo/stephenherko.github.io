@@ -1,6 +1,7 @@
 ---
 layout: work
 title:  "REO Speedwagon"
+slug: reo-speedwagon
 date:   2015-10-08 12:44:10
 categories:
   - works
@@ -10,14 +11,14 @@ tags:
   - Web Development
 ---
 
-![](/img/reo-5.jpg)
+![](/img/work/reo-speedwagon/reo-5.jpg)
 
-![](/img/reo-1.jpg)
+![](/img/work/reo-speedwagon/reo-1.jpg)
 
-![](/img/reo-2.jpg)
+![](/img/work/reo-speedwagon/reo-2.jpg)
 
-![](/img/reo-6.jpg)
+![](/img/work/reo-speedwagon/reo-6.jpg)
 
-![](/img/reo-3.jpg)
+![](/img/work/reo-speedwagon/reo-3.jpg)
 
-![](/img/reo-4.jpg)
+![](/img/work/reo-speedwagon/reo-4.jpg)
