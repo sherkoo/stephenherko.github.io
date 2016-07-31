@@ -1,0 +1,69 @@
+// Skills
+.skills{
+  background-color: $black-color;
+  padding: 170px 0;
+
+  @media(max-width: $breakpoint2){
+    padding: 50px 0;
+  }
+
+  .container{
+    padding: 0 100px;
+    display: flex;
+      display: -webkit-flex;
+    flex-wrap: wrap;
+      -webkit-flex-wrap: wrap;
+
+    @media(max-width: $breakpoint2){
+      padding: 50px;
+    }
+
+    @media(max-width: $breakpoint3){
+      padding: 0px;
+    }
+  }
+}
+
+.skill{
+  flex: 0 0 33.33%;
+    -webkit-flex: 0 0 33.33%;
+  color: $gray-color;
+  margin-bottom: 60px;
+  padding: 0 20px;
+
+  @media(max-width: $breakpoint2){
+    flex: 0 0 50%;
+      -webkit-flex: 0 0 50%;
+  }
+
+  @media(max-width: $breakpoint3){
+    flex: 0 0 100%;
+      -webkit-flex: 0 0 100%;
+  }
+
+  .skill-thumb{
+    display: flex;
+      display: -webkit-flex;
+    justify-content: center;
+    align-items: center;
+      -webkit-justify-content: center;
+      -webkit-align-items: center;
+    background-color: #363636;
+    text-align: center;
+    margin: 0px;
+    min-height: 140px;
+    max-height: 140px;
+    border-radius: 3px;
+      -webkit-border-radius: 3px;
+  }
+
+  .skill-title{
+    font-size: 14px;
+    color: #DADADA;
+    margin: 14px 0 10px 0;
+  }
+
+  p{
+    margin: 0;
+  }
+}

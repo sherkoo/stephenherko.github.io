@@ -1,0 +1,35 @@
+- name: UX Design
+  icon: ux-design
+  description: The heart & soul of what I do. Using wireframes, analytics, flow charts, scenarios to see the experience from beginning to end.
+
+- name: Interactive Design
+  icon: interactive-design
+  description: Defining what happenings between screens, when a user hovers over the menu. Ideas are testing in prototypes and finished with javascript.
+
+- name: Rapid Prototyping
+  icon: prototyping
+  description: Get the concept out in a working prototype and get in user’s hands. Submit for usability testing and gaining feedback.
+
+- name: UI Design
+  icon: ui-design
+  description: Give the user experience some skin. Styles, colors, and laying down a general tone for the users.
+
+- name: ReactJS
+  icon: react
+  description: Another beloved JS framework changing the way I build sites and prototypes.
+
+- name: AngularJS
+  icon: angular
+  description: A beloved JS framework. Used for rapid prototying and web apps.
+
+- name: HTML5
+  icon: html5
+  description: I'm not just a designer, but also a developer. I build my prototypes with code backed with a JS framework.
+
+- name: CSS3
+  icon: css3
+  description: Using CSS to translate UX/UI design to a workable prototype.
+
+- name: Javascript
+  icon: javascript
+  description: A frontend developer's best tool. My favorite programming language. Using JS define the front and backend.

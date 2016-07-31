@@ -6,8 +6,43 @@ layout: default
   <section class="cta">
     <h1>{{ site.tagline }}</h1>
   </section>
+
+  <!-- Work section -->
   {% include work.html %}
-  <div class="container">
-    {% include clients.html %}
-  </div>
+
+  
+
+  <!-- About section -->
+  <section class="about">
+    <div class="container">
+      <div class="about-img">
+        <img src="img/pic.jpg" alt="{{ site.title }}" />
+      </div>
+      <div class="about-meta">
+        <h3 class="about-title">Hello, My Name Is Stephen</h3>
+        <p>
+          I’ve been working professionally for the last 10 years. My background began in advertising where I developed print and marketing campaigns. From there I fell in love with web development, design, branding, and building products for the web.
+        </p>
+        <p>
+          I'm currently working as a designer and front end developer. I'm interested in skill sets like Branding and UI/UX Design.
+        </p>
+        <a href="/about" class="btn">Find Out More</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills section -->
+  <section class="skills">
+    <div class="container">
+      {% for skill in site.data.skills %}
+        <article class="skill">
+          <figure class="skill-thumb">
+            <img src="img/skills/{{ skill.icon }}.svg" alt="{{ skill.title }}" />
+          </figure>
+          <h2 class="skill-title">{{ skill.name }}</h2>
+          <p>{{ skill.description }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
 </main>

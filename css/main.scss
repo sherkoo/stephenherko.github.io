@@ -2,18 +2,19 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
 /**
  * Vars
  */
 
 // Typography
-$body-font: 'Montserrat', sans-serif;
+$body-font: 'helvetica', sans-serif;
 $heading-font: 'Montserrat', sans-serif;
 
 // $green-color: #BBE090;
 $green-color: #29af87;
-$black-color: #211F1F;
+$black-color: #242424;
+$gold-color: #FCAE63;
+$gray-color: #808080;
 
 // Media Queries
 $breakpoint1: 1200px;
@@ -37,7 +38,7 @@ body{
   background: #fff;
   color: #333;
   margin: 0;
-  font: 18px/1.5 $body-font;
+  font: 14px/1.5 $body-font;
 }
 
 /**
@@ -69,6 +70,7 @@ h1,h2,h3,h4,h5,h6{
   // color: #000;
   font-weight: 400;
   line-height: 1.1;
+  font-family: $heading-font;
   // font-size: 1em;
 }
 
@@ -136,6 +138,7 @@ h1,h2,h3,h4,h5,h6{
 
 .header-logo{
   text-align: left;
+  font-family: $heading-font;
   flex: 2 0 0;
   -webkit-flex: 2 0 0;
 
@@ -297,6 +300,10 @@ h1,h2,h3,h4,h5,h6{
 /**
  * Work - Container
  */
+ .work{
+  padding-bottom: 60px;
+ }
+
  .work-grid{
    column-count: 3;
     -webkit-column-count: 3;
@@ -370,10 +377,13 @@ h1,h2,h3,h4,h5,h6{
  }
 
  .work-meta-body{
-   font-family: serif;
-   font-style: italic;
-  //  margin-top: 0px;
+   font-family: $heading-font;
    color: $green-color;
+   border: 1px solid $green-color;
+   padding: 10px 30px;
+   font-size: 10px;
+   letter-spacing: 1px;
+   text-transform: uppercase;
  }
 
  .work-single{
@@ -603,3 +613,8 @@ h1,h2,h3,h4,h5,h6{
     padding-right: 0;
   }
 }
+
+// Imports
+@import "skills";
+@import "about";
+@import "buttons";
