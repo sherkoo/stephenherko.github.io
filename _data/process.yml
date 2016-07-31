@@ -1,20 +1,26 @@
-- name: Prepping & Discussion
-  description: Wireframing is good
+- name: Research & Discussion
+  description: What project can start without full understanding the problem at hand?
+
+- name: Competitive Analysis
+  description: Assess the strengths and weaknesses of competitors against your user's needs.
 
 - name: Wireframing
-  description: Wireframing is good
+  description: Visually communicate abstract concepts with users and team members to generate feedback.
+
+- name: Flowcharts
+  description: Getting an overall view of the task from beginning to end.
 
 - name: Low Fidelity Comps
-  description: Wireframing is good
+  description: Start to visualize the layout on each screen. Possibly discover potential problems.
 
 - name: High Fidelity Comps
-  description: Wireframing is good
+  description: Apply product branding, grid structure, typography, color scheme, and icons.
 
 - name: Prototyping
-  description: Wireframing is good
+  description: Get users involved early in the design process with quick prototypes. Uncover usability issues and validate design decisions based on actual user reactions.
 
 - name: Usability Testing
-  description: Wireframing is good
+  description: Learn how users interact with the prototypes.
 
 - name: Learn, Measure, Rebuild
-  description: Take what we learned from users interacting with
+  description: Take what we learned from testing and adapt the prototype.
