@@ -9,6 +9,8 @@
   cursor: pointer;
   transition: none;
   margin-top: 5px;
+  letter-spacing: 1.5px;
+  font-family: $heading-font;
 
   &:hover{
     color: $green-color;
