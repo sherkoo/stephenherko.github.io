@@ -21,10 +21,35 @@ $(document).ready(function(){
     }
   });
 
-  // Fade in images individually
-  // function fadeIn(obj) {
-  //   $(obj).fadeIn(1000);
+  // grab list of all image thumbs
+  $('.work-grid-item img').load(function(){
+    $(this).animate({
+      'opacity': 1
+    });
+  });
+  // var workThumbs = $('.work').each('img ');
+  // var workThumb = workThumbs.each('img');
+  // // console.log(workThumb);
+  // for (var i = 0; i < workThumbs.length; i++) {
+  //   console.log(workThumbs[i]);
   // }
+
+  // Fade in images on load
+  // var image = new Image();
+  // image.onload = function () {
+  //    console.info("Image loaded !");
+  //    //do something...
+  //    alert('its loaded');
+  //    image.animate({
+  //      'opacity': 0
+  //    });
+  // }
+  // image.onerror = function () {
+  //    console.error("Cannot load image");
+  //    //do something else...
+  //    alert('NOT WAY');
+  // }
+  // image.src = "../img/shoe-1.jpg";
 
 
 });
