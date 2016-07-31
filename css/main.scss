@@ -331,8 +331,8 @@ h1,h2,h3,h4,h5,h6{
    img{
     //  -webkit-filter: grayscale(100%);
     //  filter: grayscale(100%);
-    //  opacity: 0;
-     display: none;
+     opacity: 1;
+     display: block;
      width: 100%;
      transition: all .25s ease-in-out;
       -webkit-transition: all .25s ease-in-out;
