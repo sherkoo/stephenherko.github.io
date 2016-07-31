@@ -5,6 +5,11 @@ description: "Nittany Entertainment offers full wedding reception planning. They
 categories:
   - works
 thumbnail: "nittany-ipad.png"
+tags:
+  - Web Development
+  - UX Design
+  - UI Design
+  - Branding 
 ---
 
 ![Nittany Entertainment business card](/img/nittany-biz-cards.png)

@@ -6,6 +6,9 @@ categories:
   - works
 description: "The checkout page for a mobile store app."
 thumbnail: shoe-1.jpg
+tags:
+  - UI Design
+  - UX Design
 ---
 
 ![](/img/shoe-1.jpg)

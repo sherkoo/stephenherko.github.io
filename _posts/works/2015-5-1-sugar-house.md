@@ -4,6 +4,9 @@ description: "Sugarhouse is one of the first casinos in Philadelphia. A teaser c
 categories:
   - works
 thumbnail: "sugarhouse-spread.jpg"
+tags:
+  - Creative Direction
+  - Design
 ---
 
 ![Sugar House Casino](/img/sugarhouse01.jpg)

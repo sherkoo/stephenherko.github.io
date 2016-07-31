@@ -6,6 +6,9 @@ title: Pitchfork Redesign
 categories:
   - works
 thumbnail: "pitchfork-5.png"
+tags:
+   - UX Design
+   - UI Design
 ---
 
 ![Pitchfork website redesign](/img/pitchfork-1.png)

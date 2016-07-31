@@ -5,6 +5,9 @@ description: "Designed to be a branding image for PVP Live. This layout will be 
 categories:
   - works
 thumbnail: "presentation-5.png"
+tags:
+  - Creative Direction
+  - Branding
 ---
 
 ![](/img/presentation-5.png)

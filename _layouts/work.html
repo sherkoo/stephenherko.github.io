@@ -8,6 +8,11 @@ layout: default
       <div class="work-single-meta">
         <h1 class="work-single-title">{{page.title}}</h1>
         <p class="work-single-desc">{{page.description}}</p>
+        <ul class="work-tags">
+          {% for tag in page.tags %}
+            <li>{{ tag }}</li>
+          {% endfor %}
+        </ul>
       </div> <!-- /.work-single-meta -->
       {{content}}
     </section> <!-- /.work-single -->

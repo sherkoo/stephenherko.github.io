@@ -6,6 +6,8 @@ categories:
   - works
 description: "Creative/Art Direction: Stephen Herko - Motion Design: Todd Blankenship. Together, Todd and I created the opening for the PVP Live Hearthstone Pro League. HPL was a 16 week league focusing on competitive play in Hearthstone. Watch the reel below."
 thumbnail: network-reel-5.jpg
+tags:
+  - Art Direction
 ---
 
 <iframe width="100%" height="705" src="https://www.youtube.com/embed/5BjJw0wNqvY" frameborder="0" allowfullscreen></iframe>
