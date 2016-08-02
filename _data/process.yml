@@ -1,5 +1,5 @@
 - name: Research & Discussion
-  description: What project can start without full understanding the problem at hand?
+  description: What project can start without fully understanding the problem at hand?
 
 - name: Competitive Analysis
   description: Assess the strengths and weaknesses of competitors against your user's needs.
@@ -8,7 +8,7 @@
   description: Visually communicate abstract concepts with users and team members to generate feedback.
 
 - name: Flowcharts
-  description: Getting an overall view of the task from beginning to end.
+  description: Getting an overall view of the product from beginning to end.
 
 - name: Low Fidelity Comps
   description: Start to visualize the layout on each screen. Possibly discover potential problems.

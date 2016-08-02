@@ -1,8 +1,4 @@
-
-
 $(document).ready(function(){
-
-  
 
   // Mobile Btn
   $('.mobile-btn').click(function(){
@@ -19,9 +15,14 @@ $(document).ready(function(){
     if($(this).scrollTop() >= 300){
       $('.header').addClass('header-shrink');
       $('.header-nav').addClass('header-nav-shrink');
+      // $('.header-logo').addClass('header-logo-fade');
+      // $('.header-brand').animate({
+      //   'opacity': 1
+      // });
     } else {
       $('.header').removeClass('header-shrink');
       $('.header-nav').removeClass('header-nav-shrink');
+      $('.header-logo').removeClass('header-logo-fade');
     }
   });
 
