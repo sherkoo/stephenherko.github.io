@@ -14,7 +14,7 @@ $(document).ready(function(){
 
     if($(this).scrollTop() >= 300){
       $('.header').addClass('header-shrink');
-      $('.header-nav').addClass('header-nav-shrink');
+      // $('.header-nav').addClass('header-nav-shrink');
       // $('.header-logo').addClass('header-logo-fade');
       // $('.header-brand').animate({
       //   'opacity': 1
