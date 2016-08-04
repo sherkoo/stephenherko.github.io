@@ -2,15 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://stephenherko.com/vertex</loc>
-      
-        <lastmod>2015-11-09T09:44:10-06:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://stephenherko.com/pvp-live</loc>
       
         <lastmod>2015-11-09T09:44:10-06:00</lastmod>
@@ -32,6 +23,15 @@
       <loc>http://stephenherko.com/logos</loc>
       
         <lastmod>2015-11-09T09:44:10-06:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://stephenherko.com/vertex</loc>
+      
+        <lastmod>2015-11-05T09:44:10-06:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
