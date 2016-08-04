@@ -48,3 +48,23 @@
     }
   }
 }
+
+.about-page{
+  padding: 0 360px;
+
+  a{
+    cursor: pointer;
+  }
+
+  .about-page-meta{
+  }
+
+  .about-page-img{
+    height: 400px;
+    overflow: hidden;
+
+    img{
+      margin-top: -80px;
+    }
+  }
+}
