@@ -11,6 +11,16 @@
     margin-bottom: 5px;
   }
 
+  .btn{
+    transition: all .25s ease;
+      -webkit-transition: all .25s ease;
+  }
+
+  .btn:hover{
+    border-color: #fff;
+    color: #fff;
+  }
+
   @media (max-width: $breakpoint1){
     padding: 20px;
   }
