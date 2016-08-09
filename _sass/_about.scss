@@ -1,9 +1,21 @@
 .about{
-  padding: 120px 350px;
   background-color: $green-color;
   color: #eee;
   font-size: 36px;
   font-family: $heading-font;
+
+  .container{
+    padding: 120px 190px;
+
+    @media (max-width: $breakpoint1){
+      padding: 20px;
+    }
+
+    @media (max-width: $breakpoint3){
+      padding: 10px;
+      font-size: 16px;
+    }
+  }
 
   .about-title{
     color: $black-color;
@@ -21,19 +33,6 @@
     color: #fff;
   }
 
-  @media (max-width: $breakpoint1){
-    padding: 20px;
-  }
-
-  @media (max-width: $breakpoint3){
-    padding: 10px;
-    font-size: 16px;
-  }
-
-  .container{
-    // display: flex;
-    //   display: -webkit-flex;
-  }
 
   // .about-title{
   //   font-size: 18px;
