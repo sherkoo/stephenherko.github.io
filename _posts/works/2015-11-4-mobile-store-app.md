@@ -12,6 +12,8 @@ tags:
   - UX Design
 ---
 
+![](/img/work/shoe/shoe-5.png)
+
 ![](/img/work/shoe/shoe-1.jpg)
 
 ![](/img/work/shoe/shoe-2.jpg)
