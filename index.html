@@ -36,17 +36,6 @@ layout: default
   </section>
 
   <!-- Skills section -->
-  <section class="skills">
-    <div class="container">
-      {% for skill in site.data.skills %}
-        <article class="skill">
-          <figure class="skill-thumb">
-            <img src="img/skills/{{ skill.icon }}.svg" alt="{{ skill.title }}" />
-          </figure>
-          <h2 class="skill-title">{{ skill.name }}</h2>
-          <p>{{ skill.description }}</p>
-        </article>
-      {% endfor %}
-    </div>
-  </section>
+  {% include skills-icons.html %}
+
 </main>

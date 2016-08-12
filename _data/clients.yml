@@ -1,0 +1,17 @@
+- name: Coca-Cola
+  img: coca-cola.svg
+
+- name: Sprite
+  img: sprite.svg
+
+- name: 4A's
+  img: 4as.svg
+
+- name: Blizzard
+  img: blizzard.svg
+
+- name: Fanta
+  img: fanta.svg
+
+- name: Twitch
+  img: twitch.svg
