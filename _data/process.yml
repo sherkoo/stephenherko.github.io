@@ -1,26 +1,29 @@
 - name: Research & Discussion
-  description: What project can start without fully understanding the problem at hand?
+  description: What project can start without fully understanding the problem at hand? Get in the headspace of the demographic. Who is this project speaking to? Who is using the app? How do they use it?
 
 - name: Competitive Analysis
-  description: Assess the strengths and weaknesses of competitors against your user's needs.
+  description: Assess the strengths and weaknesses of competitors against your user's needs. Establish an offensive and defensive strategy to identify oppurtunities. Force questions from the new found data.
 
 - name: Wireframing
-  description: Visually communicate abstract concepts with users and team members to generate feedback.
+  description: Visually communicate ideas and concepts with your team or with users regarding the problem that is being designed for. This is kept loose and quick and usually starts with pen on paper. Greyboxing is used to see ideas through a little more with spacing and proper font sizes.
 
 - name: Flowcharts
   description: Getting an overall view of the product from beginning to end.
 
 - name: Low Fidelity Comps
-  description: Start to visualize the layout on each screen. Possibly discover potential problems.
+  description: Start to visualize the layout on each screen. I like to use this phase to discover potential problems that wern't addressed while wireframing or discussion.
 
 - name: High Fidelity Comps
-  description: Apply product branding, grid structure, typography, color scheme, and icons.
+  description: Attention to detail. We've got the idea and the general IA structure, n let's apply color, branding and typography. If needed, develop design patterns or style guides during this process.
 
 - name: Prototyping
-  description: Get users involved early in the design process with quick prototypes. Uncover usability issues and validate design decisions based on actual user reactions.
+  description: This stage can range from putting together some ineractions to see how they work or take the newly designed screens and put them together in a flow. This can involvle full HTML prototypes put together with Angular/React, or a prototype built with Invision.
 
 - name: Usability Testing
-  description: Learn how users interact with the prototypes.
+  description: Evaluate the proposed design/solution on users before releasing to the world. Learn how users interact with system. What did they love, what did they hate? Learn if the purpose of the design meets the expectations of the target user
 
 - name: Learn, Measure, Rebuild
-  description: Take what we learned from testing and adapt the prototype.
+  description: Designing experiences for users is a job that's never done. People adapt and technology changes. Solutions should always be iterated on.
+
+- name: Quality Assurance
+  description: I'm also a developer which means I'm able to assist with making the end product pixel perfect.

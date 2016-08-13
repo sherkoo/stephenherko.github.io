@@ -5,14 +5,50 @@
   align-items: center;
   margin-bottom: 30px;
   padding: 0 200px;
+
+  @media(max-width: $breakpoint2){
+    padding: 0;
+  }
 }
 
 .process{}
 
 .process-meta{
-  padding-left: 20px;
-  flex: 0 0 50%;
-    -webkit-flex: 0 0 50%;
+  text-align: center;
+  background-color: $light-gray-color;
+  padding: 40px;
+  border-radius: 5px;
+    -webkit-border-radius: 5px;
+  font-size: 18px;
+  line-height: 1.75;
+  color: $gray-color;
+  position: relative;
+  flex: 0 0 55%;
+    -webkit-flex: 0 0 55%;
+
+  @media(max-width: $breakpoint1){
+    flex: 0 0 100%;
+      -webkit-flex: 0 0 100%;
+  }
+
+  &:after{
+    position: absolute;
+    content: "";
+    display: block;
+    width: 10px;
+    height: 30px;
+    left: 50%;
+    margin-left: -10px;
+    bottom: -30px;
+    background: darken($light-gray-color, 10%);
+  }
+
+  h2{
+    margin: 0;
+  }
+}
+
+.process-meta:last-child:after{
 }
 
 .process-img{
