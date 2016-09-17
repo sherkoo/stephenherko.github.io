@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="73px" height="23px" viewBox="0 0 73 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 5</title>
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-design</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Hifidelity" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD-Copy-13" transform="translate(-447.000000, -2537.000000)">
-            <g id="Group-5" transform="translate(448.000000, 2538.000000)">
-                <ellipse id="Oval-4" stroke="#FDC894" cx="10.532967" cy="10.5" rx="10.532967" ry="10.5"></ellipse>
-                <ellipse id="Oval-4-Copy" fill="#FDC894" cx="35.5" cy="10.5" rx="10.532967" ry="10.5"></ellipse>
-                <ellipse id="Oval-4-Copy-2" stroke="#FCAE62" cx="60.467033" cy="10.5" rx="10.532967" ry="10.5"></ellipse>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui-design" transform="translate(1.000000, 1.000000)">
+            <g id="Hifidelity">
+                <g id="Desktop-HD-Copy-13">
+                    <g id="Group-5">
+                        <ellipse id="Oval-4" stroke="#E7ECEA" cx="10.532967" cy="10.5" rx="10.532967" ry="10.5"></ellipse>
+                        <ellipse id="Oval-4-Copy" fill="#E7ECEA" cx="35.5" cy="10.5" rx="10.532967" ry="10.5"></ellipse>
+                        <ellipse id="Oval-4-Copy-2" stroke="#E7ECEA" cx="60.467033" cy="10.5" rx="10.532967" ry="10.5"></ellipse>
+                    </g>
+                </g>
             </g>
         </g>
     </g>
