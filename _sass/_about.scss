@@ -93,9 +93,6 @@
     cursor: pointer;
   }
 
-  .about-page-meta{
-  }
-
   .about-page-img{
     height: 400px;
     overflow: hidden;
@@ -113,6 +110,10 @@
 
   .container{
     background: $black-color url('../img/pic-opac2.png') 6% 24% no-repeat;
+
+    @media(max-width: $breakpoint2){
+      background: none;
+    }
   }
 
   img{
@@ -121,6 +122,10 @@
 
   .about-page-intro-meta{
     padding: 61px 254px 40px 210px;
+
+    @media(max-width: $breakpoint2){
+      padding: 10px;
+    }
 
     h2{
       font-size: 50px;
@@ -139,6 +144,10 @@
 
       & > div{
         flex: 1;
+
+        @media(max-width: $breakpoint2){
+          flex: none;
+        }
       }
   }
 }
@@ -163,6 +172,11 @@
       -webkit-justify-content: center;
     align-items: center;
       -webkit-align-items: center;
+
+    @media(max-width: $breakpoint1){
+      flex: 0 0 50%;
+        -webkit-flex: 0 0 50%;
+    }
   }
 
   .about-page-client-img{
@@ -188,4 +202,9 @@
   font-size: 40px;
   color: #fff;
   font-family: $heading-font;
+
+  @media(max-width: $breakpoint1){
+    padding: 70px 130px;
+    font-size: 30px;
+  }
 }
