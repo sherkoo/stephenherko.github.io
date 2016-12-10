@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen Herko</title>
-    <description>I&#39;m interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
-    <link>http://stephenherko.com/</link>
-    <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 08 Oct 2016 19:48:25 -0500</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2016 19:48:25 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <description>I'm interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 09 Dec 2016 21:15:31 -0600</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2016 21:15:31 -0600</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Tat Finder</title>
@@ -20,8 +20,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/tattoo/tat-1.jpg&quot; alt=&quot;Tattoo&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2016 10:44:10 -0500</pubDate>
-        <link>http://stephenherko.com/tat</link>
-        <guid isPermaLink="true">http://stephenherko.com/tat</guid>
+        <link>http://localhost:4000/tattoo</link>
+        <guid isPermaLink="true">http://localhost:4000/tattoo</guid>
         
         <category>UI Design</category>
         
@@ -53,8 +53,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-7.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/pvp-live</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live</guid>
+        <link>http://localhost:4000/pvp-live</link>
+        <guid isPermaLink="true">http://localhost:4000/pvp-live</guid>
         
         <category>Branding</category>
         
@@ -84,8 +84,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/network-reel/network-reel-6.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/network-reel</link>
-        <guid isPermaLink="true">http://stephenherko.com/network-reel</guid>
+        <link>http://localhost:4000/network-reel</link>
+        <guid isPermaLink="true">http://localhost:4000/network-reel</guid>
         
         <category>Art Direction</category>
         
@@ -111,8 +111,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/logos/logo-9.jpg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/logos</link>
-        <guid isPermaLink="true">http://stephenherko.com/logos</guid>
+        <link>http://localhost:4000/logos</link>
+        <guid isPermaLink="true">http://localhost:4000/logos</guid>
         
         <category>Branding</category>
         
@@ -134,8 +134,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/vertex/vertex-web2.jpg&quot; alt=&quot;vertex tax solutions website&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/vertex</link>
-        <guid isPermaLink="true">http://stephenherko.com/vertex</guid>
+        <link>http://localhost:4000/vertex</link>
+        <guid isPermaLink="true">http://localhost:4000/vertex</guid>
         
         <category>Branding</category>
         
@@ -195,8 +195,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-24.png&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/illustrations</link>
-        <guid isPermaLink="true">http://stephenherko.com/illustrations</guid>
+        <link>http://localhost:4000/illustration</link>
+        <guid isPermaLink="true">http://localhost:4000/illustration</guid>
         
         <category>Illustration</category>
         
@@ -218,8 +218,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/shoe/shoe-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/mobile-store-app</link>
-        <guid isPermaLink="true">http://stephenherko.com/mobile-store-app</guid>
+        <link>http://localhost:4000/shoe</link>
+        <guid isPermaLink="true">http://localhost:4000/shoe</guid>
         
         <category>UI Design</category>
         
@@ -243,8 +243,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-web/player-class-page.jpg&quot; alt=&quot;PVP Live website&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Oct 2015 10:44:10 -0500</pubDate>
-        <link>http://stephenherko.com/pvp-live-website</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live-website</guid>
+        <link>http://localhost:4000/pvp-live-web</link>
+        <guid isPermaLink="true">http://localhost:4000/pvp-live-web</guid>
         
         <category>UI Design</category>
         
@@ -266,8 +266,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/music-timeline/music-timeline-2.jpg&quot; alt=&quot;Music timeline angularjs&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Oct 2015 00:00:00 -0500</pubDate>
-        <link>http://stephenherko.com/music-timeline</link>
-        <guid isPermaLink="true">http://stephenherko.com/music-timeline</guid>
+        <link>http://localhost:4000/music-timeline</link>
+        <guid isPermaLink="true">http://localhost:4000/music-timeline</guid>
         
         
         <category>works</category>
@@ -299,8 +299,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-10.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Oct 2015 00:00:00 -0500</pubDate>
-        <link>http://stephenherko.com/pvp-live-set-design</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live-set-design</guid>
+        <link>http://localhost:4000/pvp-live-set</link>
+        <guid isPermaLink="true">http://localhost:4000/pvp-live-set</guid>
         
         <category>Creative Direction</category>
         

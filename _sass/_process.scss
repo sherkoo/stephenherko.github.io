@@ -48,7 +48,8 @@
   }
 }
 
-.process-meta:last-child:after{
+.process:last-child .process-meta:after{
+  display: none;
 }
 
 .process-img{
