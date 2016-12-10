@@ -402,20 +402,17 @@ h1,h2,h3,h4,h5,h6{
  .work-grid-item{
   //  animation-name: fadeUpIn;
   //  animation-duration: 2s;
-
   //  overflow: hidden;
    background-color: #000000;
    border-radius: 3px;
     -webkit-border-radius: 3px;
    position: relative;
    margin: 0 0 30px 0;
-   display: inline-block;
+  //  display: inline-block;
 
    @media (max-width: $breakpoint2){
      margin: 0 0 10px 0;
    }
-
-
 
    img{
     //  -webkit-filter: grayscale(100%);
