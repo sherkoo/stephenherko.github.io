@@ -5,8 +5,8 @@
     <description>I'm interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 20 Dec 2016 20:30:08 -0600</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2016 20:30:08 -0600</lastBuildDate>
+    <pubDate>Sun, 25 Dec 2016 16:00:21 -0600</pubDate>
+    <lastBuildDate>Sun, 25 Dec 2016 16:00:21 -0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -266,6 +266,11 @@
       <item>
         <title>PVP Live Set Design</title>
         <description>&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-2.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;work-case-study&quot;&gt;
+  &lt;h2&gt;Design Challenges&lt;/h2&gt;
+  &lt;p&gt;Depth &amp;amp; detail are quite challenging to capture in video. Things seem a lot closer than they really are. To solve for this, elements were spaced out considerably. When viewed from a user's point of view online, the elements read closer together.&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-1.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
 

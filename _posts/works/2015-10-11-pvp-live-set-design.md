@@ -13,6 +13,11 @@ tags:
 
 ![PVP Live Set Design](/img/work/pvp-live-set/hpl-2.jpg)
 
+<div class="work-case-study">
+  <h2>Design Challenges</h2>
+  <p>Depth & detail are quite challenging to capture in video. Things seem a lot closer than they really are. To solve for this, elements were spaced out considerably. When viewed from a user's point of view online, the elements read closer together.</p>
+</div>
+
 ![PVP Live Set Design](/img/work/pvp-live-set/hpl-1.jpg)
 
 ![PVP Live Set Design](/img/work/pvp-live-set/hpl-3.jpg)
