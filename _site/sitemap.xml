@@ -101,6 +101,15 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/portfolio</loc>
+      
+        <lastmod>2015-10-08T07:44:10-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/sugarhouse</loc>
       
         <lastmod>2015-05-01T00:00:00-05:00</lastmod>
