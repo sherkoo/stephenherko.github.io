@@ -16,12 +16,12 @@ tags:
 
 ![](/img/work/portfolio/responsive.jpg)
 
-![](/img/work/portfolio/style-cover.jpg)
+![](/img/work/portfolio/Style-Cover.jpg)
 
-![](/img/work/portfolio/style-typo.jpg)
+![](/img/work/portfolio/Style-Typo.jpg)
 
-![](/img/work/portfolio/style-colors.jpg)
+![](/img/work/portfolio/Style-Colors.jpg)
 
-![](/img/work/portfolio/style-grid.jpg)
+![](/img/work/portfolio/Style-Grid.jpg)
 
-![](/img/work/portfolio/style-buttons.jpg)
+![](/img/work/portfolio/Style-Buttons.jpg)
