@@ -183,7 +183,6 @@ h1,h2,h3,h4,h5,h6{
   // text-align: center;
   // background-color: #222;
   // border-top: 9px solid $black-color;
-  border-bottom: 1px solid #ddd;
   position: fixed;
   width: 100%;
   top: 0;
@@ -196,6 +195,7 @@ h1,h2,h3,h4,h5,h6{
   padding-top: 24px;
   padding-bottom: 24px;
   display: flex;
+  border-bottom: 1px solid #fafafa;
   display: -webkit-flex;
   column-count: 2;
     -webkit-column-count: 2;
