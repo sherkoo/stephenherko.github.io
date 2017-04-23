@@ -29,7 +29,9 @@ permalink: /about/
 
 <section class="about-page-quote">
   <div class="container">
-    I'm always looking for challenges and self improvement. Two things I believe are essential to any creative's career.
+    <p class="display-text">
+      I'm always looking for challenges and self improvement. Two things I believe are essential to any creative's career.
+    </p>
   </div>
 </section>
 
