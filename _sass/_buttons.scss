@@ -1,16 +1,21 @@
 .btn{
-  padding: 10px 30px;
+  padding: 16px 32px;
   border: 2px solid $black-color;
   text-decoration: none;
-  font-size: 12px;
+  font-size: 16px;
+  line-height: 24px;
   color: $black-color;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   display: inline-block;
   cursor: pointer;
   transition: none;
-  margin-top: 5px;
-  letter-spacing: 1.5px;
+  margin-top: 8px;
   font-family: $heading-font;
+
+  &.blue{
+    color: $green-color;
+    border-color: $green-color;
+  }
 
   &:hover{
     color: $green-color;
