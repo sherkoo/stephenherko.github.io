@@ -44,7 +44,7 @@ body{
   font: 16px/24px $body-font;
 
   @media(max-width: $breakpoint3){
-    padding-top: 60px;
+    padding-top: 48px;
   }
 }
 
@@ -60,6 +60,11 @@ body{
 
   &.light{
     color: #fff;
+  }
+
+  @media(max-width: $breakpoint3){
+    font-size: 32px;
+    line-height: 48px;
   }
 }
 
@@ -175,11 +180,11 @@ h1,h2,h3,h4,h5,h6{
     // margin: 0 auto;
     // font-size: 40px;
 
-    @media(max-width: $breakpoint3){
-      font-size: 24px;
-      padding: 0 1em;
-      text-align: left;
-    }
+    // @media(max-width: $breakpoint3){
+    //   font-size: 24px;
+    //   padding: 0 1em;
+    //   text-align: left;
+    // }
   }
 
   p{
@@ -253,11 +258,11 @@ h1,h2,h3,h4,h5,h6{
   }
 
   a{
-    color: #000;
+    // color: #000;
     // position: absolute;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 24px;
+    // font-weight: 700;
+    // font-size: 20px;
+    // line-height: 24px;
     // letter-spacing: -1.5px;
     text-decoration: none;
     transition: all .5s ease;
@@ -797,3 +802,4 @@ h1,h2,h3,h4,h5,h6{
 @import "about";
 @import "buttons";
 @import "process";
+// @import "grid";
