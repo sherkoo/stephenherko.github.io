@@ -27,7 +27,7 @@
 .skill{
   flex: 0 0 33.33%;
     -webkit-flex: 0 0 33.33%;
-  color: $gray-color;
+  color: #404348;
   margin-bottom: 60px;
   padding: 0 20px;
 
@@ -49,7 +49,7 @@
       -webkit-justify-content: center;
       -webkit-align-items: center;
     // background-color: #363636;
-    background-color: #292929;
+    background-color: $gray-color;
     text-align: center;
     margin: 0px;
     min-height: 140px;
