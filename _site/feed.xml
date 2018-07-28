@@ -5,9 +5,42 @@
     <description>I'm interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 Jul 2018 14:02:19 -0500</pubDate>
-    <lastBuildDate>Sat, 28 Jul 2018 14:02:19 -0500</lastBuildDate>
+    <pubDate>Sat, 28 Jul 2018 14:27:00 -0500</pubDate>
+    <lastBuildDate>Sat, 28 Jul 2018 14:27:00 -0500</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>React/CSS Design System</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/buttons.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/colors.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/code1.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/grid.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/icons.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/code2.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/swatches.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/type.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jul 2018 10:44:10 -0500</pubDate>
+        <link>http://localhost:4000/react-css-design-system</link>
+        <guid isPermaLink="true">http://localhost:4000/react-css-design-system</guid>
+        
+        <category>Style Guide</category>
+        
+        <category>Frontend Development</category>
+        
+        <category>ReactJS</category>
+        
+        
+        <category>works</category>
+        
+      </item>
     
       <item>
         <title>PVP Live iOS App</title>
@@ -295,29 +328,6 @@
         <pubDate>Sun, 11 Oct 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/pvp-live-set</link>
         <guid isPermaLink="true">http://localhost:4000/pvp-live-set</guid>
-        
-        <category>Creative Direction</category>
-        
-        <category>Branding</category>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>PVP Live Cover</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-cover/presentation-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-cover/presentation-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-cover/presentation-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-cover/presentation-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 Oct 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/pvp-live-cover</link>
-        <guid isPermaLink="true">http://localhost:4000/pvp-live-cover</guid>
         
         <category>Creative Direction</category>
         
