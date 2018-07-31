@@ -5,42 +5,9 @@
     <description>I'm interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 Jul 2018 14:27:00 -0500</pubDate>
-    <lastBuildDate>Sat, 28 Jul 2018 14:27:00 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Jul 2018 21:38:23 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Jul 2018 21:38:23 -0500</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
-    
-      <item>
-        <title>React/CSS Design System</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/buttons.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/colors.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/code1.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/grid.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/icons.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/code2.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/swatches.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/type.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Jul 2018 10:44:10 -0500</pubDate>
-        <link>http://localhost:4000/react-css-design-system</link>
-        <guid isPermaLink="true">http://localhost:4000/react-css-design-system</guid>
-        
-        <category>Style Guide</category>
-        
-        <category>Frontend Development</category>
-        
-        <category>ReactJS</category>
-        
-        
-        <category>works</category>
-        
-      </item>
     
       <item>
         <title>PVP Live iOS App</title>
@@ -93,6 +60,39 @@
       </item>
     
       <item>
+        <title>React/CSS Design System</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/buttons.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/colors.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/code1.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/grid.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/icons.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/code2.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/swatches.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/type.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jul 2016 10:44:10 -0500</pubDate>
+        <link>http://localhost:4000/react-css-design-system</link>
+        <guid isPermaLink="true">http://localhost:4000/react-css-design-system</guid>
+        
+        <category>Style Guide</category>
+        
+        <category>Frontend Development</category>
+        
+        <category>ReactJS</category>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
         <title>PVP Live</title>
         <description>&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-biz-card.jpg&quot; alt=&quot;PVP Live Business Card&quot; /&gt;&lt;/p&gt;
 
@@ -109,25 +109,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-6.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-7.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://localhost:4000/pvp-live</link>
-        <guid isPermaLink="true">http://localhost:4000/pvp-live</guid>
-        
-        <category>Branding</category>
-        
-        <category>Creative Direction</category>
-        
-        <category>Style Guide</category>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Network Reel</title>
-        <description>&lt;iframe width=&quot;100%&quot; height=&quot;705&quot; src=&quot;https://www.youtube.com/embed/5BjJw0wNqvY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Motion Design: Todd Blankenship. Creative/Art Direction: Stephen Herko - Together, Todd and I created the opening for the PVP Live Hearthstone Pro League. HPL was a 16 week league focusing on competitive play in Hearthstone.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/work/network-reel/network-reel-1.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
 
@@ -142,10 +125,14 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/network-reel/network-reel-6.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://localhost:4000/network-reel</link>
-        <guid isPermaLink="true">http://localhost:4000/network-reel</guid>
+        <link>http://localhost:4000/pvp-live</link>
+        <guid isPermaLink="true">http://localhost:4000/pvp-live</guid>
         
-        <category>Art Direction</category>
+        <category>Branding</category>
+        
+        <category>Creative Direction</category>
+        
+        <category>Style Guide</category>
         
         
         <category>works</category>
@@ -328,6 +315,29 @@
         <pubDate>Sun, 11 Oct 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/pvp-live-set</link>
         <guid isPermaLink="true">http://localhost:4000/pvp-live-set</guid>
+        
+        <category>Creative Direction</category>
+        
+        <category>Branding</category>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>PVP Live Cover</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-cover/presentation-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-cover/presentation-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-cover/presentation-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-cover/presentation-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Oct 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/pvp-live-cover</link>
+        <guid isPermaLink="true">http://localhost:4000/pvp-live-cover</guid>
         
         <category>Creative Direction</category>
         

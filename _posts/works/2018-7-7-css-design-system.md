@@ -2,10 +2,10 @@
 layout: work
 title:  "React/CSS Design System"
 slug: react-css-design-system
-date:   2018-07-07 15:44:10
+date:   2016-07-07 15:44:10
 categories:
   - works
-description: "A new design system was implemented into a large ecommerce site. The design system is built with ReactJS. It uses webpack to compile the code the JavaScript and CSS."
+description: "A new design system was implemented into a large ecommerce site. The CSS and React components were audited so we could optimize everything as much as possible. Worked with a team of devs and designers. The design system is built with ReactJS. It uses webpack to compile the code the JavaScript and CSS."
 thumbnail: colors.png
 tags:
   - Style Guide
