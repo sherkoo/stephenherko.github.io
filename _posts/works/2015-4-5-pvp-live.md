@@ -1,12 +1,12 @@
 ---
 layout: work
-title:  "PVP Live"
+title:  "PVP Live Branding"
 slug: pvp-live
 date:   2015-11-09 15:44:10
 categories:
   - works
 description: "PVP Live assembles the world’s greatest esports athletes and provides them with a platform to perform at the highest pinnacles of competitive gaming. Polished productions offer the excitement and entertainment of gaming bridged with the intensity and history-making of traditional sports."
-thumbnail: pvp-live-biz-card.jpg
+thumbnail: network-reel-6.jpg
 tags:
   - Branding
   - Creative Direction
@@ -41,4 +41,4 @@ Motion Design: Todd Blankenship. Creative/Art Direction: Stephen Herko - Togethe
 
 ![PVP Live Network Reel](/img/work/network-reel/network-reel-5.jpg)
 
-![PVP Live Network Reel](/img/work/network-reel/network-reel-6.jpg)
+![PVP Live Network Reel](/img/work/pvp-live/network-reel-6.jpg)
