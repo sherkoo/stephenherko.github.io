@@ -33,14 +33,7 @@
     color: #fff;
   }
 
-
-  // .about-title{
-  //   font-size: 18px;
-  // }
-
   .about-img{
-    // flex: 0 0 30%;
-    //   -webkit-flex: 0 0 30%;
     width: 300px;
     height: 300px;
     overflow: hidden;
@@ -60,20 +53,6 @@
   .about-meta{
     margin: 5px 0;
   }
-
-  // .about-meta{
-  //   color: #575757;
-  //   padding-top: 15px;
-  //   padding-left: 50px;
-  //   flex: 0 0 60%;
-  //     -webkit-flex: 0 0 60%;
-  //
-  //   @media(max-width: $breakpoint3){
-  //     padding: 0;
-  //     flex: 0 0 100%;
-  //       -webkit-flex: 0 0 100%;
-  //   }
-  // }
 }
 
 .about-page{
@@ -110,6 +89,7 @@
 
   .container{
     background: $black-color url('../img/pic-opac2.png') 6% 24% no-repeat;
+    background-size: 35%;
 
     @media(max-width: $breakpoint2){
       background: none;
