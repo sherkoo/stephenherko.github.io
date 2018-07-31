@@ -16,11 +16,11 @@
 
 - name: HTML5
   icon: html5
-  description: The building blocks of a webpage's structure.
+  description: Using html to define the structure of webpages and React components.
 
 - name: CSS3
   icon: css3
-  description:
+  description: Taking advantage of pre-processors suchs as SASS to write reusable, scallable CSS.
 
 - name: Javascript
   icon: javascript
