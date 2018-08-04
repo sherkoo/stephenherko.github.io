@@ -1,3 +1,7 @@
+// #####################
+// About.scss
+// ####################
+
 .about{
   background-color: $green-color;
   color: #eee;
@@ -82,6 +86,12 @@
   }
 }
 
+.about-page-intro-img{
+  @media(max-width: $breakpoint3){
+    display: none;
+  }
+}
+
 .about-page-intro{
   background-color: $black-color;
   color: #6b6b6b;
@@ -93,6 +103,10 @@
 
     @media(max-width: $breakpoint2){
       background: none;
+    }
+
+    @media(max-width: $breakpoint3){
+      padding-top: 40px;
     }
   }
 
@@ -120,20 +134,25 @@
 
   .container{
     display: flex;
-      display: -webkit-flex;
+    display: -webkit-flex;
 
-      & > div{
-        flex: 1;
+    & div{
+      flex: 1;
 
-        @media(max-width: $breakpoint2){
-          flex: none;
-        }
-      }
+      // @media(max-width: $breakpoint2){
+      //   // display: block;
+      //   flex: none;
+      // }
+    }
   }
 }
 
 .about-page-clients{
   padding: 150px 0;
+
+  @media(max-width: $breakpoint3){
+    padding: 0px 0px;
+  }
 
   .container{
     display: flex;
@@ -143,6 +162,10 @@
     flex-direction: row;
       -webkit-flex-direction: row;
     padding: 0 175px;
+
+    @media(max-width: $breakpoint3){
+      padding: 0px 0px;
+    }
   }
 
   .about-page-client{
@@ -156,6 +179,11 @@
     @media(max-width: $breakpoint1){
       flex: 0 0 50%;
         -webkit-flex: 0 0 50%;
+    }
+
+    @media(max-width: $breakpoint3){
+      flex: 0 0 100%;
+        -webkit-flex: 0 0 100%;
     }
   }
 
@@ -172,6 +200,10 @@
     margin: 10px;
     border-radius: 3px;
       -webkit-border-radius: 3px;
+
+    @media(max-width: $breakpoint3){
+      min-width: 100%;
+    }
   }
 }
 
@@ -186,5 +218,10 @@
   @media(max-width: $breakpoint1){
     padding: 70px 130px;
     font-size: 30px;
+  }
+
+  @media(max-width: $breakpoint3){
+    padding: 20px 40px;
+    font-size: 24px;
   }
 }
