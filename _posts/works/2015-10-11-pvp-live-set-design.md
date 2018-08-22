@@ -4,7 +4,7 @@ title:  "PVP Live Set Design"
 slug: pvp-live-set
 categories:
   - works
-description: "The PVP Live Set Design was designed for Esports leagues. The production was aimed to be clean & professional with efforts to legitimize Esports in the marketplace. Working along side with Kevin Healy and Diesel Displays, the desk was designed to be the main focus while utilizing design and light in the background as supporting elements."
+description: "The PVP Live Set Design was designed for Esports productions. The events were aimed to be clean & professional. Working along side with Diesel Displays, the desk was designed to be the main focus."
 thumbnail: hpl-2.jpg
 tags:
   - Creative Direction
