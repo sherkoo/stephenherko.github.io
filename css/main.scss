@@ -602,9 +602,9 @@ h1,h2,h3,h4,h5,h6{
    margin: 40px auto;
    //  text-align: center;
    font-size: 1.125rem;
-   background: #fafafa;
+   // background: #fafafa;
    border-radius: 3px;
-   border: 1px solid #eee;
+   // border: 1px solid #eee;
    padding: 20px 40px;
  }
 
@@ -802,4 +802,4 @@ h1,h2,h3,h4,h5,h6{
 @import "about";
 @import "buttons";
 @import "process";
-// @import "grid";
+@import "grid";
