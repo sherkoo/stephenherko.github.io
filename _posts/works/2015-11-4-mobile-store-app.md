@@ -14,8 +14,16 @@ tags:
 
 ![](/img/work/shoe/shoe-5.png)
 
-![](/img/work/shoe/shoe-1.jpg)
+<div class="case-study">
+  <h2>Documenting the System Processes</h2>
+</div>
+
+![](/img/work/shoe/shoe-6.jpeg)
+
+![](/img/work/shoe/shoe-7.jpeg)
 
 ![](/img/work/shoe/shoe-2.jpg)
 
-![](/img/work/shoe/shoe-3.jpg)
+![](/img/work/shoe/shoe-1.jpg)
+
+<!-- ![](/img/work/shoe/shoe-3.jpg) -->
