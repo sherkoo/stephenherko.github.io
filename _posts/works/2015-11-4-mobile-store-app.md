@@ -1,29 +1,39 @@
 ---
 layout: work
-title:  "Mobile Store App"
-slug: shoe
+title:  "Mobile Checkout"
+slug: mobile-checkout
 date:   2015-11-04 15:44:10
 categories:
   - works
-description: "The checkout page for a mobile store app."
+description: "Improving conversion on an existing checkout process"
 thumbnail: shoe-1.jpg
+color: "blue"
 tags:
   - UI Design
   - UX Design
+  - Research
 ---
 
-![](/img/work/shoe/shoe-5.png)
+<div class="container">
+  <div class="grid push-down-XXL">
+    <img src="/img/work/mobile-checkout/shoe-5.png" alt="">
+  </div>
 
-<div class="case-study">
-  <h2>Documenting the System Processes</h2>
+  <div class="grid col-8-4">
+    <div>
+      <h2 class="display">Service Blueprint</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque sequi soluta deserunt, suscipit autem, explicabo tempore necessitatibus voluptatum fuga quod saepe ullam eos earum. Quaerat autem fugit itaque laboriosam ad.</p>
+    </div>
+    <div></div>
+  </div>
+
+  <img src="/img/work/mobile-checkout/shoe-6.jpeg" alt="">
+
+  <img src="/img/work/mobile-checkout/shoe-7.jpeg" alt="">
+
+  <img src="/img/work/mobile-checkout/shoe-2.jpg" alt="">
+
+  <img src="/img/work/mobile-checkout/shoe-1.jpg" alt="">
+
+  <!-- ![](/img/work/shoe/shoe-3.jpg) -->
 </div>
-
-![](/img/work/shoe/shoe-6.jpeg)
-
-![](/img/work/shoe/shoe-7.jpeg)
-
-![](/img/work/shoe/shoe-2.jpg)
-
-![](/img/work/shoe/shoe-1.jpg)
-
-<!-- ![](/img/work/shoe/shoe-3.jpg) -->

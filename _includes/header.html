@@ -1,5 +1,14 @@
-<header class="header" role="banner">
+<header class="header">
   <div class="container">
-    {% include nav.html %}
+    <div class="grid col-6">
+      <h1 class="header-logo"><a class="link" href="{{ site.baseurl}}/">{{ site.title }}</a></h1>
+      <nav class="header-nav">
+        <ul>
+          <li><a class="link" href="{{ site.baseurl }}/">Work</a></li>
+          <li><a class="link" href="{{ site.baseurl }}/about">About</a></li>
+          <li><a href="mailto:{{ site.email }}?Subject=Hello">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
   </div>
 </header>

@@ -10,9 +10,9 @@
   icon: prototyping
   description: Get the concept out in a working prototype into the user’s hands. Record feedback, and iterate on the design.
 
-- name: ReactJS
-  icon: react
-  description: A great way to organize code into components.
+# - name: ReactJS
+#   icon: react
+#   description: A great way to organize code into components.
 
 - name: HTML5
   icon: html5

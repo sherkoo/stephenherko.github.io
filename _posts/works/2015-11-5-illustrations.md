@@ -7,6 +7,7 @@ categories:
   - works
 description: "A variety of illustrations I've done over the years. During my career I've been fortunate enough to illustrate 3 children's books. They were a blast every step of the way."
 thumbnail: illustration-17.jpg
+color: "#fffbdc"
 tags:
    - Illustration
    - Design

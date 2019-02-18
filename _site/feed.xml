@@ -2,107 +2,316 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen Herko</title>
-    <description>I'm interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice.</description>
-    <link>http://stephenherko.com/</link>
-    <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Aug 2018 22:04:53 -0500</pubDate>
-    <lastBuildDate>Wed, 22 Aug 2018 22:04:53 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <description>As a UX Designer, I believe developing a deep understanding of human and social behavior is the key to good product design.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 18 Feb 2019 02:42:59 -0600</pubDate>
+    <lastBuildDate>Mon, 18 Feb 2019 02:42:59 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Heroesmeta</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/heroesmeta/heroesofthestorm.png&quot; alt=&quot;PVP Live Business Card&quot; /&gt;&lt;/p&gt;
+        <title>PlayIt</title>
+        <description>&lt;!-- large desktop --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div&gt;
+    &lt;!-- &lt;img src=&quot;/img/work/playit/launch.jpg&quot; alt=&quot;&quot;&gt; --&gt;
+    &lt;img src=&quot;/img/work/playit/desktop.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- challenges --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;h2 class=&quot;display&quot;&gt;Challenges&lt;/h2&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;p&gt;In the world of subscription services and streaming content, is there still room for digital stores when it comes to media? Has there been a platform where users can upload different forms of media, and make purchases from a store on one platform?&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div&gt;
+    &lt;!-- &lt;img src=&quot;/img/work/playit/launch.jpg&quot; alt=&quot;&quot;&gt; --&gt;
+    &lt;img src=&quot;/img/work/playit/desktop2.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- approach --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-6&quot;&gt;
+    &lt;div&gt;
+      &lt;h2 class=&quot;display&quot;&gt;The Approach&lt;/h2&gt;
+      &lt;p&gt;Before diving into the design for PlayIt, I mapped out a plan to better understand user’s behavior and the competitive landscape. I believe research, planning and testing are essential when designing a new product. User interviews were going to be an important step for this project before jumping into the design.&lt;/p&gt;
+      &lt;!-- &lt;ul&gt;
+        &lt;li&gt;Defining Business Goals&lt;/li&gt;
+        &lt;li&gt;Competitive Analysis&lt;/li&gt;
+        &lt;li&gt;Needfinding / User Interviews&lt;/li&gt;
+        &lt;li&gt;Personas&lt;/li&gt;
+        &lt;li&gt;Feature List&lt;/li&gt;
+        &lt;li&gt;Wireframes&lt;/li&gt;
+        &lt;li&gt;Usability Testing&lt;/li&gt;
+        &lt;li&gt;Final Comps&lt;/li&gt;
+      &lt;/ul&gt; --&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;h2 class=&quot;display&quot;&gt;Initial Research&lt;/h2&gt;
+        &lt;div&gt;
+          &lt;p&gt;I performed a competitive analysis to get a better understanding of how all of the services would work together. What was working well for other competitors, and what wasn't. In doing so, we can start to get a list of some goals the PlayIt app may want to strive for, and where it might stand in the market. During user interviews, we watched users use some other brands software.&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- research --&gt;
+&lt;!-- &lt;div class=&quot;container&quot;&gt;
+  &lt;h2 class=&quot;display&quot;&gt;Initial Research&lt;/h2&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;p&gt;I performed a competitive analysis to get a better understanding of how all of the services would work together. What was working well for other competitors, and what wasn't. In doing so, we can start to get a list of some goals the PlayIt app may want to strive for, and where it might stand in the market.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid&quot;&gt;
+    &lt;img src=&quot;/img/work/playit/playit-comp-analysis.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- card sorting --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;h2 class=&quot;display&quot;&gt;Cardsorting&lt;/h2&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;p&gt;A simple workshop to ideate all the possibilities with the stakeholders. It's important in brainstorming to allow everyone to produce ideas without judgment at this stage. Participants are encouraged to throw any idea out there. Even something that seems like a bad idea may spark a good idea in someone else. After we have collected an  list of ideas, I sorted them accordingly.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid&quot;&gt;
+    &lt;img src=&quot;/img/work/playit/playit-cardsorting.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- sketches --&gt;
+&lt;div class=&quot;container&quot;&gt;
+      &lt;img src=&quot;/img/work/playit/sketches.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;!-- wireframes --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;/img/work/playit/wireframe2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;!-- personas --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;/img/work/playit/personas.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- large desktop --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;/img/work/playit/20.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- flowchart --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;h2 class=&quot;display&quot;&gt;Service Blueprint - Account Creation&lt;/h2&gt;
+  &lt;img src=&quot;/img/work/playit/flowchart.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- file upload --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;h2 class=&quot;display&quot;&gt;Uploading New Media&lt;/h2&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;p&gt;Uploading new media was a major selling point for PlayIt. By scrapping meta data when a user uploads a file, we could pre-fill fields for an added delight. The user would have the choice to edit the labels before commiting and adding it to their library.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- file upload --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;/img/work/playit/upload.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- design system --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;h2 class=&quot;display&quot;&gt;Design System&lt;/h2&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;p&gt;PlayIt was designed on an 8px baseline to ensure consistency throughout components. Typography, buttons, images all fall on this baseline. Padding and margins are also designed in multiples of 8. E.g margin-right: 8px, 16px, or 32px. This provides a guideline when new designers or developers pickup the files ensuring consistent results.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- design system --&gt;
+&lt;div style=&quot;background-color: #141824&quot;&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;grid&quot;&gt;
+      &lt;img src=&quot;/img/work/playit/design-system.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- iphone --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-6&quot;&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/playit/iphone.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;push-top-XXXL pull-right-XXXL&quot;&gt;
+      &lt;h2 class=&quot;display&quot;&gt;Building on access controls, we could provide additional value by displaying aggregate usage data for each profile&lt;/h2&gt;
+      &lt;p&gt;...We extracted the most meaningful metrics (number of threats, most visited sites, and time spent in each content category) from the profile's online activity, and visualized them as cards with a summary of each data point. As a result, we could provide our users with an additional incentive to user the access controls, by giving insight as to what their kids are doing online. ...&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- slide up --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;/img/work/playit/slideup.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 05 Apr 2018 10:44:10 -0500</pubDate>
-        <link>http://stephenherko.com/heroesmeta</link>
-        <guid isPermaLink="true">http://stephenherko.com/heroesmeta</guid>
+        <pubDate>Tue, 01 Jan 2019 09:44:10 -0600</pubDate>
+        <link>http://localhost:4000/playit</link>
+        <guid isPermaLink="true">http://localhost:4000/playit</guid>
         
-        <category>UI Design</category>
-        
-        <category>Frontend Development</category>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>PVP Live iOS App</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-app/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-app/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-app/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-app/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Dec 2016 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/pvp-live-app</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live-app</guid>
-        
-        <category>UI Design</category>
-        
-        <category>UX Design</category>
-        
-        <category>Product Design</category>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Tat Finder</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/tattoo/tat-2.jpg&quot; alt=&quot;Tattoo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/tattoo/tat-3.jpg&quot; alt=&quot;Tattoo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/tattoo/tat-4.jpg&quot; alt=&quot;Tattoo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/tattoo/tat-1.jpg&quot; alt=&quot;Tattoo&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Oct 2016 10:44:10 -0500</pubDate>
-        <link>http://stephenherko.com/tattoo</link>
-        <guid isPermaLink="true">http://stephenherko.com/tattoo</guid>
-        
-        <category>UI Design</category>
-        
-        <category>UX Design</category>
-        
-        <category>Product Design</category>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>React/CSS Design System</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/buttons.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/colors.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/code1.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/grid.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/icons.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/code2.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/swatches.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/react-css-design-system/type.png&quot; alt=&quot;CSS Design System&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Jul 2016 10:44:10 -0500</pubDate>
-        <link>http://stephenherko.com/react-css-design-system</link>
-        <guid isPermaLink="true">http://stephenherko.com/react-css-design-system</guid>
+        <category>Branding</category>
         
         <category>Style Guide</category>
         
-        <category>Frontend Development</category>
         
-        <category>ReactJS</category>
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>E-Coach</title>
+        <description>&lt;p&gt;&lt;img src=&quot;img/work/ecoach/banner2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- mockups 1 --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;img/work/ecoach/ecoach-mockup.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;img/work/ecoach/flow.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- recording sessions --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-6&quot;&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;img/work/ecoach/ecoach-recording.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;push-top-XXXL pull-right-XXXL&quot;&gt;
+      &lt;h2 class=&quot;display&quot;&gt;Recording Sessions&lt;/h2&gt;
+      &lt;p&gt;After the user has completed a workout, they can pull up their recorded session. Replays will be available offering real-time stats and tips. Trend charts will be available after a number of sessions have been recorded. E-Coach will offer tips on how to adjust to prevent against future injuries or general improvements.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- personas --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;img/work/ecoach/personas.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- card sorting --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;img/work/ecoach/cardsorting.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- card sorting --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;img/work/ecoach/ecoach-mockup2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- card sorting --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;img/work/ecoach/ecoach-mockup3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- user goals --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;h2 class=&quot;display&quot;&gt;User Goals&lt;/h2&gt;
+      &lt;p&gt;Each sport or workout activity comes with it's own set of measurements. Goals that are important to a runner, may not be preferred by someone trying to improve their golf swing.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- wireframes --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;img/work/ecoach/ecoach-wireframe.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- components --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;img/work/ecoach/components.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;!-- ![](img/work/ecoach/ecoach-2.jpg) --&gt;
+</description>
+        <pubDate>Sun, 04 Nov 2018 09:44:10 -0600</pubDate>
+        <link>http://localhost:4000/ecoach</link>
+        <guid isPermaLink="true">http://localhost:4000/ecoach</guid>
+        
+        <category>UI Design</category>
+        
+        <category>UX Design</category>
+        
+        <category>Research</category>
         
         
         <category>works</category>
@@ -110,75 +319,205 @@
       </item>
     
       <item>
-        <title>PVP Live Branding</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-biz-card.jpg&quot; alt=&quot;PVP Live Business Card&quot; /&gt;&lt;/p&gt;
+        <title>Competitive Gaming</title>
+        <description>&lt;!-- banner --&gt;
+&lt;p&gt;&lt;img src=&quot;img/work/pvp-live/pvplive-banner.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-1.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
+&lt;!-- branding --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-6 col-1-at-M push-down-XXL&quot;&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-2.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-1.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-2.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
+&lt;!-- branding --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-6 col-1-at-M&quot;&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-5.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-6.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-3.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-3.jpg) --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-4.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-4.jpg) --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-5.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-5.jpg) --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-6.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-6.jpg) --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/pvp-live-branding-7.jpg&quot; alt=&quot;PVP Live Branding&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-7.jpg) --&gt;
 
-&lt;p&gt;Motion Design: Todd Blankenship. Creative/Art Direction: Stephen Herko - Together, Todd and I created the opening for the PVP Live Hearthstone Pro League. HPL was a 16 week league focusing on competitive play in Hearthstone.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/network-reel/network-reel-1.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
+&lt;!-- set design --&gt;
+&lt;div class=&quot;container push-down-XXL&quot;&gt;
+  &lt;h2 class=&quot;display&quot;&gt;Set Design&lt;/h2&gt;
+  &lt;div class=&quot;grid col-6&quot;&gt;
+    &lt;div&gt;
+      &lt;p&gt;The PVP Live set design was designed to showcase competitive gamers while being cast by two hosts. Keeping in line with the PVP Live branding, it was aimed to be clean &amp;amp; professional. Working along side with Diesel Displays, the desk was designed to be the main focus.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Challenges&lt;/h2&gt;
+      &lt;p&gt;Depth is very hard to capture on video. When designing the set, it was key to lighting and textures subdued behind the casters.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/network-reel/network-reel-2.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;container push-down-XXL&quot;&gt;
+  &lt;img src=&quot;/img/work/pvp-live-set/hpl-1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/network-reel/network-reel-3.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
+&lt;!-- set design sketches --&gt;
+&lt;div class=&quot;container push-down-XXL&quot;&gt;
+  &lt;div class=&quot;grid col-3-3&quot;&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live-set/hpl-11.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live-set/hpl-12.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/network-reel/network-reel-4.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
+&lt;!-- model renders --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;p&gt;After sketching out various ideas. I moved on to mocking them up in a 3D modeling program SketchUp. This helped the team envision where the stage elements needed to be placed. We tested out various camera angles as well with this method.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;grid col-6&quot;&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live/model-1.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live/model-2.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live/model-3.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live/model-5.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/network-reel/network-reel-5.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;container push-down-XXL&quot;&gt;
+  &lt;div class=&quot;grid&quot;&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-3.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live/network-reel-6.jpg&quot; alt=&quot;PVP Live Network Reel&quot; /&gt;&lt;/p&gt;
+&lt;!-- motion graphics --&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;h2 class=&quot;display&quot;&gt;Motion Graphics&lt;/h2&gt;
+      &lt;p&gt;Motion Design: Todd Blankenship. Creative/Art Direction: Stephen Herko - Together, Todd and I created the opening for the PVP Live Hearthstone Pro League. HPL was a 16 week league focusing on competitive play in Hearthstone.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;grid col-6&quot;&gt;
+      &lt;img src=&quot;/img/work/network-reel/network-reel-1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;img src=&quot;/img/work/network-reel/network-reel-2.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;img src=&quot;/img/work/network-reel/network-reel-3.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;img src=&quot;/img/work/network-reel/network-reel-4.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;img src=&quot;/img/work/network-reel/network-reel-5.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;img src=&quot;/img/work/pvp-live/network-reel-6.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ![PVP Live Network Reel]()
+
+![PVP Live Network Reel]() --&gt;
+
+&lt;!-- ![](/img/work/pvp-live-cover/presentation-5.png)
+
+![](/img/work/pvp-live-cover/presentation-3.jpg)
+
+![](/img/work/pvp-live-cover/presentation-4.jpg)
+
+![](/img/work/pvp-live-cover/presentation-2.png) --&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid&quot;&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-1.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-3.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-5.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-6.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-8.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-9.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-10.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- ## Site
+&lt;div class=&quot;grid col-8-4&quot;&gt;
+pvplive.net focuses on supplying stats, analytics, and predictions for major titles in the Esports market. It was designed with HTML5, css3, PHP5 and JQuery. Built with a custom CMS from the ground up, everything was designed from scratch. This project taught the team a lot about scalability within the code and database structure. Tools like gulp.js, git, BEM methodology,  JQuery, and team problem solving became invaluable to building this site.
+&lt;/div&gt;
+
+![PVP Live website](/img/work/pvp-live-web/homepage.jpg)
+
+![PVP Live website](/img/work/pvp-live-web/player-page.jpg)
+
+![PVP Live website](/img/work/pvp-live-web/player-class-page.jpg) --&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- app design --&gt;
+&lt;div class=&quot;container push-down-XXL&quot;&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;h2 class=&quot;display&quot;&gt;App Design&lt;/h2&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quis fugit velit molestias fuga eum neque repellendus fugiat corrupti inventore. Quia doloremque ea magnam, nihil sed eos laboriosam repudiandae laudantium.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container push-down-XXL&quot;&gt;
+  &lt;img src=&quot;/img/work/pvp-live-app/pvp-live-app.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid col-6 col-1-at-M push-down-XXL&quot;&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live-app/1.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live-app/2.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;grid col-6 col-1-at-M push-down-XXL&quot;&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live-app/3.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;img src=&quot;/img/work/pvp-live-app/4.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/pvp-live</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live</guid>
+        <link>http://localhost:4000/pvp-live</link>
+        <guid isPermaLink="true">http://localhost:4000/pvp-live</guid>
         
         <category>Branding</category>
         
         <category>Creative Direction</category>
         
         <category>Style Guide</category>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Logos</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/logos/logo-1.jpg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/logos/logo-2.jpg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/logos/logo-3.jpg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/logos/logo-4.jpg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/logos/logo-5.jpg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/logos/logo-7.jpg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/logos/logo-9.jpg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/logos</link>
-        <guid isPermaLink="true">http://stephenherko.com/logos</guid>
-        
-        <category>Branding</category>
-        
-        <category>Design</category>
         
         
         <category>works</category>
@@ -236,8 +575,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-24.png&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/illustration</link>
-        <guid isPermaLink="true">http://stephenherko.com/illustration</guid>
+        <link>http://localhost:4000/illustration</link>
+        <guid isPermaLink="true">http://localhost:4000/illustration</guid>
         
         <category>Illustration</category>
         
@@ -249,30 +588,40 @@
       </item>
     
       <item>
-        <title>Mobile Store App</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/shoe/shoe-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <title>Mobile Checkout</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid push-down-XXL&quot;&gt;
+    &lt;img src=&quot;/img/work/mobile-checkout/shoe-5.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
 
-&lt;div class=&quot;case-study&quot;&gt;
-  &lt;h2&gt;Documenting the System Processes&lt;/h2&gt;
+  &lt;div class=&quot;grid col-8-4&quot;&gt;
+    &lt;div&gt;
+      &lt;h2 class=&quot;display&quot;&gt;Service Blueprint&lt;/h2&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque sequi soluta deserunt, suscipit autem, explicabo tempore necessitatibus voluptatum fuga quod saepe ullam eos earum. Quaerat autem fugit itaque laboriosam ad.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div&gt;&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;img src=&quot;/img/work/mobile-checkout/shoe-6.jpeg&quot; alt=&quot;&quot; /&gt;
+
+  &lt;img src=&quot;/img/work/mobile-checkout/shoe-7.jpeg&quot; alt=&quot;&quot; /&gt;
+
+  &lt;img src=&quot;/img/work/mobile-checkout/shoe-2.jpg&quot; alt=&quot;&quot; /&gt;
+
+  &lt;img src=&quot;/img/work/mobile-checkout/shoe-1.jpg&quot; alt=&quot;&quot; /&gt;
+
+  &lt;!-- ![](/img/work/shoe/shoe-3.jpg) --&gt;
 &lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/shoe/shoe-6.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/shoe/shoe-7.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/shoe/shoe-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/shoe/shoe-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;!-- ![](/img/work/shoe/shoe-3.jpg) --&gt;
 </description>
         <pubDate>Wed, 04 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/shoe</link>
-        <guid isPermaLink="true">http://stephenherko.com/shoe</guid>
+        <link>http://localhost:4000/mobile-checkout</link>
+        <guid isPermaLink="true">http://localhost:4000/mobile-checkout</guid>
         
         <category>UI Design</category>
         
         <category>UX Design</category>
+        
+        <category>Research</category>
         
         
         <category>works</category>
@@ -280,28 +629,26 @@
       </item>
     
       <item>
-        <title>PVPLive Web</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-web/homepage.jpg&quot; alt=&quot;PVP Live website&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-web/player-page.jpg&quot; alt=&quot;PVP Live website&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-web/players-and-vods.jpg&quot; alt=&quot;PVP Live website&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-web/standings-page.jpg&quot; alt=&quot;PVP Live website&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-web/player-class-page.jpg&quot; alt=&quot;PVP Live website&quot; /&gt;&lt;/p&gt;
+        <title>Pitchfork Redesign</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;grid&quot;&gt;
+    &lt;img src=&quot;/img/work/pitchfork/pitchfork-1.png&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pitchfork/pitchfork-2.png&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pitchfork/pitchfork-3.png&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pitchfork/pitchfork-4.png&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pitchfork/pitchfork-5.png&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pitchfork/pitchfork-6.png&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pitchfork/pitchfork-7.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Mon, 19 Oct 2015 10:44:10 -0500</pubDate>
-        <link>http://stephenherko.com/pvp-live-web</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live-web</guid>
-        
-        <category>UI Design</category>
+        <pubDate>Thu, 12 Feb 2015 09:44:10 -0600</pubDate>
+        <link>http://localhost:4000/pitchfork</link>
+        <guid isPermaLink="true">http://localhost:4000/pitchfork</guid>
         
         <category>UX Design</category>
         
-        <category>Creative Direction</category>
-        
-        <category>Web Development</category>
+        <category>UI Design</category>
         
         
         <category>works</category>
@@ -309,53 +656,153 @@
       </item>
     
       <item>
-        <title>PVP Live Set Design</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-2.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
+        <title>Cut Out Those ID's</title>
+        <description>&lt;p&gt;ID’s are considered “non-reusable” code. It has weight, it makes a statement that this block of code is so important it shouldn’t appear more than once on the page. It certain cases it makes sense. For example a #page-header or a #logo, why would you use those more than once? But, is it even necessary?&lt;/p&gt;
 
-&lt;div class=&quot;work-case-study&quot;&gt;
-  &lt;h2&gt;Design Challenges&lt;/h2&gt;
-  &lt;p&gt;Depth &amp;amp; detail are quite challenging to capture in video. Things seem a lot closer than they really are. To solve for this, elements were spaced out considerably. When viewed from a user's point of view online, the elements read closer together.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;##Object Oriented
+Lets put aside the argument that you should or shouldn’t use ID’s as CSS selectors. I believe that only using classes in your css makes you think about your architecture in a totally different light. It keeps your mind more in the sense that your code is (or should be) object oriented. It eliminates the thinking that you’re styling one block of code per page when you could be writing reusable code that can be easily adapted to other parts of the site’s design as many times as it needs to be. It’s much easier to think in terms of modules and components.&lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-3&quot;&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-11.jpg&quot; alt=&quot;&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-3&quot;&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-12.jpg&quot; alt=&quot;&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;##Is it necessary for CSS?
+Going back to #page-header and #logo, would it be so bad if it was .page-header or .logo? Or how about thinking about more in the sense of a framework like .navbar and .navbar-branding.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-1.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-3.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
-
-&lt;!-- ![](/img/unfinished-set-design.jpg) --&gt;
-
-&lt;!-- ![PVP Live Set Design](/img/hpl-4.jpg) --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-5.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-6.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
-
-&lt;!-- ![PVP Live Set Design](/img/work/pvp-live-set/hpl-7.jpg) --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-8.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-9.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/work/pvp-live-set/hpl-10.jpg&quot; alt=&quot;PVP Live Set Design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;##So just remove ID’s?
+In some situations only an ID will suffice. For example when using javascript’s getElementById or a classic “skip to navigation” link. Using it as a CSS selector is a different story. It’s totally  up to the developer and should be used if necessary. I believe they shouldn’t be used or very very sparingly.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 Oct 2015 00:00:00 -0500</pubDate>
-        <link>http://stephenherko.com/pvp-live-set</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live-set</guid>
-        
-        <category>Creative Direction</category>
-        
-        <category>Branding</category>
+        <pubDate>Thu, 08 Jan 2015 12:12:48 -0600</pubDate>
+        <link>http://localhost:4000/cut-out-those-ids</link>
+        <guid isPermaLink="true">http://localhost:4000/cut-out-those-ids</guid>
         
         
-        <category>works</category>
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>5 Things I Love About Sublime Text That Other Editors Don't Have</title>
+        <description>&lt;p&gt;##Lightweight&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Opens and runs very quickly&lt;/li&gt;
+  &lt;li&gt;(Never) really crashes or freezes&lt;/li&gt;
+  &lt;li&gt;Even projects with 50-100 files seem to open seamlessly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Speed is very important to my workflow. I can’t stand that feeling of waiting for my editor when my brain is already on to the next step.&lt;/p&gt;
+
+&lt;p&gt;##Easy To Customize&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Package manager - allows you to install extensions to help you develop more efficiently&lt;/li&gt;
+  &lt;li&gt;Fetch - Great for fetching things from github&lt;/li&gt;
+  &lt;li&gt;Emmet - Amazing for fast front end development&lt;/li&gt;
+  &lt;li&gt;Themes - Never locked into how your editor looks&lt;/li&gt;
+  &lt;li&gt;Feels like an editor you can program to fit your needs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##Quick Open&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Uses fuzzy search which allows you to search for files without typing the exact file name&lt;/li&gt;
+  &lt;li&gt;Saves time&lt;/li&gt;
+  &lt;li&gt;“:” allows you to quickly go to a line&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##Overall UI&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tabs at top - easy to see what’s open&lt;/li&gt;
+  &lt;li&gt;Files/sidebar on left&lt;/li&gt;
+  &lt;li&gt;Clean, simple and effective&lt;/li&gt;
+  &lt;li&gt;Again, very easy to change the overall colors, UI, and theme based on your preference&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##Snippets
+I’ve been using snippets less these days, but they still have their place in my workflow. The emmet package comes with a lot preloaded I use on a day to day. Sublime is probably the best I’ve seen at making your own snippets, customizing and organizing them.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Dec 2014 12:12:48 -0600</pubDate>
+        <link>http://localhost:4000/5-things-i-love-about-sublime-text-that-other-editors-dont-have</link>
+        <guid isPermaLink="true">http://localhost:4000/5-things-i-love-about-sublime-text-that-other-editors-dont-have</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The Importance of Commenting HTML</title>
+        <description>&lt;p&gt;##Benefits&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Easy for team members to understand&lt;/li&gt;
+  &lt;li&gt;Discern what’s going on more quickly in old code&lt;/li&gt;
+  &lt;li&gt;Much easier to read when your code gets lengthy&lt;/li&gt;
+  &lt;li&gt;Sublime Text makes it very easy with the shortcut cmd+/&lt;/li&gt;
+  &lt;li&gt;Ensure your end div tags exist&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##Application&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;opening&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;comment&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/closing comment --&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;##Example&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;container&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;container&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;!--&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;main-header&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;role&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;banner&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;h1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;logo&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Logo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/h1&amp;gt;
+    &amp;lt;!-- main-navigation --&amp;gt;
+    &amp;lt;nav id=&quot;main-navigation&quot; role=&quot;navigation&quot;&amp;gt;
+      &amp;lt;ul&amp;gt;
+        &amp;lt;li&amp;gt;&amp;lt;a href=&quot;#&quot;&amp;gt;Link&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/li&amp;gt;
+        &amp;lt;li&amp;gt;&amp;lt;a href=&quot;#&quot;&amp;gt;Link&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/li&amp;gt;
+        &amp;lt;li&amp;gt;&amp;lt;a href=&quot;#&quot;&amp;gt;Link&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/li&amp;gt;
+        &amp;lt;li&amp;gt;&amp;lt;a href=&quot;#&quot;&amp;gt;Link&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/li&amp;gt;
+      &amp;lt;/u&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/nav&amp;gt;
+    &amp;lt;!-- /m&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ain&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;navigation&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/header&amp;gt;
+  &amp;lt;!-- /m&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ain&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/div&amp;gt;
+&amp;lt;!-- /&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;container&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</description>
+        <pubDate>Mon, 01 Dec 2014 15:06:35 -0600</pubDate>
+        <link>http://localhost:4000/the-importance-of-commenting-html</link>
+        <guid isPermaLink="true">http://localhost:4000/the-importance-of-commenting-html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Will google start penalizing non mobile friendly sites?</title>
+        <description>&lt;p&gt;Google &lt;a href=&quot;http://googlewebmastercentral.blogspot.com/2014/11/helping-users-find-mobile-friendly-pages.html?m=1&quot;&gt;announced&lt;/a&gt; that they’ll start tagging sites that are mobile friendly. This could affect the SEO rankings in the future.&lt;/p&gt;
+
+&lt;p&gt;This change will be rolling out globally over the next few weeks. A page is eligible for the “mobile-friendly” label if it meets the following criteria as detected by Googlebot:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Avoids software that is not common on mobile devices, like Flash&lt;/li&gt;
+  &lt;li&gt;Uses text that is readable without zooming&lt;/li&gt;
+  &lt;li&gt;Sizes content to the screen so users don’t have to scroll horizontally or zoom&lt;/li&gt;
+  &lt;li&gt;Places links far enough apart so that the correct one can be easily tapped&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you want to make sure that your page meets the mobile-friendly criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Check your pages with the Mobile-Friendly Test&lt;/li&gt;
+  &lt;li&gt;Read our updated documentation on our Webmasters Mobile Guide on how to create and improve your mobile site&lt;/li&gt;
+  &lt;li&gt;See the Mobile usability report in Google Webmaster Tools, which highlights major mobile usability issues across your entire site, not just one page&lt;/li&gt;
+  &lt;li&gt;Check our how-to guide for third-party software like WordPress or Joomla, in order to migrate your website hosted on a CMS (Content Management System) to use a mobile-friendly template&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve felt for a while that google favored mobile friendly sites, even if they’ve never officially announced it.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Nov 2014 11:22:48 -0600</pubDate>
+        <link>http://localhost:4000/will-google-start-penalizing-non-mobile-friendly-sites</link>
+        <guid isPermaLink="true">http://localhost:4000/will-google-start-penalizing-non-mobile-friendly-sites</guid>
+        
+        
+        <category>blog</category>
         
       </item>
     

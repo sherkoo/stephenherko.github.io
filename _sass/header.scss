@@ -1,0 +1,43 @@
+.header{
+  padding: $XXL 0 64px 0;
+
+  @media(max-width: $breakpoint-S){
+    padding: $L 0 64px 0;
+  }
+
+  @media(max-width: $breakpoint-S){
+    padding: $L 0;
+    margin-bottom: $XXL;
+  }
+
+  // .container{
+  //   overflow: auto;
+  //   clear: both;
+  // }
+}
+
+// .header-logo{
+//   float: left;
+//   margin: 0 $XL 0 0;
+//   line-height: $L;
+//   color: $color-dark;
+// }
+
+.header-nav{
+  // float: left;
+  // margin: 0px;
+  // line-height: $L;
+  // font-family: $font-body;
+
+  li{
+    display: inline-block;
+    margin: 0 $L 0 0;
+
+    a{
+
+      &:hover{
+        color: $color-blue;
+      }
+    }
+  }
+}

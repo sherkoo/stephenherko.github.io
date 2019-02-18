@@ -1,10 +1,8 @@
 # Site settings
 title: Stephen Herko
-tagline: Frontend Developer
 email: hello@stephenherko.com
-description: "I'm interested in skillsets like Branding, Front End Development, and Design. I love helping brands reach and develop their voice."
-tagline: "UX/UI Designer &amp; Frontend Developer"
-tagline2: "Hello, I'm a web developer &amp; designer who is passionate about working on meaningful projects."
+description: "As a UX Designer, I believe developing a deep understanding of human and social behavior is the key to good product design."
+tagline: "User Experience Designer Solving Problems for Humans"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://stephenherko.com" # the base hostname & protocol for your site
 twitter: https://twitter.com/stephenherko

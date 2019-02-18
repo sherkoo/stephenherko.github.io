@@ -1,19 +1,14 @@
-<section class="work">
+<section>
   <div class="container">
-    <div class="work-grid">
+    <div class="grid col-6">
       {% for post in site.categories['works'] %}
-      <!-- <a href="{{ post.url | prepend: site.baseurl }}" class="tumb">
-      <img data-src="{{ site.baseurl }}/img/work/{{ post.slug }}/{{ post.thumbnail }}" src="https://dl.dropboxusercontent.com/u/23834858/fotos/1px.png" alt="" /></a> -->
+        <a class="link" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="col-thumb" style="background-color: {{ post.color }}">
+            <img src="{{ site.baseurl }}/img/work/{{ post.slug }}/{{ post.thumbnail }}" alt="{{ post.title }}">
 
-      <a class="tumb" href="{{ post.url | prepend: site.baseurl }}">
-        <div class="work-grid-item">
-          <img class="work-grid-item-img" src="{{ site.baseurl }}/img/work/{{ post.slug }}/{{ post.thumbnail }}" alt="{{ post.title }}">
-          <div class="work-meta">
-            <!-- <h2 class="work-meta-title">Some Title</h2> -->
-            <p class="btn blue">{{post.title}}</p>
-          </div> <!-- /.work-meta -->
-        </div> <!-- /.work-grid-item -->
-      </a>
+            <!-- <img src="https://media.graphcms.com/resize=w:600/output=format:webp/compress/H4F3EgL3TtyKX5ZyCPAm" alt=""> -->
+          </div>
+        </a>
       {% endfor %}
     </div>
   </div>

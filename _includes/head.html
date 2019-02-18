@@ -13,14 +13,14 @@
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
   <!-- Title -->
-  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.tagline }}{% endif %}</title>
+  <title>{% if page.title %}{{ site.title }} - {{ page.title }}{% else %}{{ site.title }} - {{ site.tagline }}{% endif %}</title>
 
   <!-- Prefetch -->
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
   <link rel="dns-prefetch" href="//www.google-analytics.com">
 
   <!-- Typography -->
-  <link href="https://fonts.googleapis.com/css?family=Catamaran" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,500" rel="stylesheet">
 
   <!-- Author -->
   <link rel="author" href="https://plus.google.com/110424801622068807906/posts">
@@ -37,8 +37,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="{{ "/img/favicon.png" | prepend: site.baseurl }}">
-  <link rel="shortcut icon" href="{{ "/img/favicon.png" | prepend: site.baseurl }}">
+  <link rel="icon" type="image/png" href="{{ "/img/Icon.png" | prepend: site.baseurl }}">
+  <link rel="shortcut icon" href="{{ "/img/Icon.png" | prepend: site.baseurl }}">
 
   <!-- scripts -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>

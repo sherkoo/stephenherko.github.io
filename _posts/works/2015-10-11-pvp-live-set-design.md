@@ -6,6 +6,7 @@ categories:
   - works
 description: "The PVP Live Set Design was designed for Esports productions. The events were aimed to be clean & professional. Working along side with Diesel Displays, the desk was designed to be the main focus."
 thumbnail: hpl-2.jpg
+published: false
 tags:
   - Creative Direction
   - Branding

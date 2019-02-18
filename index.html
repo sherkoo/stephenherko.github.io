@@ -3,25 +3,18 @@ layout: default
 ---
 
 <main role="main">
-  <section class="cta">
-    <h1 class="display-text dark">{{ site.tagline }}</h1>
-  </section>
-
-  <!-- Work section -->
-  {% include work.html %}
-
-  <!-- About section -->
-  <section class="about">
+  <section>
     <div class="container">
-        <h3 class="display-text light">
-          Hello,<br>
-          I’ve been working professionally for the last 12 years. I've fallen in love with designing experiences, and building products for the web. I live to problem solve with design.
-        </h3>
-      <a href="/about" class="btn">Find Out More</a>
+      <div class="grid col-6 push-down-XXL">
+        <div></div>
+        <h2 class="display">{{ site.tagline }}</h2>
+      </div>
     </div>
   </section>
 
-  <!-- Skills section -->
-  {% include skills-icons.html %}
+  <!-- Work section -->
+  <section>
+    {% include work.html %}
+  </section>
 
 </main>

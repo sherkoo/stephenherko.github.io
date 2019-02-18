@@ -1,0 +1,25 @@
+.display{
+  font-size: $XXL;
+  font-weight: $font-weight-bold;
+  line-height: 48px;
+  margin-bottom: $L;
+  letter-spacing: -2px;
+  //
+  // @media(max-width: $breakpoint-L){
+  //   grid-template-columns: 1fr;
+  //   font-size: 56px;
+  //   line-height: 64px;
+  // }
+}
+
+.text-align-right{
+  text-align: right;
+}
+
+.text-align-center{
+  text-align: center;
+}
+
+.text-align-left{
+  text-align: left;
+}

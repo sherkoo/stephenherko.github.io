@@ -1,0 +1,48 @@
+.fadein{
+  -webkit-animation: fadein 2s;
+     -moz-animation: fadein 2s;
+      -ms-animation: fadein 2s;
+       -o-animation: fadein 2s;
+          animation: fadein 2s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.container-dark{
+  background-color: #1A1E22;
+  padding: $XXXL 0;
+  margin-bottom: $XL;
+  // border-radius: $XS;
+
+  p{
+    color: $color-grey;
+  }
+
+  .display{
+    color: #fff;
+    max-width: 500px;
+  }
+
+  img{
+    width: 100%;
+  }
+
+  @media(max-width: $breakpoint-M){
+    padding: $L;
+  }
+}
+
+.container-dark img{
+  border-radius: 2px;
+}
+
+.container-dark img:hover img{
+  transform: scale(1.1);
+}
+
+.hide{
+  display: none;
+}
