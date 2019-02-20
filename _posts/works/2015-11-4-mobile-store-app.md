@@ -22,7 +22,6 @@ tags:
   <div class="grid col-8-4">
     <div>
       <h2 class="display">Service Blueprint</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque sequi soluta deserunt, suscipit autem, explicabo tempore necessitatibus voluptatum fuga quod saepe ullam eos earum. Quaerat autem fugit itaque laboriosam ad.</p>
     </div>
     <div></div>
   </div>
