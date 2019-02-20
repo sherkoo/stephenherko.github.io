@@ -14,8 +14,16 @@
 
 .pull-right-XXL{
   padding-right: $XXL;
+
+  @media(max-width: $breakpoint-S){
+    padding-right: 0px;
+  }
 }
 
 .pull-right-XXXL{
   padding-right: $XXXL;
+
+  @media(max-width: $breakpoint-S){
+    padding-right: 0px;
+  }
 }
