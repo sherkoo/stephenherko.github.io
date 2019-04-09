@@ -177,7 +177,6 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
   <div class="grid col-8-4">
     <div>
       <h2 class="display">App Design</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quis fugit velit molestias fuga eum neque repellendus fugiat corrupti inventore. Quia doloremque ea magnam, nihil sed eos laboriosam repudiandae laudantium.</p>
     </div>
     <div></div>
   </div>
