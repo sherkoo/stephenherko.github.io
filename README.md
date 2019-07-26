@@ -18,27 +18,27 @@ This site is built with Jekyll
 ### Installing
 
 Assuming Jekyll is installed, and this repo is cloned
-- ```$cd <project name>```
+- ```$ cd <project name>```
 - To run: ```$ jekyll server --watch```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Deployment
 
-- ```jekyll build```
-- ```git add .```
-- ```git commit -m <message>```
-- ```git push master```
+- ```$ jekyll build```
+- ```$ git add .```
+- ```$ git commit -m <message>```
+- ```$ git push master```
+
+This site is hosted on GitHub pages. Just push the master branch to deploy.
 
 ## Built With
 
 * [Jekyll](https://jekyllrb.com/) - The web framework used
 * [SASS](https://sass-lang.com/) - Styling & CSS management
+* [GitHub Pages](https://pages.github.com/) - Hosting 
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests.
-
 
 ## Authors
 
