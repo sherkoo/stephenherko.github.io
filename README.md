@@ -6,7 +6,7 @@
 
 This site is built with Jekyll 
 
-### Prerequisites
+## Prerequisites
 
 - Ruby 2.0 or higher
 - Jekyll https://jekyllrb.com/docs/installation/
@@ -15,7 +15,7 @@ This site is built with Jekyll
 - Work posts are found in ```_posts/works/**```
 - Images for the portfolio are found in ```img/work/**```
 
-### Installing
+## Installing
 
 Assuming Jekyll is installed, and this repo is cloned
 - ```$ cd <project name>```
@@ -50,6 +50,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to github
+* Thanks to github pages for hosting
 
 ![Alt text](https://github.com/stephenherko/stephenherko.github.io/blob/master/img/screenshot.png)
