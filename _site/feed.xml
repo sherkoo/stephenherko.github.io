@@ -5,8 +5,8 @@
     <description>As a UX Designer, I believe developing a deep understanding of human and social behavior is the key to good product design.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 22 Aug 2019 22:41:28 -0500</pubDate>
-    <lastBuildDate>Thu, 22 Aug 2019 22:41:28 -0500</lastBuildDate>
+    <pubDate>Thu, 22 Aug 2019 22:54:13 -0500</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2019 22:54:13 -0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -629,6 +629,33 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
       </item>
     
       <item>
+        <title>REO Speedwagon</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;/img/work/reo-speedwagon/reo-5.jpg&quot; alt=&quot;REO Speedwagon&quot; /&gt;
+
+  &lt;img src=&quot;/img/work/reo-speedwagon/reo-1.jpg&quot; alt=&quot;REO Speedwagon&quot; /&gt;
+
+  &lt;img src=&quot;/img/work/reo-speedwagon/reo-2.jpg&quot; alt=&quot;REO Speedwagon&quot; /&gt;
+
+  &lt;img src=&quot;/img/work/reo-speedwagon/reo-6.jpg&quot; alt=&quot;REO Speedwagon&quot; /&gt;
+
+  &lt;img src=&quot;/img/work/reo-speedwagon/reo-3.jpg&quot; alt=&quot;REO Speedwagon&quot; /&gt;
+
+  &lt;img src=&quot;/img/work/reo-speedwagon/reo-4.jpg&quot; alt=&quot;REO Speedwagon&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 08 Oct 2015 07:44:10 -0500</pubDate>
+        <link>http://localhost:4000/reo-speedwagon</link>
+        <guid isPermaLink="true">http://localhost:4000/reo-speedwagon</guid>
+        
+        <category>Web Development</category>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
         <title>Pitchfork Redesign</title>
         <description>&lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;grid&quot;&gt;
@@ -766,40 +793,6 @@ I’ve been using snippets less these days, but they still have their place in m
         <pubDate>Mon, 01 Dec 2014 15:06:35 -0600</pubDate>
         <link>http://localhost:4000/the-importance-of-commenting-html</link>
         <guid isPermaLink="true">http://localhost:4000/the-importance-of-commenting-html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Will google start penalizing non mobile friendly sites?</title>
-        <description>&lt;p&gt;Google &lt;a href=&quot;http://googlewebmastercentral.blogspot.com/2014/11/helping-users-find-mobile-friendly-pages.html?m=1&quot;&gt;announced&lt;/a&gt; that they’ll start tagging sites that are mobile friendly. This could affect the SEO rankings in the future.&lt;/p&gt;
-
-&lt;p&gt;This change will be rolling out globally over the next few weeks. A page is eligible for the “mobile-friendly” label if it meets the following criteria as detected by Googlebot:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Avoids software that is not common on mobile devices, like Flash&lt;/li&gt;
-  &lt;li&gt;Uses text that is readable without zooming&lt;/li&gt;
-  &lt;li&gt;Sizes content to the screen so users don’t have to scroll horizontally or zoom&lt;/li&gt;
-  &lt;li&gt;Places links far enough apart so that the correct one can be easily tapped&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you want to make sure that your page meets the mobile-friendly criteria:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Check your pages with the Mobile-Friendly Test&lt;/li&gt;
-  &lt;li&gt;Read our updated documentation on our Webmasters Mobile Guide on how to create and improve your mobile site&lt;/li&gt;
-  &lt;li&gt;See the Mobile usability report in Google Webmaster Tools, which highlights major mobile usability issues across your entire site, not just one page&lt;/li&gt;
-  &lt;li&gt;Check our how-to guide for third-party software like WordPress or Joomla, in order to migrate your website hosted on a CMS (Content Management System) to use a mobile-friendly template&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’ve felt for a while that google favored mobile friendly sites, even if they’ve never officially announced it.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 25 Nov 2014 11:22:48 -0600</pubDate>
-        <link>http://localhost:4000/will-google-start-penalizing-non-mobile-friendly-sites</link>
-        <guid isPermaLink="true">http://localhost:4000/will-google-start-penalizing-non-mobile-friendly-sites</guid>
         
         
         <category>blog</category>
