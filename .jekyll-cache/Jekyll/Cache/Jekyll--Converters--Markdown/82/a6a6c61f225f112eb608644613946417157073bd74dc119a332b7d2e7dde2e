@@ -1,0 +1,74 @@
+I"Ì<section class="process-container">
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Research &amp; Discussion</h2>
+        <p>What project can start without fully understanding the problem at hand? Get in the headspace of the demographic. Who is this project speaking to? Who is using the app? How do they use it?</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Competitive Analysis</h2>
+        <p>Assess the strengths and weaknesses of competitors against your user's needs. Establish an offensive and defensive strategy to identify oppurtunities. Force questions from the new found data.</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Wireframing</h2>
+        <p>Visually communicate ideas and concepts with your team or with users regarding the problem that is being designed for. This is kept loose and quick and usually starts with pen on paper. Greyboxing is used to see ideas through a little more with spacing and proper font sizes.</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Flowcharts</h2>
+        <p>Getting an overall view of the product from beginning to end.</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Low Fidelity Comps</h2>
+        <p>Start to visualize the layout on each screen. I like to use this phase to discover potential problems that wern't addressed while wireframing or discussion.</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>High Fidelity Comps</h2>
+        <p>Attention to detail. We've got the idea and the general IA structure, n let's apply color, branding and typography. If needed, develop design patterns or style guides during this process.</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Prototyping</h2>
+        <p>This stage can range from putting together some ineractions to see how they work or take the newly designed screens and put them together in a flow. This can involvle full HTML prototypes put together with Angular/React, or a prototype built with Invision.</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Usability Testing</h2>
+        <p>Evaluate the proposed design/solution on users before releasing to the world. Learn how users interact with system. What did they love, what did they hate? Learn if the purpose of the design meets the expectations of the target user</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Learn, Measure, Rebuild</h2>
+        <p>Designing experiences for users is a job that's never done. People adapt and technology changes. Solutions should always be iterated on.</p>
+      </div>
+    </article>
+  
+    <article class="process">
+      <div class="process-meta">
+        <h2>Quality Assurance</h2>
+        <p>I'm also a developer which means I'm able to assist with making the end product pixel perfect.</p>
+      </div>
+    </article>
+  
+</section>
+:ET

@@ -3,11 +3,11 @@
   <channel>
     <title>Stephen Herko</title>
     <description>As a UX Designer, I believe developing a deep understanding of human and social behavior is the key to good product design.</description>
-    <link>http://stephenherko.com/</link>
-    <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 09 Apr 2019 18:54:57 -0500</pubDate>
-    <lastBuildDate>Tue, 09 Apr 2019 18:54:57 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 22 Aug 2019 22:41:28 -0500</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2019 22:41:28 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>PlayIt</title>
@@ -206,8 +206,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2019 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/playit</link>
-        <guid isPermaLink="true">http://stephenherko.com/playit</guid>
+        <link>http://localhost:4000/playit</link>
+        <guid isPermaLink="true">http://localhost:4000/playit</guid>
         
         <category>Branding</category>
         
@@ -304,8 +304,8 @@
 &lt;!-- ![](img/work/ecoach/ecoach-2.jpg) --&gt;
 </description>
         <pubDate>Sun, 04 Nov 2018 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/ecoach</link>
-        <guid isPermaLink="true">http://stephenherko.com/ecoach</guid>
+        <link>http://localhost:4000/ecoach</link>
+        <guid isPermaLink="true">http://localhost:4000/ecoach</guid>
         
         <category>UI Design</category>
         
@@ -509,8 +509,8 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/pvp-live</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live</guid>
+        <link>http://localhost:4000/pvp-live</link>
+        <guid isPermaLink="true">http://localhost:4000/pvp-live</guid>
         
         <category>Branding</category>
         
@@ -525,57 +525,59 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
     
       <item>
         <title>Illustrations</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-1.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-1.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-2.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-2.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-3.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-3.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-4.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-4.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-5.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-5.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-6.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-6.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-7.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-7.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-8.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-8.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-9.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-9.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-10.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-10.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-11.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-11.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-12.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-12.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-13.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-13.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-14.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-14.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-15.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-15.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-16.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-16.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-17.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-17.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-18.jpg&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-18.jpg&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-19.png&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-19.png&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-20.png&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-20.png&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-21.png&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-21.png&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-22.png&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-22.png&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-23.png&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-23.png&quot; alt=&quot;Illustration&quot; /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/work/illustration/illustration-24.png&quot; alt=&quot;stephen herko illustration&quot; /&gt;&lt;/p&gt;
+  &lt;img src=&quot;/img/work/illustration/illustration-24.png&quot; alt=&quot;Illustration&quot; /&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/illustration</link>
-        <guid isPermaLink="true">http://stephenherko.com/illustration</guid>
+        <link>http://localhost:4000/illustration</link>
+        <guid isPermaLink="true">http://localhost:4000/illustration</guid>
         
         <category>Illustration</category>
         
@@ -612,8 +614,8 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 04 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/mobile-checkout</link>
-        <guid isPermaLink="true">http://stephenherko.com/mobile-checkout</guid>
+        <link>http://localhost:4000/mobile-checkout</link>
+        <guid isPermaLink="true">http://localhost:4000/mobile-checkout</guid>
         
         <category>UI Design</category>
         
@@ -641,8 +643,8 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 12 Feb 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/pitchfork</link>
-        <guid isPermaLink="true">http://stephenherko.com/pitchfork</guid>
+        <link>http://localhost:4000/pitchfork</link>
+        <guid isPermaLink="true">http://localhost:4000/pitchfork</guid>
         
         <category>UX Design</category>
         
@@ -667,8 +669,8 @@ Going back to #page-header and #logo, would it be so bad if it was .page-header 
 In some situations only an ID will suffice. For example when using javascript’s getElementById or a classic “skip to navigation” link. Using it as a CSS selector is a different story. It’s totally  up to the developer and should be used if necessary. I believe they shouldn’t be used or very very sparingly.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jan 2015 12:12:48 -0600</pubDate>
-        <link>http://stephenherko.com/cut-out-those-ids</link>
-        <guid isPermaLink="true">http://stephenherko.com/cut-out-those-ids</guid>
+        <link>http://localhost:4000/cut-out-those-ids</link>
+        <guid isPermaLink="true">http://localhost:4000/cut-out-those-ids</guid>
         
         
         <category>blog</category>
@@ -714,8 +716,8 @@ In some situations only an ID will suffice. For example when using javascript’
 I’ve been using snippets less these days, but they still have their place in my workflow. The emmet package comes with a lot preloaded I use on a day to day. Sublime is probably the best I’ve seen at making your own snippets, customizing and organizing them.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Dec 2014 12:12:48 -0600</pubDate>
-        <link>http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</link>
-        <guid isPermaLink="true">http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</guid>
+        <link>http://localhost:4000/5-things-i-love-about-sublime-text-that-other-editors-dont-have</link>
+        <guid isPermaLink="true">http://localhost:4000/5-things-i-love-about-sublime-text-that-other-editors-dont-have</guid>
         
         
         <category>blog</category>
@@ -762,8 +764,8 @@ I’ve been using snippets less these days, but they still have their place in m
 
 </description>
         <pubDate>Mon, 01 Dec 2014 15:06:35 -0600</pubDate>
-        <link>http://stephenherko.com/the-importance-of-commenting-html</link>
-        <guid isPermaLink="true">http://stephenherko.com/the-importance-of-commenting-html</guid>
+        <link>http://localhost:4000/the-importance-of-commenting-html</link>
+        <guid isPermaLink="true">http://localhost:4000/the-importance-of-commenting-html</guid>
         
         
         <category>blog</category>
@@ -796,8 +798,8 @@ I’ve been using snippets less these days, but they still have their place in m
 
 </description>
         <pubDate>Tue, 25 Nov 2014 11:22:48 -0600</pubDate>
-        <link>http://stephenherko.com/will-google-start-penalizing-non-mobile-friendly-sites</link>
-        <guid isPermaLink="true">http://stephenherko.com/will-google-start-penalizing-non-mobile-friendly-sites</guid>
+        <link>http://localhost:4000/will-google-start-penalizing-non-mobile-friendly-sites</link>
+        <guid isPermaLink="true">http://localhost:4000/will-google-start-penalizing-non-mobile-friendly-sites</guid>
         
         
         <category>blog</category>

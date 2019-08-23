@@ -1,0 +1,23 @@
+I"�<p>Google <a href="http://googlewebmastercentral.blogspot.com/2014/11/helping-users-find-mobile-friendly-pages.html?m=1">announced</a> that they’ll start tagging sites that are mobile friendly. This could affect the SEO rankings in the future.</p>
+
+<p>This change will be rolling out globally over the next few weeks. A page is eligible for the “mobile-friendly” label if it meets the following criteria as detected by Googlebot:</p>
+
+<ul>
+  <li>Avoids software that is not common on mobile devices, like Flash</li>
+  <li>Uses text that is readable without zooming</li>
+  <li>Sizes content to the screen so users don’t have to scroll horizontally or zoom</li>
+  <li>Places links far enough apart so that the correct one can be easily tapped</li>
+</ul>
+
+<p>If you want to make sure that your page meets the mobile-friendly criteria:</p>
+
+<ul>
+  <li>Check your pages with the Mobile-Friendly Test</li>
+  <li>Read our updated documentation on our Webmasters Mobile Guide on how to create and improve your mobile site</li>
+  <li>See the Mobile usability report in Google Webmaster Tools, which highlights major mobile usability issues across your entire site, not just one page</li>
+  <li>Check our how-to guide for third-party software like WordPress or Joomla, in order to migrate your website hosted on a CMS (Content Management System) to use a mobile-friendly template</li>
+</ul>
+
+<p>I’ve felt for a while that google favored mobile friendly sites, even if they’ve never officially announced it.</p>
+
+:ET

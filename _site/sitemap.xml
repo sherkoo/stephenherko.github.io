@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://stephenherko.com/playit</loc>
+      <loc>http://localhost:4000/playit</loc>
       
         <lastmod>2019-01-01T09:44:10-06:00</lastmod>
       
@@ -11,7 +11,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/ecoach</loc>
+      <loc>http://localhost:4000/ecoach</loc>
       
         <lastmod>2018-11-04T09:44:10-06:00</lastmod>
       
@@ -20,7 +20,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/pvp-live</loc>
+      <loc>http://localhost:4000/pvp-live</loc>
       
         <lastmod>2015-11-09T09:44:10-06:00</lastmod>
       
@@ -29,7 +29,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/illustration</loc>
+      <loc>http://localhost:4000/illustration</loc>
       
         <lastmod>2015-11-05T09:44:10-06:00</lastmod>
       
@@ -38,7 +38,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/mobile-checkout</loc>
+      <loc>http://localhost:4000/mobile-checkout</loc>
       
         <lastmod>2015-11-04T09:44:10-06:00</lastmod>
       
@@ -47,7 +47,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/pitchfork</loc>
+      <loc>http://localhost:4000/pitchfork</loc>
       
         <lastmod>2015-02-12T09:44:10-06:00</lastmod>
       
@@ -56,7 +56,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/cut-out-those-ids</loc>
+      <loc>http://localhost:4000/cut-out-those-ids</loc>
       
         <lastmod>2015-01-08T12:12:48-06:00</lastmod>
       
@@ -65,7 +65,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</loc>
+      <loc>http://localhost:4000/5-things-i-love-about-sublime-text-that-other-editors-dont-have</loc>
       
         <lastmod>2014-12-16T12:12:48-06:00</lastmod>
       
@@ -74,7 +74,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/the-importance-of-commenting-html</loc>
+      <loc>http://localhost:4000/the-importance-of-commenting-html</loc>
       
         <lastmod>2014-12-01T15:06:35-06:00</lastmod>
       
@@ -83,7 +83,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/will-google-start-penalizing-non-mobile-friendly-sites</loc>
+      <loc>http://localhost:4000/will-google-start-penalizing-non-mobile-friendly-sites</loc>
       
         <lastmod>2014-11-25T11:22:48-06:00</lastmod>
       
@@ -92,7 +92,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/frontend-checklist</loc>
+      <loc>http://localhost:4000/frontend-checklist</loc>
       
         <lastmod>2014-11-14T11:22:20-06:00</lastmod>
       
@@ -101,7 +101,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/yosemite-ui-review</loc>
+      <loc>http://localhost:4000/yosemite-ui-review</loc>
       
         <lastmod>2014-11-09T09:44:10-06:00</lastmod>
       
@@ -110,7 +110,7 @@
     </url>
   
     <url>
-      <loc>http://stephenherko.com/jekyll-vs-wordpress-2014</loc>
+      <loc>http://localhost:4000/jekyll-vs-wordpress-2014</loc>
       
         <lastmod>2014-11-02T04:15:16-06:00</lastmod>
       
@@ -118,6 +118,8 @@
       <priority>1.0</priority>
     </url>
   
+  
+    
   
     
   
