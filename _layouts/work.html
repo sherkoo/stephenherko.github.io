@@ -3,36 +3,33 @@ layout: default
 ---
 
 <main role="main" id="top">
-  <div class="container">
-    <div class="grid col-6 push-down-XXL">
-      <div>
-        <h1 class="display">{{ page.title }}</h1>
+  <article>
+    <!-- header section -->
+    <section class="container">
+      <header class="grid col-6 push-down-XXL" role="banner">
+        <div>
+          <h1 class="display" title="{{ page.title }}">{{ page.title }}</h1>
+        </div>
+        <div>
+          <p>{{ page.description }}</p>
+        </div>
+      </header>
+    </section>
+
+    <!-- main work -->
+    <section aria-label="case study and images for {{ page.title }}">
+      {{ content }}
+      <div class="container text-align-center push-down-XXL">
+        <a href="#top" aria-label="scroll back to top of page">Back to Top</a>
       </div>
-      <div>
-        <p>{{ page.description }}</p>
-        <!-- <ul class="work-tags">
-          {% for tag in page.tags %}
-            <li>{{ tag }}</li>
-          {% endfor %}
-        </ul> -->
+    </section>
+
+    <!-- related work -->
+    <section class="container-dark">
+      <div class="display container text-align-center">
+        <h2>More Case Studies</h2>
       </div>
-    </div>
-  </div>
-
-  <!-- main work -->
-  <div>
-    {{ content }}
-
-    <div class="container text-align-center push-down-XXL">
-      <a href="#top">Back to Top</a>
-    </div>
-  </div>
-
-  <!-- related work -->
-  <section class="container-dark">
-    <div class="display container text-align-center">
-      <h2>More Case Studies</h2>
-    </div>
-    {% include work.html %}
-  </section>
+      {% include work.html %}
+    </section>
+  </article>
 </main>

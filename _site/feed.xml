@@ -3,11 +3,11 @@
   <channel>
     <title>Stephen Herko</title>
     <description>As a UX Designer, I believe developing a deep understanding of human and social behavior is the key to good product design.</description>
-    <link>http://stephenherko.com/</link>
-    <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Aug 2019 23:36:57 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Aug 2019 23:36:57 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 07 Sep 2019 01:05:29 -0500</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2019 01:05:29 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>PlayIt</title>
@@ -206,8 +206,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2019 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/playit</link>
-        <guid isPermaLink="true">http://stephenherko.com/playit</guid>
+        <link>http://localhost:4000/playit</link>
+        <guid isPermaLink="true">http://localhost:4000/playit</guid>
         
         <category>Branding</category>
         
@@ -304,8 +304,8 @@
 &lt;!-- ![](img/work/ecoach/ecoach-2.jpg) --&gt;
 </description>
         <pubDate>Sun, 04 Nov 2018 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/ecoach</link>
-        <guid isPermaLink="true">http://stephenherko.com/ecoach</guid>
+        <link>http://localhost:4000/ecoach</link>
+        <guid isPermaLink="true">http://localhost:4000/ecoach</guid>
         
         <category>UI Design</category>
         
@@ -321,7 +321,7 @@
       <item>
         <title>Competitive Gaming</title>
         <description>&lt;!-- banner --&gt;
-&lt;p&gt;&lt;img src=&quot;img/work/pvp-live/pvplive-banner.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/work/pvp-live/pvplive-banner.png&quot; alt=&quot;Competitive Gaming&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- branding --&gt;
 &lt;div class=&quot;container&quot;&gt;
@@ -346,16 +346,6 @@
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-3.jpg) --&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-4.jpg) --&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-5.jpg) --&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-6.jpg) --&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-7.jpg) --&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -428,49 +418,26 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;grid col-6&quot;&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-2.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-3.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-4.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-5.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/pvp-live/network-reel-6.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-1.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-2.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-3.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-4.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-5.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live/network-reel-6.jpg&quot; alt=&quot;&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;!-- ![PVP Live Network Reel]()
-
-![PVP Live Network Reel]() --&gt;
-
-&lt;!-- ![](/img/work/pvp-live-cover/presentation-5.png)
-
-![](/img/work/pvp-live-cover/presentation-3.jpg)
-
-![](/img/work/pvp-live-cover/presentation-4.jpg)
-
-![](/img/work/pvp-live-cover/presentation-2.png) --&gt;
 
 &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;grid&quot;&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-1.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-3.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-5.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-6.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-8.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-9.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-10.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-1.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-3.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-5.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-6.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-8.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-9.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-10.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;!-- ## Site
-&lt;div class=&quot;grid col-8-4&quot;&gt;
-pvplive.net focuses on supplying stats, analytics, and predictions for major titles in the Esports market. It was designed with HTML5, css3, PHP5 and JQuery. Built with a custom CMS from the ground up, everything was designed from scratch. This project taught the team a lot about scalability within the code and database structure. Tools like gulp.js, git, BEM methodology,  JQuery, and team problem solving became invaluable to building this site.
-&lt;/div&gt;
-
-![PVP Live website](/img/work/pvp-live-web/homepage.jpg)
-
-![PVP Live website](/img/work/pvp-live-web/player-page.jpg)
-
-![PVP Live website](/img/work/pvp-live-web/player-class-page.jpg) --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -509,8 +476,8 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/pvp-live</link>
-        <guid isPermaLink="true">http://stephenherko.com/pvp-live</guid>
+        <link>http://localhost:4000/pvp-live</link>
+        <guid isPermaLink="true">http://localhost:4000/pvp-live</guid>
         
         <category>Branding</category>
         
@@ -576,8 +543,8 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/illustration</link>
-        <guid isPermaLink="true">http://stephenherko.com/illustration</guid>
+        <link>http://localhost:4000/illustration</link>
+        <guid isPermaLink="true">http://localhost:4000/illustration</guid>
         
         <category>Illustration</category>
         
@@ -614,8 +581,8 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 04 Nov 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/mobile-checkout</link>
-        <guid isPermaLink="true">http://stephenherko.com/mobile-checkout</guid>
+        <link>http://localhost:4000/mobile-checkout</link>
+        <guid isPermaLink="true">http://localhost:4000/mobile-checkout</guid>
         
         <category>UI Design</category>
         
@@ -645,8 +612,8 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 08 Oct 2015 07:44:10 -0500</pubDate>
-        <link>http://stephenherko.com/reo-speedwagon</link>
-        <guid isPermaLink="true">http://stephenherko.com/reo-speedwagon</guid>
+        <link>http://localhost:4000/reo-speedwagon</link>
+        <guid isPermaLink="true">http://localhost:4000/reo-speedwagon</guid>
         
         <category>Web Development</category>
         
@@ -670,8 +637,8 @@ pvplive.net focuses on supplying stats, analytics, and predictions for major tit
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 12 Feb 2015 09:44:10 -0600</pubDate>
-        <link>http://stephenherko.com/pitchfork</link>
-        <guid isPermaLink="true">http://stephenherko.com/pitchfork</guid>
+        <link>http://localhost:4000/pitchfork</link>
+        <guid isPermaLink="true">http://localhost:4000/pitchfork</guid>
         
         <category>UX Design</category>
         
@@ -696,8 +663,8 @@ Going back to #page-header and #logo, would it be so bad if it was .page-header 
 In some situations only an ID will suffice. For example when using javascript’s getElementById or a classic “skip to navigation” link. Using it as a CSS selector is a different story. It’s totally  up to the developer and should be used if necessary. I believe they shouldn’t be used or very very sparingly.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jan 2015 12:12:48 -0600</pubDate>
-        <link>http://stephenherko.com/cut-out-those-ids</link>
-        <guid isPermaLink="true">http://stephenherko.com/cut-out-those-ids</guid>
+        <link>http://localhost:4000/cut-out-those-ids</link>
+        <guid isPermaLink="true">http://localhost:4000/cut-out-those-ids</guid>
         
         
         <category>blog</category>
@@ -743,8 +710,8 @@ In some situations only an ID will suffice. For example when using javascript’
 I’ve been using snippets less these days, but they still have their place in my workflow. The emmet package comes with a lot preloaded I use on a day to day. Sublime is probably the best I’ve seen at making your own snippets, customizing and organizing them.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Dec 2014 12:12:48 -0600</pubDate>
-        <link>http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</link>
-        <guid isPermaLink="true">http://stephenherko.com/5-things-i-love-about-sublime-text-that-other-editors-dont-have</guid>
+        <link>http://localhost:4000/5-things-i-love-about-sublime-text-that-other-editors-dont-have</link>
+        <guid isPermaLink="true">http://localhost:4000/5-things-i-love-about-sublime-text-that-other-editors-dont-have</guid>
         
         
         <category>blog</category>
@@ -791,8 +758,8 @@ I’ve been using snippets less these days, but they still have their place in m
 
 </description>
         <pubDate>Mon, 01 Dec 2014 15:06:35 -0600</pubDate>
-        <link>http://stephenherko.com/the-importance-of-commenting-html</link>
-        <guid isPermaLink="true">http://stephenherko.com/the-importance-of-commenting-html</guid>
+        <link>http://localhost:4000/the-importance-of-commenting-html</link>
+        <guid isPermaLink="true">http://localhost:4000/the-importance-of-commenting-html</guid>
         
         
         <category>blog</category>

@@ -1,6 +1,6 @@
 ---
 layout: work
-title:  "Competitive Gaming"
+title: "Competitive Gaming"
 slug: pvp-live
 date:   2015-11-09 15:44:10
 categories:
@@ -15,7 +15,7 @@ tags:
 ---
 
 <!-- banner -->
-<img src="img/work/pvp-live/pvplive-banner.png" alt="">
+<img src="img/work/pvp-live/pvplive-banner.png" alt="{{ page.title }}">
 
 <!-- branding -->
 <div class="container">
@@ -40,16 +40,6 @@ tags:
     </div>
   </div>
 </div>
-
-<!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-3.jpg) -->
-
-<!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-4.jpg) -->
-
-<!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-5.jpg) -->
-
-<!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-6.jpg) -->
-
-<!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-7.jpg) -->
 
 <br>
 <br>
@@ -107,7 +97,6 @@ tags:
   </div>
 </div>
 
-
 <div class="container push-down-XXL">
   <div class="grid">
     <img src="/img/work/pvp-live-set/hpl-3.jpg" alt="">
@@ -123,54 +112,28 @@ tags:
     </div>
   </div>
   <div class="grid col-6">
-      <img src="/img/work/network-reel/network-reel-1.jpg" alt="">
-      <img src="/img/work/network-reel/network-reel-2.jpg" alt="">
-      <img src="/img/work/network-reel/network-reel-3.jpg" alt="">
-      <img src="/img/work/network-reel/network-reel-4.jpg" alt="">
-      <img src="/img/work/network-reel/network-reel-5.jpg" alt="">
-      <img src="/img/work/pvp-live/network-reel-6.jpg" alt="">
+    <img src="/img/work/network-reel/network-reel-1.jpg" alt="">
+    <img src="/img/work/network-reel/network-reel-2.jpg" alt="">
+    <img src="/img/work/network-reel/network-reel-3.jpg" alt="">
+    <img src="/img/work/network-reel/network-reel-4.jpg" alt="">
+    <img src="/img/work/network-reel/network-reel-5.jpg" alt="">
+    <img src="/img/work/pvp-live/network-reel-6.jpg" alt="">
   </div>
 </div>
-
-
-
-<!-- ![PVP Live Network Reel]()
-
-![PVP Live Network Reel]() -->
-
-<!-- ![](/img/work/pvp-live-cover/presentation-5.png)
-
-![](/img/work/pvp-live-cover/presentation-3.jpg)
-
-![](/img/work/pvp-live-cover/presentation-4.jpg)
-
-![](/img/work/pvp-live-cover/presentation-2.png) -->
 
 <div class="container">
   <div class="grid">
-    <img src="/img/work/pvp-live-set/hpl-1.jpg" alt="">
-    <img src="/img/work/pvp-live-set/hpl-3.jpg" alt="">
-    <img src="/img/work/pvp-live-set/hpl-5.jpg" alt="">
-    <img src="/img/work/pvp-live-set/hpl-6.jpg" alt="">
-    <img src="/img/work/pvp-live-set/hpl-8.jpg" alt="">
-    <img src="/img/work/pvp-live-set/hpl-9.jpg" alt="">
-    <img src="/img/work/pvp-live-set/hpl-10.jpg" alt="">
+    <img src="/img/work/pvp-live-set/hpl-1.jpg" alt="Hearthstone Pro League">
+    <img src="/img/work/pvp-live-set/hpl-3.jpg" alt="Hearthstone Pro League">
+    <img src="/img/work/pvp-live-set/hpl-5.jpg" alt="Hearthstone Pro League">
+    <img src="/img/work/pvp-live-set/hpl-6.jpg" alt="Hearthstone Pro League">
+    <img src="/img/work/pvp-live-set/hpl-8.jpg" alt="Hearthstone Pro League">
+    <img src="/img/work/pvp-live-set/hpl-9.jpg" alt="Hearthstone Pro League">
+    <img src="/img/work/pvp-live-set/hpl-10.jpg" alt="Hearthstone Pro League">
   </div>
 </div>
 
-<!-- ## Site
-<div class="grid col-8-4">
-pvplive.net focuses on supplying stats, analytics, and predictions for major titles in the Esports market. It was designed with HTML5, css3, PHP5 and JQuery. Built with a custom CMS from the ground up, everything was designed from scratch. This project taught the team a lot about scalability within the code and database structure. Tools like gulp.js, git, BEM methodology,  JQuery, and team problem solving became invaluable to building this site.
-</div>
-
-![PVP Live website](/img/work/pvp-live-web/homepage.jpg)
-
-![PVP Live website](/img/work/pvp-live-web/player-page.jpg)
-
-![PVP Live website](/img/work/pvp-live-web/player-class-page.jpg) -->
-
 <br>
-
 
 <!-- app design -->
 <div class="container push-down-XXL">
