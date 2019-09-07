@@ -5,9 +5,9 @@
     <description>As a UX Designer, I believe developing a deep understanding of human and social behavior is the key to good product design.</description>
     <link>http://stephenherko.com/</link>
     <atom:link href="http://stephenherko.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Aug 2019 23:36:57 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Aug 2019 23:36:57 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Sat, 07 Sep 2019 01:08:24 -0500</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2019 01:08:24 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>PlayIt</title>
@@ -321,7 +321,7 @@
       <item>
         <title>Competitive Gaming</title>
         <description>&lt;!-- banner --&gt;
-&lt;p&gt;&lt;img src=&quot;img/work/pvp-live/pvplive-banner.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/work/pvp-live/pvplive-banner.png&quot; alt=&quot;Competitive Gaming&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- branding --&gt;
 &lt;div class=&quot;container&quot;&gt;
@@ -346,16 +346,6 @@
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-3.jpg) --&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-4.jpg) --&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-5.jpg) --&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-6.jpg) --&gt;
-
-&lt;!-- ![PVP Live Branding](/img/work/pvp-live/pvp-live-branding-7.jpg) --&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -428,49 +418,26 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;grid col-6&quot;&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-2.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-3.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-4.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/network-reel/network-reel-5.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;img src=&quot;/img/work/pvp-live/network-reel-6.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-1.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-2.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-3.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-4.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/network-reel/network-reel-5.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live/network-reel-6.jpg&quot; alt=&quot;&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;!-- ![PVP Live Network Reel]()
-
-![PVP Live Network Reel]() --&gt;
-
-&lt;!-- ![](/img/work/pvp-live-cover/presentation-5.png)
-
-![](/img/work/pvp-live-cover/presentation-3.jpg)
-
-![](/img/work/pvp-live-cover/presentation-4.jpg)
-
-![](/img/work/pvp-live-cover/presentation-2.png) --&gt;
 
 &lt;div class=&quot;container&quot;&gt;
   &lt;div class=&quot;grid&quot;&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-1.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-3.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-5.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-6.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-8.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-9.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/img/work/pvp-live-set/hpl-10.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-1.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-3.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-5.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-6.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-8.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-9.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
+    &lt;img src=&quot;/img/work/pvp-live-set/hpl-10.jpg&quot; alt=&quot;Hearthstone Pro League&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;!-- ## Site
-&lt;div class=&quot;grid col-8-4&quot;&gt;
-pvplive.net focuses on supplying stats, analytics, and predictions for major titles in the Esports market. It was designed with HTML5, css3, PHP5 and JQuery. Built with a custom CMS from the ground up, everything was designed from scratch. This project taught the team a lot about scalability within the code and database structure. Tools like gulp.js, git, BEM methodology,  JQuery, and team problem solving became invaluable to building this site.
-&lt;/div&gt;
-
-![PVP Live website](/img/work/pvp-live-web/homepage.jpg)
-
-![PVP Live website](/img/work/pvp-live-web/player-page.jpg)
-
-![PVP Live website](/img/work/pvp-live-web/player-class-page.jpg) --&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

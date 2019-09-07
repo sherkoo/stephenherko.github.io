@@ -1,12 +1,12 @@
 <header class="header">
   <div class="container">
     <div class="grid col-6">
-      <h1 class="header-logo"><a class="link" href="{{ site.baseurl}}/">{{ site.title }}</a></h1>
-      <nav class="header-nav">
+      <h1 class="header-logo" title="{{ site.title }}"><a class="link" href="{{ site.baseurl}}/">{{ site.title }}</a></h1>
+      <nav class="header-nav" aria-label="main navigation" role="navigation">
         <ul>
-          <li><a class="link" href="{{ site.baseurl }}/">Work</a></li>
-          <li><a class="link" href="{{ site.baseurl }}/about">About</a></li>
-          <li><a href="mailto:{{ site.email }}?Subject=Hello">Contact</a></li>
+          <li aria-label="Work"><a class="link" href="{{ site.baseurl }}/">Work</a></li>
+          <li aria-label="About"><a class="link" href="{{ site.baseurl }}/about">About</a></li>
+          <li aria-label="Contact"><a href="mailto:{{ site.email }}?Subject=Hello">Contact</a></li>
         </ul>
       </nav>
     </div>

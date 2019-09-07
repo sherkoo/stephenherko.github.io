@@ -57,41 +57,35 @@
 <header class="header">
   <div class="container">
     <div class="grid col-6">
-      <h1 class="header-logo"><a class="link" href="/">Stephen Herko</a></h1>
-      <nav class="header-nav">
+      <h1 class="header-logo" title="Stephen Herko"><a class="link" href="/">Stephen Herko</a></h1>
+      <nav class="header-nav" aria-label="main navigation" role="navigation">
         <ul>
-          <li><a class="link" href="/">Work</a></li>
-          <li><a class="link" href="/about">About</a></li>
-          <li><a href="mailto:hello@stephenherko.com?Subject=Hello">Contact</a></li>
+          <li aria-label="Work"><a class="link" href="/">Work</a></li>
+          <li aria-label="About"><a class="link" href="/about">About</a></li>
+          <li aria-label="Contact"><a href="mailto:hello@stephenherko.com?Subject=Hello">Contact</a></li>
         </ul>
       </nav>
     </div>
   </div>
 </header>
 
-
 <main role="main" id="top">
-  <div class="container">
-    <div class="grid col-6 push-down-XXL">
-      <div>
-        <h1 class="display">Pitchfork Redesign</h1>
-      </div>
-      <div>
-        <p>Music has always been a major passion of mine, so I decided to redesign one of my favorite sites. I felt it needed to become responsive and focus on usability. The current site is very closed in, which can appear small on modern screen sizes. I wanted to make the navigation more noticeable, and easier to use. Another major goal of the redesign was to give it more of a modern vibe pushing the music/artists up front.</p>
-        <!-- <ul class="work-tags">
-          
-            <li>UX Design</li>
-          
-            <li>UI Design</li>
-          
-        </ul> -->
-      </div>
-    </div>
-  </div>
+  <article>
+    <!-- header section -->
+    <section class="container">
+      <header class="grid col-6 push-down-XXL" role="banner">
+        <div>
+          <h1 class="display" title="Pitchfork Redesign">Pitchfork Redesign</h1>
+        </div>
+        <div>
+          <p>Music has always been a major passion of mine, so I decided to redesign one of my favorite sites. I felt it needed to become responsive and focus on usability. The current site is very closed in, which can appear small on modern screen sizes. I wanted to make the navigation more noticeable, and easier to use. Another major goal of the redesign was to give it more of a modern vibe pushing the music/artists up front.</p>
+        </div>
+      </header>
+    </section>
 
-  <!-- main work -->
-  <div>
-    <div class="container">
+    <!-- main work -->
+    <section aria-label="case study and images for Pitchfork Redesign">
+      <div class="container">
   <div class="grid">
     <img src="/img/work/pitchfork/pitchfork-1.png" alt="" />
     <img src="/img/work/pitchfork/pitchfork-2.png" alt="" />
@@ -103,18 +97,17 @@
   </div>
 </div>
 
+      <div class="container text-align-center push-down-XXL">
+        <a href="#top" aria-label="scroll back to top of page">Back to Top</a>
+      </div>
+    </section>
 
-    <div class="container text-align-center push-down-XXL">
-      <a href="#top">Back to Top</a>
-    </div>
-  </div>
-
-  <!-- related work -->
-  <section class="container-dark">
-    <div class="display container text-align-center">
-      <h2>More Case Studies</h2>
-    </div>
-    <section>
+    <!-- related work -->
+    <section class="container-dark">
+      <div class="display container text-align-center">
+        <h2>More Case Studies</h2>
+      </div>
+      <section>
   <div class="container">
     <div class="grid col-6">
       
@@ -178,33 +171,19 @@
   </div>
 </section>
 
-  </section>
+    </section>
+  </article>
 </main>
 
-
 <footer class="footer">
-  <!-- <ul class="footer-social-icons">
-    <li><a target="_blank" href="https://github.com/stephenherko">
-      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
-      <path fill="#444444" class="footer-icon" d="M16 0c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16zM25.502 25.502c-1.235 1.235-2.672 2.204-4.272 2.881-0.406 0.172-0.819 0.323-1.238 0.453v-2.398c0-1.26-0.432-2.188-1.297-2.781 0.542-0.052 1.039-0.125 1.492-0.219s0.932-0.229 1.438-0.406 0.958-0.388 1.359-0.633 0.786-0.563 1.156-0.953 0.68-0.833 0.93-1.328 0.448-1.089 0.594-1.781 0.219-1.456 0.219-2.289c0-1.615-0.526-2.99-1.578-4.125 0.479-1.25 0.427-2.609-0.156-4.078l-0.391-0.047c-0.271-0.031-0.758 0.083-1.461 0.344s-1.492 0.688-2.367 1.281c-1.24-0.344-2.526-0.516-3.859-0.516-1.344 0-2.625 0.172-3.844 0.516-0.552-0.375-1.075-0.685-1.57-0.93s-0.891-0.411-1.188-0.5-0.573-0.143-0.828-0.164-0.419-0.026-0.492-0.016-0.125 0.021-0.156 0.031c-0.583 1.479-0.635 2.839-0.156 4.078-1.052 1.135-1.578 2.51-1.578 4.125 0 0.833 0.073 1.596 0.219 2.289s0.344 1.286 0.594 1.781 0.56 0.938 0.93 1.328 0.755 0.708 1.156 0.953 0.854 0.456 1.359 0.633 0.984 0.313 1.438 0.406 0.95 0.167 1.492 0.219c-0.854 0.583-1.281 1.51-1.281 2.781v2.445c-0.472-0.14-0.937-0.306-1.394-0.5-1.6-0.677-3.037-1.646-4.272-2.881s-2.204-2.672-2.881-4.272c-0.7-1.655-1.055-3.414-1.055-5.23s0.355-3.575 1.055-5.23c0.677-1.6 1.646-3.037 2.881-4.272s2.672-2.204 4.272-2.881c1.655-0.7 3.415-1.055 5.23-1.055s3.575 0.355 5.23 1.055c1.6 0.677 3.037 1.646 4.272 2.881s2.204 2.672 2.881 4.272c0.7 1.655 1.055 3.415 1.055 5.23s-0.355 3.575-1.055 5.23c-0.677 1.6-1.646 3.037-2.881 4.272z"></path>
-      </svg>
-    </a></li>
-    <li><a target="_blank" href="https://linkedin.com/in/stephenherko">
-      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
-      <path fill="#444444" class="footer-icon" d="M12 12h5.535v2.837h0.079c0.77-1.381 2.655-2.837 5.464-2.837 5.842 0 6.922 3.637 6.922 8.367v9.633h-5.769v-8.54c0-2.037-0.042-4.657-3.001-4.657-3.005 0-3.463 2.218-3.463 4.509v8.688h-5.767v-18z"></path>
-      <path fill="#444444" class="footer-icon" d="M2 12h6v18h-6v-18z"></path>
-      <path fill="#444444" class="footer-icon" d="M8 7c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path>
-      </svg>
-    </a></li>
-  </ul> -->
   <div class="container">
     <div class="grid col-6 push-top-XXL push-down-XXL">
       <div>
-        <h2>Stephen Herko</h2>
+        <h2 title="Stephen Herko">Stephen Herko</h2>
         <small>&copy; Copyright 2019 stephenherko.com</small>
       </div>
       <div>
-        <nav class="header-nav">
+        <nav class="header-nav" role="navigation" aria-label="footer navigation menu">
           <ul>
             <li><a class="link" href="/">LinkedIn</a></li>
             <li><a class="link" href="/about">About</a></li>
@@ -219,7 +198,7 @@
 <!-- Scripts -->
 <script src="/js/scripts2.js"></script>
 
-<!-- g analytics -->
+<!-- analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
