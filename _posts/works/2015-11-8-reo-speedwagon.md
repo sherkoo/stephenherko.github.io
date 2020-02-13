@@ -7,6 +7,7 @@ categories:
   - works
 description: "New site for REO Speedwagon which was built on a custom responsive Wordpress theme. Tools used to complete this project included scss, bootstrap, and jQuery."
 thumbnail: reo-logo.png
+published: false
 color: "#7b7880"
 tags:
   - Web Development
