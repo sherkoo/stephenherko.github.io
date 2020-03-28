@@ -22,6 +22,22 @@ Assuming Jekyll is installed, and this repo is cloned
 
 This site is hosted on GitHub pages. Just push the master branch to deploy.
 
+## Posting New work
+Posts for new work are found in ```_posts/work```
+
+### Images
+Since markdown wraps images in a ```<p>``` tag. This makes it difficult to style images independently of the text. To make images larger than the width of the paragraph styles, wrap them in a ```<div>``` tag.
+
+To keep images inline (same width as the copy) simply use markdown for images
+```![](/path/to/img)```
+
+### Example
+```
+<div>
+  <img src="/path to image" alt="">
+</div>
+```
+
 ## Built With
 * [Jekyll](https://jekyllrb.com/) - The web framework used
 * [SASS](https://sass-lang.com/) - Styling & CSS management
@@ -38,5 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 * Thanks to github pages for hosting
-
-![Alt text](https://github.com/stephenherko/stephenherko.github.io/blob/master/img/screenshot.png)

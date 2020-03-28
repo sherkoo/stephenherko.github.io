@@ -1,12 +1,13 @@
 ---
-layout: work
+layout: post
 title: Design System
 slug: design-system
 date: 2019-01-09 15:44:10
 categories:
-  - works
+  - work
 description: "When the UX team was approached to develop a new visual design system for our e-commerce client, there was a lot of questions that needed to be discussed. Large E-commerce sites preset their own set of unique challenges and needs. Typography plays a big role in this. Between product titles, prices, descriptions, bullet points, urgency tags, and etc."
 thumbnail: illustration-2.jpg
+masthead: illustration-2.jpg
 color: "#3a4c95"
 published: false
 tags:

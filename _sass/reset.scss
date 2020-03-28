@@ -1,55 +1,70 @@
-// HTML reset
-
 *{
   box-sizing: border-box;
 }
 
 body{
-  font-family: $font-heading;
-  font-size: $L;
-  line-height: $XXL;
+  color: $color-chalkboard;
+  background-color: $color-light;
+  font-family: $font-family;
+  // font-family: 'Sumana', serif;
+  font-size: 1em;
+}
+
+h1,h2,h3,h4,h5{
+  font-weight: 400;
+  // letter-spacing: -1px;
   color: $color-dark;
-  margin: 0;
-  display: none;
-  letter-spacing: -1px;
+  // font-family: 'Sumana', serif;
+  font-family: $font-family;
 }
 
-ul{
-  margin: 0;
-  padding: 0;
-
-  li{
-    margin: 0 0 0 $XL;
-    padding: 0;
-    // list-style: none;
-  }
+h1{
+  font-size: 40px;
+  line-height: 56px;
+  letter-spacing: -1%;
+  // margin-bottom: 1em;
 }
 
-small{
-  font-size: 14px;
-}
-
-a{
-  text-decoration: none;
-  color: inherit;
-}
-
-img{
-  max-width: 100%;
-  margin: 0 0 24px 0;
-}
-
-h1,h2,h3,h4{
-  margin: 0 0 16px 0;
-  font-weight: $font-weight-bold;
-  letter-spacing: -1px;
-  font-size: $L;
+h2{
+  font-size: 2em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  // letter-spacing: -0.02em;
 }
 
 p{
-  margin: 0 0 $XL 0;
+  margin-top: 0;
+  margin-bottom: 3em;
+  font-size: 1.25em;
+  color: $color-smoke;
+  line-height: 1.75em;
+}
+
+a{
+  color: $color-dark;
+  font-size: 1.25em;
 }
 
 br{
-  height: $L;
+  height: 24px;
+  display: block;
+}
+
+blockquote{
+  font-size: 2em;
+  font-style: italic;
+}
+
+.text-align--center{
+  text-align: center;
+}
+
+
+img{
+  max-width: 100%;
+  display: inline-block;
+}
+
+@media(max-width: 414px){
+
 }

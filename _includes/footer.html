@@ -1,25 +1,25 @@
-<footer class="footer">
+<footer class="footer text-align--center">
   <div class="container">
-    <div class="grid col-6 push-top-XXL push-down-XXL">
-      <div>
-        <h2 title="{{ site.title }}">{{ site.title }}</h2>
-        <small>&copy; Copyright {{ 'now' | date: "%Y" }} stephenherko.com</small>
-      </div>
-      <div>
-        <nav class="header-nav" role="navigation" aria-label="footer navigation menu">
-          <ul>
-            <li><a class="link" href="{{ site.baseurl }}/">LinkedIn</a></li>
-            <li><a class="link" href="{{ site.baseurl }}/about">About</a></li>
-            <li><a href="mailto:{{ site.email }}?Subject=Hello">Contact</a></li>
-          </ul>
-        </nav>
-      </div>
-    </div>
+    <nav class="footer-nav">
+      <a target="_blank" href="https://linkedin.com/{{ site.linkedin_username }}">
+        <img src="/img/icons/linkedin.svg" alt="linkedin">
+      </a>
+
+      <a target="_blank" href="https://pinterest.com/{{ site.pinterest_username }}">
+        <img src="/img/icons/pinterest.svg" alt="pinterest">
+      </a>
+
+      <a href="mailto:{{ site.email }}?Subject=Hello"">
+        <img src="/img/icons/mail.svg" alt="contact me">
+      </a>
+    </nav>
+
+    <small>&copy; Copyright {{ 'now' | date: "%Y" }} stephenherko.com</small>
   </div>
 </footer>
 
 <!-- Scripts -->
-<script src="{{ "/js/scripts2.js" | prepend: site.baseurl }}"></script>
+<!-- <script src="/assets/scripts/scripts.js"></script> -->
 
 <!-- analytics -->
 <script>
@@ -31,6 +31,3 @@
   ga('create', 'UA-18902143-1', 'auto');
   ga('send', 'pageview');
 </script>
-
-</body>
-</html>

@@ -1,38 +1,30 @@
 ---
-layout: work
+layout: post
 title:  "Mobile Checkout"
 slug: mobile-checkout
 date:   2015-11-04 15:44:10
 categories:
-  - works
+  - work
 description: "Improving conversion on an existing checkout process"
 thumbnail: shoe-1.jpg
 color: "blue"
+published: false
 tags:
   - UI Design
   - UX Design
   - Research
 ---
 
-<div class="container">
-  <div class="grid push-down-XXL">
-    <img src="/img/work/mobile-checkout/shoe-5.png" alt="">
-  </div>
+Improving conversion on an existing checkout process
 
-  <div class="grid col-8-4">
-    <div>
-      <h2 class="display">Service Blueprint</h2>
-    </div>
-    <div></div>
-  </div>
+![](/img/mobile-checkout/mobile-checkout/shoe-5.png)
 
-  <img src="/img/work/mobile-checkout/shoe-6.jpeg" alt="">
+## Service Blueprint
 
-  <img src="/img/work/mobile-checkout/shoe-7.jpeg" alt="">
+![](/img/mobile-checkout/mobile-checkout/shoe-6.jpeg)
 
-  <img src="/img/work/mobile-checkout/shoe-2.jpg" alt="">
+![](/img/mobile-checkout/mobile-checkout/shoe-7.jpeg)
 
-  <img src="/img/work/mobile-checkout/shoe-1.jpg" alt="">
+![](/img/mobile-checkout/mobile-checkout/shoe-2.jpg)
 
-  <!-- ![](/img/work/shoe/shoe-3.jpg) -->
-</div>
+![](/img/mobile-checkout/mobile-checkout/shoe-1.jpg)

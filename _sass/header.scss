@@ -1,43 +1,13 @@
 .header{
-  padding: $XXL 0 64px 0;
-
-  @media(max-width: $breakpoint-S){
-    padding: $L 0 64px 0;
-  }
-
-  @media(max-width: $breakpoint-S){
-    padding: $L 0;
-    margin-bottom: $XXL;
-  }
-
-  // .container{
-  //   overflow: auto;
-  //   clear: both;
-  // }
+  padding-top: 72px;
 }
 
-// .header-logo{
-//   float: left;
-//   margin: 0 $XL 0 0;
-//   line-height: $L;
-//   color: $color-dark;
-// }
+.header-logo{
+  font-size: 20px;
 
-.header-nav{
-  // float: left;
-  // margin: 0px;
-  // line-height: $L;
-  // font-family: $font-body;
+  a{
+    text-decoration: none;
+    color: $color-smoke;
 
-  li{
-    display: inline-block;
-    margin: 0 $L 0 0;
-
-    a{
-
-      &:hover{
-        color: $color-blue;
-      }
-    }
   }
 }
