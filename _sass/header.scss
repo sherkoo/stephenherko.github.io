@@ -1,5 +1,5 @@
 .header{
-  padding-top: 72px;
+  padding-top: 4em;
 }
 
 .header-logo{
@@ -9,5 +9,11 @@
     text-decoration: none;
     color: $color-chalkboard;
 
+  }
+}
+
+@media(max-width: $breakpoint-mobile){
+  .header{
+    padding-top: 1em;
   }
 }
