@@ -8,7 +8,7 @@ categories: work
 
 # Welcome,
 
-I'm a product designer working in the tech field because I have an unending interest in human behavior. I've always been the "observing" type throughout my life, absorbing information and seeing how other people interact with each other. I approach all projects with the scientific method searching for objectivity and truth. My interest for user experience and psychology continues to grow and develop. I believe developing a deep understanding of human and social behavior, and prototyping (a lot) is the key to good product design.
+I'm a product designer working in the tech field. I approach all projects with the scientific method searching for objectivity and truth. I believe developing a deep understanding of social behavior, and prototyping (a lot) is the key to good product design.
 
 ## Solving Problems Through Empathy & Research
 

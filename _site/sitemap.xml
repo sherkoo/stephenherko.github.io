@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>/playit</loc>
+      <loc>http://localhost:4000/playit</loc>
       
         <lastmod>2019-01-01T09:44:10-06:00</lastmod>
       
@@ -11,7 +11,7 @@
     </url>
   
     <url>
-      <loc>/ecoach</loc>
+      <loc>http://localhost:4000/ecoach</loc>
       
         <lastmod>2018-11-04T09:44:10-06:00</lastmod>
       
@@ -20,7 +20,7 @@
     </url>
   
     <url>
-      <loc>/pvp-live</loc>
+      <loc>http://localhost:4000/pvp-live</loc>
       
         <lastmod>2015-11-09T09:44:10-06:00</lastmod>
       
@@ -29,7 +29,7 @@
     </url>
   
     <url>
-      <loc>/illustration</loc>
+      <loc>http://localhost:4000/illustration</loc>
       
         <lastmod>2015-11-05T09:44:10-06:00</lastmod>
       
@@ -52,7 +52,7 @@
   
     
       <url>
-        <loc>/feed.xml</loc>
+        <loc>http://localhost:4000/feed.xml</loc>
         <lastmod></lastmod>
         <changefreq></changefreq>
         <priority></priority>
